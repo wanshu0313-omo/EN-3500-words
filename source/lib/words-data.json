@@ -1,0 +1,9922 @@
+[
+  {
+    "id": 1,
+    "word": "being",
+    "pos": "n.",
+    "meaning": "存在；生物",
+    "meaningJa": "存在；生き物",
+    "related": "existence",
+    "phrase": "a human being"
+  },
+  {
+    "id": 2,
+    "word": "government",
+    "pos": "n.",
+    "meaning": "政府；治理",
+    "meaningJa": "政府；統治",
+    "related": "the authorities",
+    "phrase": "local government"
+  },
+  {
+    "id": 3,
+    "word": "found",
+    "pos": "v.",
+    "meaning": "建立；创办",
+    "meaningJa": "を設立する",
+    "related": "establish",
+    "phrase": "found a company"
+  },
+  {
+    "id": 4,
+    "word": "given",
+    "pos": "prep.",
+    "meaning": "考虑到；鉴于",
+    "meaningJa": "〜を仮定［考慮］すれば",
+    "related": "considering",
+    "phrase": "given the circumstances"
+  },
+  {
+    "id": 5,
+    "word": "state",
+    "pos": "v.",
+    "meaning": "陈述；说明",
+    "meaningJa": "を述べる，表明する",
+    "related": "assert",
+    "phrase": "state a reason"
+  },
+  {
+    "id": 6,
+    "word": "council",
+    "pos": "n.",
+    "meaning": "地方议会；委员会",
+    "meaningJa": "（地方）議会",
+    "related": "local authority",
+    "phrase": "the city council"
+  },
+  {
+    "id": 7,
+    "word": "available",
+    "pos": "adj.",
+    "meaning": "可获得的；可使用的",
+    "meaningJa": "入手できる；利用できる",
+    "related": "accessible",
+    "phrase": "available resources"
+  },
+  {
+    "id": 8,
+    "word": "saw",
+    "pos": "n.",
+    "meaning": "锯子",
+    "meaningJa": "のこぎり",
+    "related": "cutting tool",
+    "phrase": "a hand saw"
+  },
+  {
+    "id": 9,
+    "word": "means",
+    "pos": "n.",
+    "meaning": "手段；方法",
+    "meaningJa": "手段，方法",
+    "related": "method",
+    "phrase": "a means of transport"
+  },
+  {
+    "id": 10,
+    "word": "likely",
+    "pos": "adj.",
+    "meaning": "可能的",
+    "meaningJa": "ありそうな，予想される",
+    "related": "probable",
+    "phrase": "be likely to happen"
+  },
+  {
+    "id": 11,
+    "word": "therefore",
+    "pos": "adv.",
+    "meaning": "因此；所以",
+    "meaningJa": "それ故に，従って",
+    "related": "as a result",
+    "phrase": "therefore necessary"
+  },
+  {
+    "id": 12,
+    "word": "evidence",
+    "pos": "n.",
+    "meaning": "证据",
+    "meaningJa": "証拠；証言",
+    "related": "proof",
+    "phrase": "scientific evidence"
+  },
+  {
+    "id": 13,
+    "word": "range",
+    "pos": "n.",
+    "meaning": "范围；领域",
+    "meaningJa": "範囲，領域",
+    "related": "scope",
+    "phrase": "a wide range of"
+  },
+  {
+    "id": 14,
+    "word": "thus",
+    "pos": "adv.",
+    "meaning": "因此；如此",
+    "meaningJa": "このように；従って",
+    "related": "thereby",
+    "phrase": "thus reducing costs"
+  },
+  {
+    "id": 15,
+    "word": "individual",
+    "pos": "adj.",
+    "meaning": "个别的；个人的",
+    "meaningJa": "個々の；個人の",
+    "related": "separate",
+    "phrase": "individual needs"
+  },
+  {
+    "id": 16,
+    "word": "committee",
+    "pos": "n.",
+    "meaning": "委员会",
+    "meaningJa": "委員会",
+    "related": "panel",
+    "phrase": "a research committee"
+  },
+  {
+    "id": 17,
+    "word": "indeed",
+    "pos": "adv.",
+    "meaning": "确实；实际上",
+    "meaningJa": "本当に；実に；実際は",
+    "related": "really",
+    "phrase": "very useful indeed"
+  },
+  {
+    "id": 18,
+    "word": "authority",
+    "pos": "n.",
+    "meaning": "权力；权威；当局",
+    "meaningJa": "権威；権限；権威者；当局",
+    "related": "power",
+    "phrase": "local authority"
+  },
+  {
+    "id": 19,
+    "word": "union",
+    "pos": "n.",
+    "meaning": "工会；联合组织",
+    "meaningJa": "（労働）組合",
+    "related": "association",
+    "phrase": "a trade union"
+  },
+  {
+    "id": 20,
+    "word": "figure",
+    "pos": "n.",
+    "meaning": "数字；人物",
+    "meaningJa": "数字；人物",
+    "related": "number",
+    "phrase": "a historical figure"
+  },
+  {
+    "id": 21,
+    "word": "practice",
+    "pos": "n.",
+    "meaning": "惯例；实践",
+    "meaningJa": "慣習；実践",
+    "related": "custom",
+    "phrase": "common practice"
+  },
+  {
+    "id": 22,
+    "word": "former",
+    "pos": "adj.",
+    "meaning": "以前的；前者的",
+    "meaningJa": "以前の；（the 〜）前者",
+    "related": "previous",
+    "phrase": "a former teacher"
+  },
+  {
+    "id": 23,
+    "word": "issue",
+    "pos": "n.",
+    "meaning": "问题；争议点",
+    "meaningJa": "問題；争点",
+    "related": "matter",
+    "phrase": "an environmental issue"
+  },
+  {
+    "id": 24,
+    "word": "stage",
+    "pos": "n.",
+    "meaning": "阶段；舞台",
+    "meaningJa": "段階；舞台",
+    "related": "phase",
+    "phrase": "at an early stage"
+  },
+  {
+    "id": 25,
+    "word": "various",
+    "pos": "adj.",
+    "meaning": "各种各样的",
+    "meaningJa": "さまざまな",
+    "related": "different",
+    "phrase": "various reasons"
+  },
+  {
+    "id": 26,
+    "word": "basis",
+    "pos": "n.",
+    "meaning": "基础；根据",
+    "meaningJa": "基礎；根拠",
+    "related": "foundation",
+    "phrase": "on a regular basis"
+  },
+  {
+    "id": 27,
+    "word": "despite",
+    "pos": "prep.",
+    "meaning": "尽管",
+    "meaningJa": "〜にもかかわらず",
+    "related": "in spite of",
+    "phrase": "despite the difficulty"
+  },
+  {
+    "id": 28,
+    "word": "structure",
+    "pos": "n.",
+    "meaning": "结构；构造",
+    "meaningJa": "構造，構成",
+    "related": "framework",
+    "phrase": "the structure of society"
+  },
+  {
+    "id": 29,
+    "word": "capital",
+    "pos": "n.",
+    "meaning": "首都；资本",
+    "meaningJa": "首都；資本",
+    "related": "the seat of government",
+    "phrase": "the capital city"
+  },
+  {
+    "id": 30,
+    "word": "per",
+    "pos": "prep.",
+    "meaning": "每；每一",
+    "meaningJa": "〜につき，〜ごとに",
+    "related": "for each",
+    "phrase": "per person"
+  },
+  {
+    "id": 31,
+    "word": "agreement",
+    "pos": "n.",
+    "meaning": "协议；一致意见",
+    "meaningJa": "合意；協定",
+    "related": "consensus",
+    "phrase": "reach an agreement"
+  },
+  {
+    "id": 32,
+    "word": "population",
+    "pos": "n.",
+    "meaning": "人口",
+    "meaningJa": "人口",
+    "related": "residents",
+    "phrase": "population growth"
+  },
+  {
+    "id": 33,
+    "word": "legal",
+    "pos": "adj.",
+    "meaning": "法律的；合法的",
+    "meaningJa": "法律の；合法的な",
+    "related": "legitimate",
+    "phrase": "legal advice"
+  },
+  {
+    "id": 34,
+    "word": "fine",
+    "pos": "n.",
+    "meaning": "罚款",
+    "meaningJa": "罰金；科料",
+    "related": "penalty",
+    "phrase": "pay a fine"
+  },
+  {
+    "id": 35,
+    "word": "theory",
+    "pos": "n.",
+    "meaning": "理论；学说",
+    "meaningJa": "理論，学説",
+    "related": "hypothesis",
+    "phrase": "in theory"
+  },
+  {
+    "id": 36,
+    "word": "growth",
+    "pos": "n.",
+    "meaning": "增长；发展",
+    "meaningJa": "増加，成長",
+    "related": "development",
+    "phrase": "economic growth"
+  },
+  {
+    "id": 37,
+    "word": "relationship",
+    "pos": "n.",
+    "meaning": "关系；联系",
+    "meaningJa": "関係，関連",
+    "related": "connection",
+    "phrase": "a close relationship"
+  },
+  {
+    "id": 38,
+    "word": "property",
+    "pos": "n.",
+    "meaning": "财产；特性",
+    "meaningJa": "財産；特性",
+    "related": "estate",
+    "phrase": "private property"
+  },
+  {
+    "id": 39,
+    "word": "term",
+    "pos": "n.",
+    "meaning": "术语；用语",
+    "meaningJa": "専門用語；期間",
+    "related": "word",
+    "phrase": "a technical term"
+  },
+  {
+    "id": 40,
+    "word": "throughout",
+    "pos": "prep.",
+    "meaning": "遍及；贯穿",
+    "meaningJa": "〜の至る所に",
+    "related": "all over",
+    "phrase": "throughout the year"
+  },
+  {
+    "id": 41,
+    "word": "previous",
+    "pos": "adj.",
+    "meaning": "以前的；先前的",
+    "meaningJa": "以前の；前の",
+    "related": "prior",
+    "phrase": "previous experience"
+  },
+  {
+    "id": 42,
+    "word": "firm",
+    "pos": "n.",
+    "meaning": "公司；企业",
+    "meaningJa": "会社，企業",
+    "related": "company",
+    "phrase": "a law firm"
+  },
+  {
+    "id": 43,
+    "word": "significant",
+    "pos": "adj.",
+    "meaning": "重要的；显著的",
+    "meaningJa": "重要な；意義深い；相当の",
+    "related": "important",
+    "phrase": "a significant change"
+  },
+  {
+    "id": 44,
+    "word": "income",
+    "pos": "n.",
+    "meaning": "收入",
+    "meaningJa": "収入，所得",
+    "related": "earnings",
+    "phrase": "annual income"
+  },
+  {
+    "id": 45,
+    "word": "contract",
+    "pos": "n.",
+    "meaning": "合同；契约",
+    "meaningJa": "契約；協定",
+    "related": "agreement",
+    "phrase": "sign a contract"
+  },
+  {
+    "id": 46,
+    "word": "consider",
+    "pos": "v.",
+    "meaning": "考虑；认为",
+    "meaningJa": "を〜と見なす；を熟考する",
+    "related": "regard",
+    "phrase": "consider the options"
+  },
+  {
+    "id": 47,
+    "word": "attempt",
+    "pos": "v.",
+    "meaning": "尝试",
+    "meaningJa": "を試みる",
+    "related": "try",
+    "phrase": "attempt to solve"
+  },
+  {
+    "id": 48,
+    "word": "specific",
+    "pos": "adj.",
+    "meaning": "特定的；明确的",
+    "meaningJa": "特定の；明確な",
+    "related": "particular",
+    "phrase": "a specific example"
+  },
+  {
+    "id": 49,
+    "word": "claim",
+    "pos": "v.",
+    "meaning": "声称；主张",
+    "meaningJa": "を主張する",
+    "related": "assert",
+    "phrase": "claim that something is true"
+  },
+  {
+    "id": 50,
+    "word": "leading",
+    "pos": "adj.",
+    "meaning": "主要的；领先的",
+    "meaningJa": "主要な；第一級の",
+    "related": "chief",
+    "phrase": "a leading expert"
+  },
+  {
+    "id": 51,
+    "word": "potential",
+    "pos": "n.",
+    "meaning": "潜力；可能性",
+    "meaningJa": "潜在力，可能性",
+    "related": "capacity",
+    "phrase": "reach your potential"
+  },
+  {
+    "id": 52,
+    "word": "demand",
+    "pos": "v.",
+    "meaning": "要求",
+    "meaningJa": "を要求する",
+    "related": "insist",
+    "phrase": "demand an explanation"
+  },
+  {
+    "id": 53,
+    "word": "unless",
+    "pos": "conj.",
+    "meaning": "除非",
+    "meaningJa": "〜でなければ",
+    "related": "if … not",
+    "phrase": "unless otherwise stated"
+  },
+  {
+    "id": 54,
+    "word": "access",
+    "pos": "n.",
+    "meaning": "使用权；接近的机会",
+    "meaningJa": "利用の権利；接近",
+    "related": "permission",
+    "phrase": "access to education"
+  },
+  {
+    "id": 55,
+    "word": "independent",
+    "pos": "adj.",
+    "meaning": "独立的",
+    "meaningJa": "独立した",
+    "related": "autonomous",
+    "phrase": "independent research"
+  },
+  {
+    "id": 56,
+    "word": "benefit",
+    "pos": "n.",
+    "meaning": "好处；利益；津贴",
+    "meaningJa": "恩恵；利益；手当，給付",
+    "related": "advantage",
+    "phrase": "health benefits"
+  },
+  {
+    "id": 57,
+    "word": "employment",
+    "pos": "n.",
+    "meaning": "就业；雇用",
+    "meaningJa": "職；雇用",
+    "related": "work",
+    "phrase": "employment opportunities"
+  },
+  {
+    "id": 58,
+    "word": "sales",
+    "pos": "n.",
+    "meaning": "销售额；销售部门",
+    "meaningJa": "売上高；販売部門",
+    "related": "revenue",
+    "phrase": "sales figures"
+  },
+  {
+    "id": 59,
+    "word": "influence",
+    "pos": "n.",
+    "meaning": "影响；作用",
+    "meaningJa": "影響；効果",
+    "related": "effect",
+    "phrase": "a positive influence"
+  },
+  {
+    "id": 60,
+    "word": "concern",
+    "pos": "v.",
+    "meaning": "涉及；使担忧",
+    "meaningJa": "に関係する；を心配させる",
+    "related": "be related to",
+    "phrase": "issues that concern us"
+  },
+  {
+    "id": 61,
+    "word": "application",
+    "pos": "n.",
+    "meaning": "申请；应用",
+    "meaningJa": "申請；適用",
+    "related": "request",
+    "phrase": "a job application"
+  },
+  {
+    "id": 62,
+    "word": "suppose",
+    "pos": "v.",
+    "meaning": "认为；推测",
+    "meaningJa": "と思う，推測する",
+    "related": "assume",
+    "phrase": "suppose that this is true"
+  },
+  {
+    "id": 63,
+    "word": "immediately",
+    "pos": "adv.",
+    "meaning": "立即；马上",
+    "meaningJa": "すぐに，直ちに",
+    "related": "instantly",
+    "phrase": "respond immediately"
+  },
+  {
+    "id": 64,
+    "word": "opportunity",
+    "pos": "n.",
+    "meaning": "机会",
+    "meaningJa": "機会，好機",
+    "related": "chance",
+    "phrase": "an opportunity to learn"
+  },
+  {
+    "id": 65,
+    "word": "film",
+    "pos": "n.",
+    "meaning": "电影；薄膜",
+    "meaningJa": "映画；薄膜",
+    "related": "movie",
+    "phrase": "a documentary film"
+  },
+  {
+    "id": 66,
+    "word": "trust",
+    "pos": "n.",
+    "meaning": "信任；信赖",
+    "meaningJa": "信頼，信用",
+    "related": "faith",
+    "phrase": "build trust"
+  },
+  {
+    "id": 67,
+    "word": "effective",
+    "pos": "adj.",
+    "meaning": "有效的",
+    "meaningJa": "効果的な，有効な",
+    "related": "efficient",
+    "phrase": "an effective solution"
+  },
+  {
+    "id": 68,
+    "word": "region",
+    "pos": "n.",
+    "meaning": "地区；区域",
+    "meaningJa": "地域，地帯",
+    "related": "area",
+    "phrase": "a coastal region"
+  },
+  {
+    "id": 69,
+    "word": "degree",
+    "pos": "n.",
+    "meaning": "程度",
+    "meaningJa": "程度，度合",
+    "related": "level",
+    "phrase": "to some degree"
+  },
+  {
+    "id": 70,
+    "word": "traditional",
+    "pos": "adj.",
+    "meaning": "传统的；惯例的",
+    "meaningJa": "伝統的な；因習的な",
+    "related": "conventional",
+    "phrase": "traditional methods"
+  },
+  {
+    "id": 71,
+    "word": "election",
+    "pos": "n.",
+    "meaning": "选举",
+    "meaningJa": "選挙；当選",
+    "related": "poll",
+    "phrase": "a general election"
+  },
+  {
+    "id": 72,
+    "word": "parliament",
+    "pos": "n.",
+    "meaning": "议会；国会",
+    "meaningJa": "議会；会期",
+    "related": "legislature",
+    "phrase": "a member of parliament"
+  },
+  {
+    "id": 73,
+    "word": "review",
+    "pos": "n.",
+    "meaning": "审查；评论",
+    "meaningJa": "調査，検討",
+    "related": "examination",
+    "phrase": "a literature review"
+  },
+  {
+    "id": 74,
+    "word": "species",
+    "pos": "n.",
+    "meaning": "物种",
+    "meaningJa": "（生物の）種",
+    "related": "kind",
+    "phrase": "an endangered species"
+  },
+  {
+    "id": 75,
+    "word": "supply",
+    "pos": "v.",
+    "meaning": "供应；提供",
+    "meaningJa": "を供給する，支給する",
+    "related": "provide",
+    "phrase": "supply clean water"
+  },
+  {
+    "id": 76,
+    "word": "moving",
+    "pos": "adj.",
+    "meaning": "感人的",
+    "meaningJa": "感動的な",
+    "related": "touching",
+    "phrase": "a moving story"
+  },
+  {
+    "id": 77,
+    "word": "considerable",
+    "pos": "adj.",
+    "meaning": "相当大的；可观的",
+    "meaningJa": "かなりの，相当の",
+    "related": "substantial",
+    "phrase": "considerable progress"
+  },
+  {
+    "id": 78,
+    "word": "physical",
+    "pos": "adj.",
+    "meaning": "身体的；物质的",
+    "meaningJa": "身体の；物質的な",
+    "related": "bodily",
+    "phrase": "physical activity"
+  },
+  {
+    "id": 79,
+    "word": "complex",
+    "pos": "adj.",
+    "meaning": "复杂的",
+    "meaningJa": "複雑な；複合（体）の",
+    "related": "complicated",
+    "phrase": "a complex problem"
+  },
+  {
+    "id": 80,
+    "word": "responsibility",
+    "pos": "n.",
+    "meaning": "责任；职责",
+    "meaningJa": "責任，義務",
+    "related": "duty",
+    "phrase": "take responsibility for"
+  },
+  {
+    "id": 81,
+    "word": "opposition",
+    "pos": "n.",
+    "meaning": "反对；对立",
+    "meaningJa": "反対，敵対",
+    "related": "resistance",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 82,
+    "word": "division",
+    "pos": "n.",
+    "meaning": "分割；分离",
+    "meaningJa": "分割；分離",
+    "related": "split",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 83,
+    "word": "surface",
+    "pos": "n.",
+    "meaning": "表面；外表",
+    "meaningJa": "表面，外面",
+    "related": "face",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 84,
+    "word": "equipment",
+    "pos": "n.",
+    "meaning": "设备；器材",
+    "meaningJa": "設備，備品",
+    "related": "apparatus",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 85,
+    "word": "suggest",
+    "pos": "v.",
+    "meaning": "暗示；建议",
+    "meaningJa": "を示唆する；を提案する",
+    "related": "imply",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 86,
+    "word": "exchange",
+    "pos": "n.",
+    "meaning": "交换；交流；外汇",
+    "meaningJa": "交換；交流；為替",
+    "related": "replacement",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 87,
+    "word": "otherwise",
+    "pos": "adv.",
+    "meaning": "否则",
+    "meaningJa": "そうでなければ",
+    "related": "or else",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 88,
+    "word": "essential",
+    "pos": "adj.",
+    "meaning": "必不可少的；本质的",
+    "meaningJa": "必要不可欠な；本質的な",
+    "related": "vital",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 89,
+    "word": "function",
+    "pos": "n.",
+    "meaning": "功能；作用",
+    "meaningJa": "機能，作用",
+    "related": "purpose",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 90,
+    "word": "slightly",
+    "pos": "adv.",
+    "meaning": "稍微；略微",
+    "meaningJa": "少し，わずかに",
+    "related": "a little",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 91,
+    "word": "aid",
+    "pos": "n.",
+    "meaning": "援助；帮助；辅助器具",
+    "meaningJa": "援助；手伝い；補助器具",
+    "related": "assistance",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 92,
+    "word": "transport",
+    "pos": "n.",
+    "meaning": "运输",
+    "meaningJa": "輸送，運輸",
+    "related": "transportation",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 93,
+    "word": "direction",
+    "pos": "n.",
+    "meaning": "指示；指导；方向",
+    "meaningJa": "指示；指導；方向",
+    "related": "instruction",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 94,
+    "word": "civil",
+    "pos": "adj.",
+    "meaning": "民间的；公民的",
+    "meaningJa": "民間の，一般市民の",
+    "related": "public",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 95,
+    "word": "hardly",
+    "pos": "adv.",
+    "meaning": "几乎不",
+    "meaningJa": "ほとんど〜ない",
+    "related": "barely",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 96,
+    "word": "obvious",
+    "pos": "adj.",
+    "meaning": "明显的",
+    "meaningJa": "明白な",
+    "related": "apparent",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 97,
+    "word": "organisation",
+    "pos": "n.",
+    "meaning": "组织；团体",
+    "meaningJa": "組織，団体",
+    "related": "association",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 98,
+    "word": "argument",
+    "pos": "n.",
+    "meaning": "争论；讨论",
+    "meaningJa": "論争；議論；口論",
+    "related": "debate",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 99,
+    "word": "patient",
+    "pos": "adj.",
+    "meaning": "有耐心的",
+    "meaningJa": "忍耐強い，我慢強い",
+    "related": "tolerant",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 100,
+    "word": "principle",
+    "pos": "n.",
+    "meaning": "原则；信条",
+    "meaningJa": "原則；信条",
+    "related": "rule",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 101,
+    "word": "stock",
+    "pos": "n.",
+    "meaning": "库存；储备；股票",
+    "meaningJa": "在庫品；蓄え；株式",
+    "related": "inventory",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 102,
+    "word": "district",
+    "pos": "n.",
+    "meaning": "地区",
+    "meaningJa": "地方，地域",
+    "related": "area",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 103,
+    "word": "executive",
+    "pos": "n.",
+    "meaning": "主管；高级管理人员",
+    "meaningJa": "重役，幹部",
+    "related": "director",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 104,
+    "word": "neither",
+    "pos": "adv.",
+    "meaning": "两者都不",
+    "meaningJa": "〈neither 〜 nor ... で〉〜でも…でもない",
+    "related": "not ... either",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 105,
+    "word": "duty",
+    "pos": "n.",
+    "meaning": "义务；关税",
+    "meaningJa": "義務；関税",
+    "related": "responsibility",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 106,
+    "word": "presence",
+    "pos": "n.",
+    "meaning": "存在；在场",
+    "meaningJa": "存在，実在",
+    "related": "being",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 107,
+    "word": "avoid",
+    "pos": "v.",
+    "meaning": "避免",
+    "meaningJa": "を避ける",
+    "related": "prevent",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 108,
+    "word": "relatively",
+    "pos": "adv.",
+    "meaning": "比较地；相对地",
+    "meaningJa": "比較的；相対的に",
+    "related": "comparatively",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 109,
+    "word": "failure",
+    "pos": "n.",
+    "meaning": "失败；失败之作；不及格",
+    "meaningJa": "失敗；失敗作；落第（点）",
+    "related": "blunder",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 110,
+    "word": "marriage",
+    "pos": "n.",
+    "meaning": "结婚；婚姻",
+    "meaningJa": "結婚，婚姻",
+    "related": "↔ divorce",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 111,
+    "word": "due",
+    "pos": "adj.",
+    "meaning": "预定的；到期的",
+    "meaningJa": "（日時に）予定された",
+    "related": "expected",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 112,
+    "word": "practical",
+    "pos": "adj.",
+    "meaning": "实际的；实用的",
+    "meaningJa": "実際的な，実践的な",
+    "related": "pragmatic",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 113,
+    "word": "latter",
+    "pos": "n.",
+    "meaning": "后者",
+    "meaningJa": "〈the 〜〉後者",
+    "related": "↔ former",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 114,
+    "word": "huge",
+    "pos": "adj.",
+    "meaning": "巨大的；庞大的",
+    "meaningJa": "巨大な；膨大な",
+    "related": "enormous",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 115,
+    "word": "apparently",
+    "pos": "adv.",
+    "meaning": "看起来；似乎",
+    "meaningJa": "見たところでは，どうやら",
+    "related": "seemingly",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 116,
+    "word": "grant",
+    "pos": "v.",
+    "meaning": "同意；授予",
+    "meaningJa": "を聞き入れる；を授与する",
+    "related": "allow",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 117,
+    "word": "applied",
+    "pos": "adj.",
+    "meaning": "应用的；实用的",
+    "meaningJa": "応用の，実用的な",
+    "related": "practical",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 118,
+    "word": "finance",
+    "pos": "n.",
+    "meaning": "财政；金融",
+    "meaningJa": "財政，金融",
+    "related": "funds",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 119,
+    "word": "merely",
+    "pos": "adv.",
+    "meaning": "仅仅",
+    "meaningJa": "単に，ただの",
+    "related": "simply",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 120,
+    "word": "setting",
+    "pos": "n.",
+    "meaning": "情况；背景",
+    "meaningJa": "状況，背景",
+    "related": "context",
+    "phrase": "",
+    "sourcePage": 20
+  },
+  {
+    "id": 121,
+    "word": "quarter",
+    "pos": "n.",
+    "meaning": "四分之一；季度",
+    "meaningJa": "4分の1；4半期",
+    "related": "fourth",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 122,
+    "word": "politics",
+    "pos": "n.",
+    "meaning": "政治",
+    "meaningJa": "政治",
+    "related": "government",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 123,
+    "word": "justice",
+    "pos": "n.",
+    "meaning": "正义；公正",
+    "meaningJa": "正義，公正",
+    "related": "fairness",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 124,
+    "word": "credit",
+    "pos": "n.",
+    "meaning": "称赞；功绩；信用",
+    "meaningJa": "称賛；功績；信用",
+    "related": "praise",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 125,
+    "word": "edge",
+    "pos": "n.",
+    "meaning": "边缘；边际",
+    "meaningJa": "縁，端，際",
+    "related": "margin",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 126,
+    "word": "advantage",
+    "pos": "n.",
+    "meaning": "优点；优势",
+    "meaningJa": "利点；優越",
+    "related": "benefit",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 127,
+    "word": "mass",
+    "pos": "n.",
+    "meaning": "块；群体；大量",
+    "meaningJa": "塊；集団；大量",
+    "related": "bulk",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 128,
+    "word": "reduce",
+    "pos": "v.",
+    "meaning": "减少；缩小",
+    "meaningJa": "を減らす，縮小する",
+    "related": "decrease",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 129,
+    "word": "length",
+    "pos": "n.",
+    "meaning": "长度；纵向尺寸",
+    "meaningJa": "長さ；縦の寸法",
+    "related": "↔ width",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 130,
+    "word": "vote",
+    "pos": "v.",
+    "meaning": "投票",
+    "meaningJa": "投票する",
+    "related": "cast a ballot",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 131,
+    "word": "possibly",
+    "pos": "adv.",
+    "meaning": "也许；可能",
+    "meaningJa": "もしかしたら",
+    "related": "perhaps",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 132,
+    "word": "nevertheless",
+    "pos": "adv.",
+    "meaning": "尽管如此",
+    "meaningJa": "それにもかかわらず",
+    "related": "even so",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 133,
+    "word": "insurance",
+    "pos": "n.",
+    "meaning": "保险",
+    "meaningJa": "保険",
+    "related": "assurance",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 134,
+    "word": "strength",
+    "pos": "n.",
+    "meaning": "力量；体力",
+    "meaningJa": "強さ，力；体力",
+    "related": "power",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 135,
+    "word": "crime",
+    "pos": "n.",
+    "meaning": "罪；犯罪",
+    "meaningJa": "罪，犯罪",
+    "related": "illegal act",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 136,
+    "word": "transfer",
+    "pos": "v.",
+    "meaning": "转移；迁移",
+    "meaningJa": "移る，移転する",
+    "related": "move",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 137,
+    "word": "measure",
+    "pos": "n.",
+    "meaning": "措施；手段",
+    "meaningJa": "対策，手段",
+    "related": "action",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 138,
+    "word": "confidence",
+    "pos": "n.",
+    "meaning": "信赖；信心",
+    "meaningJa": "信頼，信用",
+    "related": "trust",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 139,
+    "word": "address",
+    "pos": "v.",
+    "meaning": "着手处理；向…演讲",
+    "meaningJa": "に取り組む；に演説をする",
+    "related": "deal with",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 140,
+    "word": "require",
+    "pos": "v.",
+    "meaning": "需要；要求",
+    "meaningJa": "を必要とする；を要求する",
+    "related": "need",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 141,
+    "word": "domestic",
+    "pos": "adj.",
+    "meaning": "国内的；家庭的",
+    "meaningJa": "国内の；家庭（内）の",
+    "related": "national",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 142,
+    "word": "ordinary",
+    "pos": "adj.",
+    "meaning": "普通的；一般的",
+    "meaningJa": "通常の；並の",
+    "related": "normal",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 143,
+    "word": "previously",
+    "pos": "adv.",
+    "meaning": "以前",
+    "meaningJa": "前に，以前に",
+    "related": "before",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 144,
+    "word": "solution",
+    "pos": "n.",
+    "meaning": "解决办法；溶液",
+    "meaningJa": "解決（法）；溶液；溶解",
+    "related": "resolution",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 145,
+    "word": "entirely",
+    "pos": "adv.",
+    "meaning": "完全地",
+    "meaningJa": "全く，完全に",
+    "related": "totally",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 146,
+    "word": "challenge",
+    "pos": "n.",
+    "meaning": "挑战；难题",
+    "meaningJa": "課題，難題；やりがい",
+    "related": "problem",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 147,
+    "word": "achieve",
+    "pos": "v.",
+    "meaning": "完成；实现",
+    "meaningJa": "を成し遂げる",
+    "related": "accomplish",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 148,
+    "word": "extremely",
+    "pos": "adv.",
+    "meaning": "极其",
+    "meaningJa": "極めて",
+    "related": "exceedingly",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 149,
+    "word": "prevent",
+    "pos": "v.",
+    "meaning": "阻碍；防止",
+    "meaningJa": "を妨げる；を防ぐ",
+    "related": "hinder",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 150,
+    "word": "article",
+    "pos": "n.",
+    "meaning": "文章；物品；条款",
+    "meaningJa": "記事；物品；条項",
+    "related": "report",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 151,
+    "word": "football",
+    "pos": "n.",
+    "meaning": "足球",
+    "meaningJa": "サッカー；フットボール",
+    "related": "soccer",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 152,
+    "word": "fairly",
+    "pos": "adv.",
+    "meaning": "相当地；公平地",
+    "meaningJa": "相当；公平に",
+    "related": "rather",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 153,
+    "word": "increasingly",
+    "pos": "adv.",
+    "meaning": "越来越",
+    "meaningJa": "ますます",
+    "related": "more and more",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 154,
+    "word": "initial",
+    "pos": "adj.",
+    "meaning": "最初的",
+    "meaningJa": "初期の",
+    "related": "early",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 155,
+    "word": "release",
+    "pos": "v.",
+    "meaning": "释放；放出",
+    "meaningJa": "を解放する；を放つ",
+    "related": "discharge",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 156,
+    "word": "existence",
+    "pos": "n.",
+    "meaning": "存在",
+    "meaningJa": "存在，実在",
+    "related": "being",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 157,
+    "word": "latest",
+    "pos": "adj.",
+    "meaning": "最新的",
+    "meaningJa": "最新の",
+    "related": "current",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 158,
+    "word": "relief",
+    "pos": "n.",
+    "meaning": "安心；减轻",
+    "meaningJa": "安心；軽減",
+    "related": "reassurance",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 159,
+    "word": "detailed",
+    "pos": "adj.",
+    "meaning": "详细的",
+    "meaningJa": "詳細な",
+    "related": "elaborate",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 160,
+    "word": "fund",
+    "pos": "n.",
+    "meaning": "基金；资金",
+    "meaningJa": "基金，資金",
+    "related": "money",
+    "phrase": "",
+    "sourcePage": 21
+  },
+  {
+    "id": 161,
+    "word": "trial",
+    "pos": "n.",
+    "meaning": "尝试；审判",
+    "meaningJa": "試み；裁判",
+    "related": "attempt",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 162,
+    "word": "pick",
+    "pos": "v.",
+    "meaning": "挑选",
+    "meaningJa": "を選ぶ，選択する",
+    "related": "choose",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 163,
+    "word": "distribution",
+    "pos": "n.",
+    "meaning": "分配；流通",
+    "meaningJa": "分配；流通",
+    "related": "allocation",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 164,
+    "word": "factor",
+    "pos": "n.",
+    "meaning": "因素；要素",
+    "meaningJa": "要因，要素",
+    "related": "element",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 165,
+    "word": "feature",
+    "pos": "n.",
+    "meaning": "特征；面貌",
+    "meaningJa": "特徴；顔立ち",
+    "related": "characteristic",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 166,
+    "word": "improve",
+    "pos": "v.",
+    "meaning": "改善；改良",
+    "meaningJa": "を改善［改良］する",
+    "related": "enhance",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 167,
+    "word": "reasonable",
+    "pos": "adj.",
+    "meaning": "有理性的；合理的",
+    "meaningJa": "分別のある；合理的な",
+    "related": "sensible",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 168,
+    "word": "display",
+    "pos": "v.",
+    "meaning": "展示",
+    "meaningJa": "を展示する",
+    "related": "exhibit",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 169,
+    "word": "aircraft",
+    "pos": "n.",
+    "meaning": "飞机；航空器",
+    "meaningJa": "航空機",
+    "related": "aeroplane",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 170,
+    "word": "raise",
+    "pos": "v.",
+    "meaning": "提高；养育",
+    "meaningJa": "を上げる；を育てる",
+    "related": "boost",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 171,
+    "word": "tend",
+    "pos": "v.",
+    "meaning": "倾向于",
+    "meaningJa": "傾向がある",
+    "related": "be prone",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 172,
+    "word": "spread",
+    "pos": "v.",
+    "meaning": "扩展；传播",
+    "meaningJa": "を広げる，広める",
+    "related": "scatter",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 173,
+    "word": "mine",
+    "pos": "n.",
+    "meaning": "矿山",
+    "meaningJa": "鉱山",
+    "related": "pit",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 174,
+    "word": "search",
+    "pos": "v.",
+    "meaning": "寻找；搜寻",
+    "meaningJa": "捜す；探る",
+    "related": "look",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 175,
+    "word": "detail",
+    "pos": "n.",
+    "meaning": "细节",
+    "meaningJa": "詳細；細部",
+    "related": "particulars",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 176,
+    "word": "track",
+    "pos": "v.",
+    "meaning": "追踪",
+    "meaningJa": "の跡を追う",
+    "related": "follow",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 177,
+    "word": "pointed",
+    "pos": "adj.",
+    "meaning": "尖的",
+    "meaningJa": "先のとがった",
+    "related": "acute",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 178,
+    "word": "suitable",
+    "pos": "adj.",
+    "meaning": "合适的",
+    "meaningJa": "適した",
+    "related": "appropriate",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 179,
+    "word": "client",
+    "pos": "n.",
+    "meaning": "委托人；客户",
+    "meaningJa": "依頼人；顧客",
+    "related": "customer",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 180,
+    "word": "content",
+    "pos": "n.",
+    "meaning": "内容；里面的东西",
+    "meaningJa": "中身；内容",
+    "related": "substance",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 181,
+    "word": "immediate",
+    "pos": "adj.",
+    "meaning": "立即的；紧邻的",
+    "meaningJa": "即座の；すぐ隣の",
+    "related": "instantaneous",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 182,
+    "word": "attitude",
+    "pos": "n.",
+    "meaning": "态度；举止",
+    "meaningJa": "態度，物腰",
+    "related": "behaviour",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 183,
+    "word": "profit",
+    "pos": "n.",
+    "meaning": "利润；收益",
+    "meaningJa": "利益，もうけ；収益",
+    "related": "gain",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 184,
+    "word": "sufficient",
+    "pos": "adj.",
+    "meaning": "足够的",
+    "meaningJa": "十分な",
+    "related": "adequate",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 185,
+    "word": "democratic",
+    "pos": "adj.",
+    "meaning": "民主的",
+    "meaningJa": "民主主義の",
+    "related": "parliamentary",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 186,
+    "word": "conflict",
+    "pos": "n.",
+    "meaning": "冲突；争斗",
+    "meaningJa": "争い，闘争",
+    "related": "clash",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 187,
+    "word": "focus",
+    "pos": "v.",
+    "meaning": "集中注意力",
+    "meaningJa": "焦点を絞る",
+    "related": "concentrate",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 188,
+    "word": "crisis",
+    "pos": "n.",
+    "meaning": "危机",
+    "meaningJa": "危機，難局",
+    "related": "emergency",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 189,
+    "word": "ought",
+    "pos": "modal",
+    "meaning": "应该",
+    "meaningJa": "〈ought to do で〉ぜひ〜すべきだ",
+    "related": "should",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 190,
+    "word": "opposite",
+    "pos": "adj.",
+    "meaning": "相反的",
+    "meaningJa": "反対の，逆の",
+    "related": "contrary",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 191,
+    "word": "capacity",
+    "pos": "n.",
+    "meaning": "能力；容量",
+    "meaningJa": "能力，才能；収容能力",
+    "related": "ability",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 192,
+    "word": "recognition",
+    "pos": "n.",
+    "meaning": "认可；认识；认出",
+    "meaningJa": "評価；認識；見覚え",
+    "related": "acclaim",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 193,
+    "word": "absence",
+    "pos": "n.",
+    "meaning": "不在；缺席",
+    "meaningJa": "不在；欠席",
+    "related": "lack",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 194,
+    "word": "totally",
+    "pos": "adv.",
+    "meaning": "完全地",
+    "meaningJa": "全く，完全に",
+    "related": "completely",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 195,
+    "word": "absolutely",
+    "pos": "adv.",
+    "meaning": "完全地",
+    "meaningJa": "全く，完全に",
+    "related": "utterly",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 196,
+    "word": "critical",
+    "pos": "adj.",
+    "meaning": "批评的；重大的",
+    "meaningJa": "批判的な；重大な",
+    "related": "negative",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 197,
+    "word": "necessarily",
+    "pos": "adv.",
+    "meaning": "必然地；一定",
+    "meaningJa": "必然的に；〈否定文で〉必ずしも",
+    "related": "inevitably",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 198,
+    "word": "elsewhere",
+    "pos": "adv.",
+    "meaning": "在别处",
+    "meaningJa": "他のところで",
+    "related": "somewhere else",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 199,
+    "word": "murder",
+    "pos": "n.",
+    "meaning": "谋杀",
+    "meaningJa": "殺人（事件）",
+    "related": "killing",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 200,
+    "word": "prove",
+    "pos": "v.",
+    "meaning": "证明",
+    "meaningJa": "を証明する",
+    "related": "verify",
+    "phrase": "",
+    "sourcePage": 22
+  },
+  {
+    "id": 201,
+    "word": "familiar",
+    "pos": "adj.",
+    "meaning": "熟悉的",
+    "meaningJa": "よく知られている；おなじみの",
+    "related": "well-known",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 202,
+    "word": "threat",
+    "pos": "n.",
+    "meaning": "威胁",
+    "meaningJa": "脅威；脅迫",
+    "related": "menace",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 203,
+    "word": "ideal",
+    "pos": "adj.",
+    "meaning": "理想的",
+    "meaningJa": "理想的な",
+    "related": "perfect",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 204,
+    "word": "occur",
+    "pos": "v.",
+    "meaning": "发生；浮现于脑海",
+    "meaningJa": "起こる；心に浮かぶ",
+    "related": "happen",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 205,
+    "word": "properly",
+    "pos": "adv.",
+    "meaning": "适当地",
+    "meaningJa": "適切に",
+    "related": "appropriately",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 206,
+    "word": "element",
+    "pos": "n.",
+    "meaning": "要素；成分",
+    "meaningJa": "要素，成分",
+    "related": "component",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 207,
+    "word": "violence",
+    "pos": "n.",
+    "meaning": "暴力",
+    "meaningJa": "暴力；暴行",
+    "related": "brutality",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 208,
+    "word": "discuss",
+    "pos": "v.",
+    "meaning": "讨论",
+    "meaningJa": "について議論する",
+    "related": "debate",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 209,
+    "word": "cell",
+    "pos": "n.",
+    "meaning": "细胞；电池；小隔间",
+    "meaningJa": "細胞；電池；小個室",
+    "related": "tissue",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 210,
+    "word": "closely",
+    "pos": "adv.",
+    "meaning": "密切地；仔细地；严密地",
+    "meaningJa": "綿密に；詳細に；厳重に",
+    "related": "carefully",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 211,
+    "word": "drawing",
+    "pos": "n.",
+    "meaning": "素描；图画",
+    "meaningJa": "線画，素描",
+    "related": "sketch",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 212,
+    "word": "branch",
+    "pos": "n.",
+    "meaning": "部门；树枝；分店",
+    "meaningJa": "部門；枝；支店",
+    "related": "division",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 213,
+    "word": "maintain",
+    "pos": "v.",
+    "meaning": "维持；坚持声称",
+    "meaningJa": "を維持する；と主張する",
+    "related": "preserve",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 214,
+    "word": "exhibition",
+    "pos": "n.",
+    "meaning": "展览",
+    "meaningJa": "展覧会，展示",
+    "related": "exposition",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 215,
+    "word": "empty",
+    "pos": "adj.",
+    "meaning": "空的；空虚的",
+    "meaningJa": "空の；空虚な",
+    "related": "vacant",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 216,
+    "word": "emphasis",
+    "pos": "n.",
+    "meaning": "强调；重视",
+    "meaningJa": "強調，重視",
+    "related": "stress",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 217,
+    "word": "urban",
+    "pos": "adj.",
+    "meaning": "城市的",
+    "meaningJa": "都会の",
+    "related": "city",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 218,
+    "word": "seek",
+    "pos": "v.",
+    "meaning": "寻求；寻找",
+    "meaningJa": "を得ようとする；を捜す",
+    "related": "pursue",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 219,
+    "word": "assembly",
+    "pos": "n.",
+    "meaning": "集会；议会；组装",
+    "meaningJa": "集会；議会；組み立て",
+    "related": "gathering",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 220,
+    "word": "audience",
+    "pos": "n.",
+    "meaning": "观众；听众",
+    "meaningJa": "聴衆；視聴者",
+    "related": "listeners",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 221,
+    "word": "desire",
+    "pos": "v.",
+    "meaning": "强烈希望",
+    "meaningJa": "を強く望む",
+    "related": "wish for",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 222,
+    "word": "estate",
+    "pos": "n.",
+    "meaning": "私有土地；地产",
+    "meaningJa": "私有地，地所",
+    "related": "property",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 223,
+    "word": "serve",
+    "pos": "v.",
+    "meaning": "起作用；服务",
+    "meaningJa": "を果たす；の役に立つ",
+    "related": "perform",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 224,
+    "word": "contribution",
+    "pos": "n.",
+    "meaning": "捐赠；贡献",
+    "meaningJa": "寄付；貢献",
+    "related": "donation",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 225,
+    "word": "code",
+    "pos": "n.",
+    "meaning": "密码；代码",
+    "meaningJa": "暗号，符号",
+    "related": "secret message",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 226,
+    "word": "brief",
+    "pos": "adj.",
+    "meaning": "短暂的；简短的",
+    "meaningJa": "短い，つかの間の",
+    "related": "short",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 227,
+    "word": "apparent",
+    "pos": "adj.",
+    "meaning": "明显的",
+    "meaningJa": "明白な",
+    "related": "evident",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 228,
+    "word": "establish",
+    "pos": "v.",
+    "meaning": "确立；建立",
+    "meaningJa": "を確立する；を設立する",
+    "related": "create",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 229,
+    "word": "tiny",
+    "pos": "adj.",
+    "meaning": "极小的",
+    "meaningJa": "とても小さな；わずかな",
+    "related": "very small",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 230,
+    "word": "literature",
+    "pos": "n.",
+    "meaning": "文学",
+    "meaningJa": "文学",
+    "related": "written works",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 231,
+    "word": "faith",
+    "pos": "n.",
+    "meaning": "信任；信仰",
+    "meaningJa": "信頼；信念",
+    "related": "trust",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 232,
+    "word": "broadly",
+    "pos": "adv.",
+    "meaning": "一般地；广泛地",
+    "meaningJa": "一般的に；広く",
+    "related": "generally",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 233,
+    "word": "broad",
+    "pos": "adj.",
+    "meaning": "宽广的；广泛的",
+    "meaningJa": "広い；広範囲な",
+    "related": "extensive",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 234,
+    "word": "encourage",
+    "pos": "v.",
+    "meaning": "鼓励；促进",
+    "meaningJa": "を励ます；を促す",
+    "related": "persuade",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 235,
+    "word": "lie",
+    "pos": "v.",
+    "meaning": "位于；存在；躺",
+    "meaningJa": "位置する；ある；横たわる",
+    "related": "be located",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 236,
+    "word": "belief",
+    "pos": "n.",
+    "meaning": "信念；信仰",
+    "meaningJa": "信念；信仰",
+    "related": "faith",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 237,
+    "word": "row",
+    "pos": "n.",
+    "meaning": "一排；一列",
+    "meaningJa": "列，並び",
+    "related": "line",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 238,
+    "word": "protect",
+    "pos": "v.",
+    "meaning": "保护",
+    "meaningJa": "を保護する",
+    "related": "safeguard",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 239,
+    "word": "description",
+    "pos": "n.",
+    "meaning": "说明；描写",
+    "meaningJa": "説明；描写",
+    "related": "explanation",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 240,
+    "word": "vital",
+    "pos": "adj.",
+    "meaning": "必不可少的",
+    "meaningJa": "不可欠な",
+    "related": "critical",
+    "phrase": "",
+    "sourcePage": 23
+  },
+  {
+    "id": 241,
+    "word": "pleasure",
+    "pos": "n.",
+    "meaning": "快乐；喜悦",
+    "meaningJa": "楽しみ，喜び",
+    "related": "delight",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 242,
+    "word": "tradition",
+    "pos": "n.",
+    "meaning": "传统；惯例",
+    "meaningJa": "伝統；慣例",
+    "related": "convention",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 243,
+    "word": "criminal",
+    "pos": "n.",
+    "meaning": "罪犯",
+    "meaningJa": "犯罪者；犯人",
+    "related": "offender",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 244,
+    "word": "treaty",
+    "pos": "n.",
+    "meaning": "条约；协定",
+    "meaningJa": "条約，協定",
+    "related": "agreement",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 245,
+    "word": "advance",
+    "pos": "v.",
+    "meaning": "促进；提出",
+    "meaningJa": "を促進する；を提案する",
+    "related": "further",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 246,
+    "word": "identify",
+    "pos": "v.",
+    "meaning": "确认；识别",
+    "meaningJa": "を確認する，特定する",
+    "related": "recognise",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 247,
+    "word": "thin",
+    "pos": "adj.",
+    "meaning": "瘦的；薄的",
+    "meaningJa": "やせた；薄い",
+    "related": "slim",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 248,
+    "word": "acid",
+    "pos": "n.",
+    "meaning": "酸",
+    "meaningJa": "酸",
+    "related": "↔ alkali",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 249,
+    "word": "affect",
+    "pos": "v.",
+    "meaning": "影响",
+    "meaningJa": "に影響を及ぼす",
+    "related": "influence",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 250,
+    "word": "minor",
+    "pos": "adj.",
+    "meaning": "不重要的；次要的",
+    "meaningJa": "重要でない；二流の",
+    "related": "less important",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 251,
+    "word": "ministry",
+    "pos": "n.",
+    "meaning": "部；政府部门",
+    "meaningJa": "省",
+    "related": "department",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 252,
+    "word": "express",
+    "pos": "v.",
+    "meaning": "表达",
+    "meaningJa": "を表現する",
+    "related": "articulate",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 253,
+    "word": "bound",
+    "pos": "adj.",
+    "meaning": "开往…的",
+    "meaningJa": "〈bound for で〉〜行きの",
+    "related": "going to",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 254,
+    "word": "institution",
+    "pos": "n.",
+    "meaning": "机构；组织",
+    "meaningJa": "機関，組織",
+    "related": "organisation",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 255,
+    "word": "principal",
+    "pos": "adj.",
+    "meaning": "主要的",
+    "meaningJa": "主要な",
+    "related": "main",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 256,
+    "word": "suit",
+    "pos": "v.",
+    "meaning": "适合；对…方便",
+    "meaningJa": "に合う；にとって都合がよい",
+    "related": "match",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 257,
+    "word": "capable",
+    "pos": "adj.",
+    "meaning": "有能力的",
+    "meaningJa": "能力がある",
+    "related": "able",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 258,
+    "word": "stress",
+    "pos": "v.",
+    "meaning": "强调",
+    "meaningJa": "を強調する",
+    "related": "emphasise",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 259,
+    "word": "typical",
+    "pos": "adj.",
+    "meaning": "典型的",
+    "meaningJa": "典型的な",
+    "related": "average",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 260,
+    "word": "welfare",
+    "pos": "n.",
+    "meaning": "幸福；福利",
+    "meaningJa": "幸福；福祉",
+    "related": "well-being",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 261,
+    "word": "relative",
+    "pos": "adj.",
+    "meaning": "相对的",
+    "meaningJa": "相対的な",
+    "related": "comparative",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 262,
+    "word": "beneath",
+    "pos": "prep.",
+    "meaning": "在…下面",
+    "meaningJa": "〜の下に",
+    "related": "below",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 263,
+    "word": "enable",
+    "pos": "v.",
+    "meaning": "使能够",
+    "meaningJa": "に〜できるようにする",
+    "related": "allow",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 264,
+    "word": "spot",
+    "pos": "v.",
+    "meaning": "发现",
+    "meaningJa": "を見つける",
+    "related": "detect",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 265,
+    "word": "meanwhile",
+    "pos": "adv.",
+    "meaning": "与此同时",
+    "meaningJa": "その間（に）",
+    "related": "in the meantime",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 266,
+    "word": "charged",
+    "pos": "adj.",
+    "meaning": "带电的；充满感情的",
+    "meaningJa": "帯電した；熱のこもった",
+    "related": "electrified",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 267,
+    "word": "entire",
+    "pos": "adj.",
+    "meaning": "全部的",
+    "meaningJa": "全部の",
+    "related": "total",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 268,
+    "word": "criticism",
+    "pos": "n.",
+    "meaning": "批评；评论",
+    "meaningJa": "批判；批評",
+    "related": "censure",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 269,
+    "word": "phase",
+    "pos": "n.",
+    "meaning": "阶段；局面",
+    "meaningJa": "段階，局面",
+    "related": "stage",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 270,
+    "word": "explanation",
+    "pos": "n.",
+    "meaning": "解释；说明",
+    "meaningJa": "説明，釈明",
+    "related": "account",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 271,
+    "word": "ship",
+    "pos": "v.",
+    "meaning": "发送；派遣",
+    "meaningJa": "を発送する；を送る",
+    "related": "send",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 272,
+    "word": "significance",
+    "pos": "n.",
+    "meaning": "重要性；意义",
+    "meaningJa": "重要性；意味",
+    "related": "importance",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 273,
+    "word": "injury",
+    "pos": "n.",
+    "meaning": "伤害；受伤",
+    "meaningJa": "傷害，けが",
+    "related": "wound",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 274,
+    "word": "vast",
+    "pos": "adj.",
+    "meaning": "广阔的；庞大的",
+    "meaningJa": "広大な；膨大な",
+    "related": "broad",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 275,
+    "word": "revolution",
+    "pos": "n.",
+    "meaning": "革命",
+    "meaningJa": "革命",
+    "related": "transformation",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 276,
+    "word": "rare",
+    "pos": "adj.",
+    "meaning": "稀有的",
+    "meaningJa": "珍しい",
+    "related": "unusual",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 277,
+    "word": "severe",
+    "pos": "adj.",
+    "meaning": "严厉的；严酷的",
+    "meaningJa": "厳しい，苛酷な",
+    "related": "harsh",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 278,
+    "word": "unlike",
+    "pos": "prep.",
+    "meaning": "与…不同",
+    "meaningJa": "〜と異なって，〜と違って",
+    "related": "in contrast to",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 279,
+    "word": "obtain",
+    "pos": "v.",
+    "meaning": "获得",
+    "meaningJa": "を得る",
+    "related": "get",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 280,
+    "word": "settlement",
+    "pos": "n.",
+    "meaning": "解决；殖民；定居点",
+    "meaningJa": "解決；植民；入植地",
+    "related": "resolution",
+    "phrase": "",
+    "sourcePage": 24
+  },
+  {
+    "id": 281,
+    "word": "somewhat",
+    "pos": "adv.",
+    "meaning": "有些；稍微",
+    "meaningJa": "多少，幾分",
+    "related": "slightly",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 282,
+    "word": "represent",
+    "pos": "v.",
+    "meaning": "代表；表示",
+    "meaningJa": "を代表する；を表す",
+    "related": "symbolise",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 283,
+    "word": "mention",
+    "pos": "v.",
+    "meaning": "提到",
+    "meaningJa": "に言及する；に触れる",
+    "related": "refer to",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 284,
+    "word": "thick",
+    "pos": "adj.",
+    "meaning": "密的；厚的",
+    "meaningJa": "密な；厚い",
+    "related": "dense",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 285,
+    "word": "permanent",
+    "pos": "adj.",
+    "meaning": "永久的",
+    "meaningJa": "永遠の",
+    "related": "lasting",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 286,
+    "word": "contain",
+    "pos": "v.",
+    "meaning": "包含",
+    "meaningJa": "を含む",
+    "related": "include",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 287,
+    "word": "amongst",
+    "pos": "prep.",
+    "meaning": "在…之间",
+    "meaningJa": "（場所・物・人）の間で",
+    "related": "among",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 288,
+    "word": "purchase",
+    "pos": "v.",
+    "meaning": "购买",
+    "meaningJa": "を購入する",
+    "related": "buy",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 289,
+    "word": "advertising",
+    "pos": "n.",
+    "meaning": "广告",
+    "meaningJa": "広告",
+    "related": "promotion",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 290,
+    "word": "inner",
+    "pos": "adj.",
+    "meaning": "内部的；里面的",
+    "meaningJa": "内部の，奥の",
+    "related": "interior",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 291,
+    "word": "afford",
+    "pos": "v.",
+    "meaning": "负担得起",
+    "meaningJa": "を持つ余裕がある",
+    "related": "have enough money for",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 292,
+    "word": "sum",
+    "pos": "n.",
+    "meaning": "金额；总和",
+    "meaningJa": "金額；合計",
+    "related": "amount",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 293,
+    "word": "religion",
+    "pos": "n.",
+    "meaning": "宗教",
+    "meaningJa": "宗教",
+    "related": "faith",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 294,
+    "word": "temperature",
+    "pos": "n.",
+    "meaning": "温度；气温",
+    "meaningJa": "温度；気温",
+    "related": "degrees",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 295,
+    "word": "struggle",
+    "pos": "v.",
+    "meaning": "奋斗；挣扎",
+    "meaningJa": "奮闘する",
+    "related": "have difficulty",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 296,
+    "word": "store",
+    "pos": "v.",
+    "meaning": "储存",
+    "meaningJa": "を蓄える",
+    "related": "keep",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 297,
+    "word": "author",
+    "pos": "n.",
+    "meaning": "作者",
+    "meaningJa": "著者，作者",
+    "related": "writer",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 298,
+    "word": "odd",
+    "pos": "adj.",
+    "meaning": "奇怪的",
+    "meaningJa": "変な，奇妙な",
+    "related": "strange",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 299,
+    "word": "assistance",
+    "pos": "n.",
+    "meaning": "援助；帮助",
+    "meaningJa": "援助，助力",
+    "related": "aid",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 300,
+    "word": "agent",
+    "pos": "n.",
+    "meaning": "代理人；作用因素",
+    "meaningJa": "代理人；元になる力",
+    "related": "representative",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 301,
+    "word": "missing",
+    "pos": "adj.",
+    "meaning": "缺少的；失踪的",
+    "meaningJa": "欠けている；行方不明の",
+    "related": "absent",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 302,
+    "word": "republic",
+    "pos": "n.",
+    "meaning": "共和国",
+    "meaningJa": "共和国",
+    "related": "↔ monarchy",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 303,
+    "word": "describe",
+    "pos": "v.",
+    "meaning": "叙述；描写",
+    "meaningJa": "を述べる；を描写する",
+    "related": "explain",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 304,
+    "word": "tone",
+    "pos": "n.",
+    "meaning": "音色；音质",
+    "meaningJa": "音色；音質",
+    "related": "sound",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 305,
+    "word": "moreover",
+    "pos": "adv.",
+    "meaning": "而且；此外",
+    "meaningJa": "その上，さらに",
+    "related": "furthermore",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 306,
+    "word": "somehow",
+    "pos": "adv.",
+    "meaning": "以某种方式；设法",
+    "meaningJa": "何とかして",
+    "related": "in some way",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 307,
+    "word": "proposal",
+    "pos": "n.",
+    "meaning": "提议",
+    "meaningJa": "提案",
+    "related": "suggestion",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 308,
+    "word": "argue",
+    "pos": "v.",
+    "meaning": "主张；论述",
+    "meaningJa": "と主張する；を論じる",
+    "related": "contend",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 309,
+    "word": "vehicle",
+    "pos": "n.",
+    "meaning": "交通工具；传播媒介",
+    "meaningJa": "乗り物，車；伝達手段",
+    "related": "automobile",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 310,
+    "word": "involve",
+    "pos": "v.",
+    "meaning": "包含；使卷入",
+    "meaningJa": "を含む；を巻き込む",
+    "related": "include",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 311,
+    "word": "diet",
+    "pos": "n.",
+    "meaning": "日常饮食；规定食谱",
+    "meaningJa": "日常の食べ物；規定食",
+    "related": "food",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 312,
+    "word": "soil",
+    "pos": "n.",
+    "meaning": "土壤",
+    "meaningJa": "土，土壌",
+    "related": "earth",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 313,
+    "word": "conduct",
+    "pos": "v.",
+    "meaning": "实施；传导",
+    "meaningJa": "を実施する；を伝導する",
+    "related": "carry out",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 314,
+    "word": "novel",
+    "pos": "n.",
+    "meaning": "小说",
+    "meaningJa": "小説",
+    "related": "story",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 315,
+    "word": "rarely",
+    "pos": "adv.",
+    "meaning": "很少",
+    "meaningJa": "めったに〜ない",
+    "related": "seldom",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 316,
+    "word": "guilty",
+    "pos": "adj.",
+    "meaning": "内疚的；有罪的",
+    "meaningJa": "罪悪感のある；有罪の",
+    "related": "sorry",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 317,
+    "word": "indicate",
+    "pos": "v.",
+    "meaning": "表明；是…的征兆",
+    "meaningJa": "を示す，の兆候である",
+    "related": "show",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 318,
+    "word": "command",
+    "pos": "v.",
+    "meaning": "命令",
+    "meaningJa": "を命令する",
+    "related": "order",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 319,
+    "word": "assume",
+    "pos": "v.",
+    "meaning": "假定；承担",
+    "meaningJa": "と仮定する；を引き受ける",
+    "related": "presume",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 320,
+    "word": "agricultural",
+    "pos": "adj.",
+    "meaning": "农业的",
+    "meaningJa": "農業の",
+    "related": "farming",
+    "phrase": "",
+    "sourcePage": 25
+  },
+  {
+    "id": 321,
+    "word": "shift",
+    "pos": "v.",
+    "meaning": "转移；改变",
+    "meaningJa": "移る；変わる",
+    "related": "move",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 322,
+    "word": "operate",
+    "pos": "v.",
+    "meaning": "运作；运行",
+    "meaningJa": "機能する，作動する",
+    "related": "function",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 323,
+    "word": "taste",
+    "pos": "n.",
+    "meaning": "喜好；风味",
+    "meaningJa": "嗜好；風味",
+    "related": "liking",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 324,
+    "word": "efficient",
+    "pos": "adj.",
+    "meaning": "高效的",
+    "meaningJa": "能率的な",
+    "related": "effective",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 325,
+    "word": "willing",
+    "pos": "adj.",
+    "meaning": "愿意的",
+    "meaningJa": "（〜するのを）いとわない",
+    "related": "ready",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 326,
+    "word": "plastic",
+    "pos": "adj.",
+    "meaning": "塑料的；可塑的",
+    "meaningJa": "ビニールの；可塑性の",
+    "related": "synthetic",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 327,
+    "word": "remove",
+    "pos": "v.",
+    "meaning": "去除",
+    "meaningJa": "を取り除く",
+    "related": "eliminate",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 328,
+    "word": "emergency",
+    "pos": "n.",
+    "meaning": "紧急情况",
+    "meaningJa": "緊急（事態）",
+    "related": "crisis",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 329,
+    "word": "identity",
+    "pos": "n.",
+    "meaning": "个性；身份",
+    "meaningJa": "個性；身元",
+    "related": "individuality",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 330,
+    "word": "determine",
+    "pos": "v.",
+    "meaning": "决定；确定",
+    "meaningJa": "を決定する；を正確に知る",
+    "related": "decide",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 331,
+    "word": "countryside",
+    "pos": "n.",
+    "meaning": "乡村",
+    "meaningJa": "田舎，地方",
+    "related": "rural area",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 332,
+    "word": "abroad",
+    "pos": "adv.",
+    "meaning": "在国外",
+    "meaningJa": "海外で，国外で",
+    "related": "overseas",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 333,
+    "word": "household",
+    "pos": "n.",
+    "meaning": "家庭；住户",
+    "meaningJa": "世帯，家庭",
+    "related": "family",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 334,
+    "word": "split",
+    "pos": "v.",
+    "meaning": "使分裂；劈开",
+    "meaningJa": "を分裂させる；を裂く",
+    "related": "divide",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 335,
+    "word": "constitution",
+    "pos": "n.",
+    "meaning": "宪法；体质；构成",
+    "meaningJa": "憲法；体質；構成",
+    "related": "fundamental law",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 336,
+    "word": "concentration",
+    "pos": "n.",
+    "meaning": "集中；专注",
+    "meaningJa": "集中，集結；専心",
+    "related": "focusing",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 337,
+    "word": "agriculture",
+    "pos": "n.",
+    "meaning": "农业",
+    "meaningJa": "農業",
+    "related": "farming",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 338,
+    "word": "firmly",
+    "pos": "adv.",
+    "meaning": "牢固地；坚决地",
+    "meaningJa": "堅く，しっかりと",
+    "related": "securely",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 339,
+    "word": "overseas",
+    "pos": "adv.",
+    "meaning": "在海外；到海外",
+    "meaningJa": "海外へ［に］",
+    "related": "abroad",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 340,
+    "word": "victim",
+    "pos": "n.",
+    "meaning": "牺牲者；受害人",
+    "meaningJa": "犠牲（者），被害者",
+    "related": "casualty",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 341,
+    "word": "temporary",
+    "pos": "adj.",
+    "meaning": "临时的",
+    "meaningJa": "一時的な，臨時の",
+    "related": "brief",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 342,
+    "word": "reflect",
+    "pos": "v.",
+    "meaning": "反射；反映",
+    "meaningJa": "を反射する；を反映する",
+    "related": "mirror",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 343,
+    "word": "refer",
+    "pos": "n.",
+    "meaning": "提及；称作",
+    "meaningJa": "言及する；（〜と）呼ぶ",
+    "related": "mention",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 344,
+    "word": "wealth",
+    "pos": "n.",
+    "meaning": "财富",
+    "meaningJa": "富，財産",
+    "related": "riches",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 345,
+    "word": "foundation",
+    "pos": "n.",
+    "meaning": "基础",
+    "meaningJa": "基礎，土台",
+    "related": "base",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 346,
+    "word": "bush",
+    "pos": "n.",
+    "meaning": "灌木；荒野",
+    "meaningJa": "森林地；低木",
+    "related": "wilderness",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 347,
+    "word": "keen",
+    "pos": "adj.",
+    "meaning": "热心的；敏锐的",
+    "meaningJa": "熱心な；鋭敏な",
+    "related": "eager",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 348,
+    "word": "representative",
+    "pos": "adj.",
+    "meaning": "有代表性的；典型的",
+    "meaningJa": "代表的な，典型的な",
+    "related": "typical",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 349,
+    "word": "publication",
+    "pos": "n.",
+    "meaning": "出版；公布",
+    "meaningJa": "出版；公表",
+    "related": "publishing",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 350,
+    "word": "offence",
+    "pos": "n.",
+    "meaning": "违法行为；犯罪",
+    "meaningJa": "違反；犯罪",
+    "related": "violation",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 351,
+    "word": "decade",
+    "pos": "n.",
+    "meaning": "十年",
+    "meaningJa": "10年間",
+    "related": "ten years",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 352,
+    "word": "handle",
+    "pos": "v.",
+    "meaning": "处理；应对",
+    "meaningJa": "を扱う；に対処する",
+    "related": "manage",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 353,
+    "word": "panel",
+    "pos": "n.",
+    "meaning": "委员会；评审团；仪表盘",
+    "meaningJa": "委員団；審査員団；計器盤",
+    "related": "committee",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 354,
+    "word": "reputation",
+    "pos": "n.",
+    "meaning": "名声；声誉",
+    "meaningJa": "評価，評判",
+    "related": "fame",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 355,
+    "word": "efficiency",
+    "pos": "n.",
+    "meaning": "效率；能力",
+    "meaningJa": "能率，有能さ",
+    "related": "effectiveness",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 356,
+    "word": "examine",
+    "pos": "v.",
+    "meaning": "检查；调查",
+    "meaningJa": "を検査［調査］する",
+    "related": "inspect",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 357,
+    "word": "incident",
+    "pos": "n.",
+    "meaning": "事件",
+    "meaningJa": "出来事；事件",
+    "related": "event",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 358,
+    "word": "extreme",
+    "pos": "adj.",
+    "meaning": "极端的",
+    "meaningJa": "極度の",
+    "related": "severe",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 359,
+    "word": "resistance",
+    "pos": "n.",
+    "meaning": "抵抗",
+    "meaningJa": "抵抗，反抗",
+    "related": "opposition",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 360,
+    "word": "admit",
+    "pos": "v.",
+    "meaning": "承认；准许进入",
+    "meaningJa": "を認める；を中に入れる",
+    "related": "acknowledge",
+    "phrase": "",
+    "sourcePage": 26
+  },
+  {
+    "id": 361,
+    "word": "essentially",
+    "pos": "adv.",
+    "meaning": "本质上",
+    "meaningJa": "本質的に",
+    "related": "basically",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 362,
+    "word": "gradually",
+    "pos": "adv.",
+    "meaning": "逐渐地",
+    "meaningJa": "徐々に",
+    "related": "slowly",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 363,
+    "word": "empire",
+    "pos": "n.",
+    "meaning": "帝国",
+    "meaningJa": "帝国",
+    "related": "kingdom",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 364,
+    "word": "defeat",
+    "pos": "v.",
+    "meaning": "击败",
+    "meaningJa": "を負かす",
+    "related": "beat",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 365,
+    "word": "sensitive",
+    "pos": "adj.",
+    "meaning": "敏感的；神经质的；微妙的",
+    "meaningJa": "敏感な；神経質な；微妙な",
+    "related": "delicate",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 366,
+    "word": "notion",
+    "pos": "n.",
+    "meaning": "概念；想法",
+    "meaningJa": "概念，考え",
+    "related": "concept",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 367,
+    "word": "solid",
+    "pos": "adj.",
+    "meaning": "固体的",
+    "meaningJa": "固体の",
+    "related": "firm",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 368,
+    "word": "chest",
+    "pos": "n.",
+    "meaning": "胸部；大箱子",
+    "meaningJa": "胸；大箱",
+    "related": "breast",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 369,
+    "word": "awareness",
+    "pos": "n.",
+    "meaning": "意识",
+    "meaningJa": "気付いていること，意識",
+    "related": "consciousness",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 370,
+    "word": "pop",
+    "pos": "v.",
+    "meaning": "突然出现",
+    "meaningJa": "急に現れる",
+    "related": "appear",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 371,
+    "word": "protest",
+    "pos": "v.",
+    "meaning": "抗议",
+    "meaningJa": "抗議する",
+    "related": "object",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 372,
+    "word": "nearby",
+    "pos": "adj.",
+    "meaning": "附近的",
+    "meaningJa": "すぐ近くの",
+    "related": "adjacent",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 373,
+    "word": "remarkable",
+    "pos": "adj.",
+    "meaning": "值得注意的；显著的",
+    "meaningJa": "注目に値する，著しい",
+    "related": "extraordinary",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 374,
+    "word": "respond",
+    "pos": "n.",
+    "meaning": "反应；回应",
+    "meaningJa": "反応する；応える",
+    "related": "react",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 375,
+    "word": "introduce",
+    "pos": "v.",
+    "meaning": "引入；介绍",
+    "meaningJa": "を導入する；を紹介する",
+    "related": "launch",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 376,
+    "word": "aside",
+    "pos": "adv.",
+    "meaning": "在旁边",
+    "meaningJa": "脇に，傍らに",
+    "related": "to the side",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 377,
+    "word": "depend",
+    "pos": "v.",
+    "meaning": "依赖；取决于",
+    "meaningJa": "頼る；（〜）次第である",
+    "related": "rely",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 378,
+    "word": "rent",
+    "pos": "n.",
+    "meaning": "房租；租金",
+    "meaningJa": "家賃；賃貸料",
+    "related": "fee",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 379,
+    "word": "survive",
+    "pos": "v.",
+    "meaning": "幸存；继续存在",
+    "meaningJa": "生き残る；存在し続ける",
+    "related": "not die",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 380,
+    "word": "rough",
+    "pos": "adj.",
+    "meaning": "粗糙的；大致的",
+    "meaningJa": "粗い；大ざっぱな",
+    "related": "coarse",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 381,
+    "word": "parallel",
+    "pos": "adj.",
+    "meaning": "类似的；平行的",
+    "meaningJa": "類似した；平行の",
+    "related": "similar",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 382,
+    "word": "suffer",
+    "pos": "v.",
+    "meaning": "受苦",
+    "meaningJa": "苦しむ，悩む",
+    "related": "endure",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 383,
+    "word": "intelligence",
+    "pos": "n.",
+    "meaning": "智力；情报",
+    "meaningJa": "知能；秘密情報",
+    "related": "intellect",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 384,
+    "word": "apart",
+    "pos": "adv.",
+    "meaning": "分开地",
+    "meaningJa": "離れて",
+    "related": "away",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 385,
+    "word": "consequence",
+    "pos": "n.",
+    "meaning": "结果",
+    "meaningJa": "結果，成り行き",
+    "related": "result",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 386,
+    "word": "visual",
+    "pos": "adj.",
+    "meaning": "视觉的",
+    "meaningJa": "視覚の",
+    "related": "optical",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 387,
+    "word": "stable",
+    "pos": "adj.",
+    "meaning": "稳定的",
+    "meaningJa": "安定した",
+    "related": "steady",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 388,
+    "word": "fault",
+    "pos": "n.",
+    "meaning": "责任；缺陷",
+    "meaningJa": "責任；欠陥",
+    "related": "responsibility",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 389,
+    "word": "classic",
+    "pos": "adj.",
+    "meaning": "典型的；一流的",
+    "meaningJa": "典型的な；第一級の",
+    "related": "typical",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 390,
+    "word": "priority",
+    "pos": "n.",
+    "meaning": "优先事项",
+    "meaningJa": "優先（事項）",
+    "related": "precedence",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 391,
+    "word": "replace",
+    "pos": "v.",
+    "meaning": "取代",
+    "meaningJa": "に取って代わる",
+    "related": "displace",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 392,
+    "word": "coach",
+    "pos": "n.",
+    "meaning": "长途汽车；教练",
+    "meaningJa": "大型バス；コーチ",
+    "related": "bus",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 393,
+    "word": "mere",
+    "pos": "adj.",
+    "meaning": "仅仅的",
+    "meaningJa": "ほんの，単なる",
+    "related": "trivial",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 394,
+    "word": "fail",
+    "pos": "v.",
+    "meaning": "失败；不及格",
+    "meaningJa": "失敗する；落第する",
+    "related": "↔ succeed",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 395,
+    "word": "literary",
+    "pos": "adj.",
+    "meaning": "文学的",
+    "meaningJa": "文学の",
+    "related": "written",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 396,
+    "word": "comparison",
+    "pos": "n.",
+    "meaning": "比较；对比",
+    "meaningJa": "比較；対比；類似",
+    "related": "weighing up",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 397,
+    "word": "preparation",
+    "pos": "n.",
+    "meaning": "准备",
+    "meaningJa": "準備，支度",
+    "related": "arrangements",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 398,
+    "word": "pale",
+    "pos": "adj.",
+    "meaning": "颜色淡的；苍白的",
+    "meaningJa": "（色が）薄い；青ざめた",
+    "related": "light-coloured",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 399,
+    "word": "promotion",
+    "pos": "n.",
+    "meaning": "促进；晋升",
+    "meaningJa": "促進；昇進",
+    "related": "fostering",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 400,
+    "word": "disabled",
+    "pos": "adj.",
+    "meaning": "有残障的",
+    "meaningJa": "身体［心身］障害の",
+    "related": "handicapped",
+    "phrase": "",
+    "sourcePage": 27
+  },
+  {
+    "id": 401,
+    "word": "comfort",
+    "pos": "n.",
+    "meaning": "舒适",
+    "meaningJa": "快適さ，心地良さ",
+    "related": "ease",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 402,
+    "word": "landscape",
+    "pos": "n.",
+    "meaning": "风景",
+    "meaningJa": "眺め，風景",
+    "related": "scenery",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 403,
+    "word": "arrangement",
+    "pos": "n.",
+    "meaning": "准备；安排；布置",
+    "meaningJa": "準備；取り決め；配置",
+    "related": "preparation",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 404,
+    "word": "judgement",
+    "pos": "n.",
+    "meaning": "判断；评审；见解",
+    "meaningJa": "判断，判定；審査；見解",
+    "related": "decision",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 405,
+    "word": "wage",
+    "pos": "n.",
+    "meaning": "工资",
+    "meaningJa": "賃金，給料",
+    "related": "pay",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 406,
+    "word": "classical",
+    "pos": "adj.",
+    "meaning": "古典的；正统的",
+    "meaningJa": "古典的な；正統（派）の",
+    "related": "traditional",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 407,
+    "word": "mixture",
+    "pos": "n.",
+    "meaning": "混合物",
+    "meaningJa": "混合物",
+    "related": "combination",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 408,
+    "word": "tension",
+    "pos": "n.",
+    "meaning": "紧张；紧张关系",
+    "meaningJa": "緊張，不安；緊張関係",
+    "related": "strain",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 409,
+    "word": "permission",
+    "pos": "n.",
+    "meaning": "许可",
+    "meaningJa": "許可，認可",
+    "related": "consent",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 410,
+    "word": "presentation",
+    "pos": "n.",
+    "meaning": "提交；展示",
+    "meaningJa": "提出，提示",
+    "related": "submission",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 411,
+    "word": "affair",
+    "pos": "n.",
+    "meaning": "事情；关心之事",
+    "meaningJa": "事柄；関心事",
+    "related": "matter",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 412,
+    "word": "roll",
+    "pos": "v.",
+    "meaning": "滚动",
+    "meaningJa": "転がる",
+    "related": "turn",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 413,
+    "word": "delay",
+    "pos": "v.",
+    "meaning": "推迟",
+    "meaningJa": "を延期する",
+    "related": "postpone",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 414,
+    "word": "hang",
+    "pos": "v.",
+    "meaning": "悬挂",
+    "meaningJa": "を掛ける，つり下げる",
+    "related": "put up",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 415,
+    "word": "confident",
+    "pos": "adj.",
+    "meaning": "确信的；自信的",
+    "meaningJa": "確信して；自信がある",
+    "related": "sure",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 416,
+    "word": "promote",
+    "pos": "v.",
+    "meaning": "促进；使晋升",
+    "meaningJa": "を促進する；を昇進させる",
+    "related": "foster",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 417,
+    "word": "perform",
+    "pos": "v.",
+    "meaning": "进行；表演",
+    "meaningJa": "を行う；を演じる",
+    "related": "do",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 418,
+    "word": "prize",
+    "pos": "n.",
+    "meaning": "奖；奖金",
+    "meaningJa": "賞；賞金",
+    "related": "award",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 419,
+    "word": "altogether",
+    "pos": "adv.",
+    "meaning": "完全地",
+    "meaningJa": "全く，完全に",
+    "related": "completely",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 420,
+    "word": "feed",
+    "pos": "v.",
+    "meaning": "吃食；进食",
+    "meaningJa": "餌を食べる",
+    "related": "eat",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 421,
+    "word": "experiment",
+    "pos": "n.",
+    "meaning": "实验",
+    "meaningJa": "実験，試験",
+    "related": "test",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 422,
+    "word": "employee",
+    "pos": "n.",
+    "meaning": "雇员",
+    "meaningJa": "従業員",
+    "related": "worker",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 423,
+    "word": "extend",
+    "pos": "v.",
+    "meaning": "延伸；延长",
+    "meaningJa": "を伸ばす，延長する",
+    "related": "lengthen",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 424,
+    "word": "host",
+    "pos": "n.",
+    "meaning": "主人；主办方",
+    "meaningJa": "主人（役）；開催者［地］",
+    "related": "↔ guest",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 425,
+    "word": "recall",
+    "pos": "v.",
+    "meaning": "回想起",
+    "meaningJa": "を思い出す",
+    "related": "remember",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 426,
+    "word": "load",
+    "pos": "n.",
+    "meaning": "负荷；装载的货物",
+    "meaningJa": "荷，積み荷",
+    "related": "freight",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 427,
+    "word": "territory",
+    "pos": "n.",
+    "meaning": "领土；领域",
+    "meaningJa": "領土；領域；縄張り",
+    "related": "area",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 428,
+    "word": "definitely",
+    "pos": "adv.",
+    "meaning": "明确地；肯定地",
+    "meaningJa": "明確に，はっきりと",
+    "related": "certainly",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 429,
+    "word": "proud",
+    "pos": "adj.",
+    "meaning": "自豪的",
+    "meaningJa": "誇りに思って",
+    "related": "very pleased",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 430,
+    "word": "upset",
+    "pos": "v.",
+    "meaning": "使心烦；使动摇",
+    "meaningJa": "を動揺させる",
+    "related": "disturb",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 431,
+    "word": "blame",
+    "pos": "v.",
+    "meaning": "责备",
+    "meaningJa": "を責める",
+    "related": "criticise",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 432,
+    "word": "profession",
+    "pos": "n.",
+    "meaning": "职业；专业",
+    "meaningJa": "職業，専門職",
+    "related": "career",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 433,
+    "word": "ease",
+    "pos": "n.",
+    "meaning": "容易；轻松",
+    "meaningJa": "たやすさ，平易さ",
+    "related": "↔ difficulty",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 434,
+    "word": "poverty",
+    "pos": "n.",
+    "meaning": "贫穷",
+    "meaningJa": "貧乏，貧困",
+    "related": "hardship",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 435,
+    "word": "characteristic",
+    "pos": "n.",
+    "meaning": "特征",
+    "meaningJa": "特徴，特性",
+    "related": "feature",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 436,
+    "word": "sake",
+    "pos": "n.",
+    "meaning": "目的；缘故",
+    "meaningJa": "ため，目的，理由",
+    "related": "benefit",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 437,
+    "word": "complicated",
+    "pos": "adj.",
+    "meaning": "复杂的",
+    "meaningJa": "複雑な",
+    "related": "complex",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 438,
+    "word": "dominant",
+    "pos": "adj.",
+    "meaning": "支配的；占优势的",
+    "meaningJa": "支配的な",
+    "related": "main",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 439,
+    "word": "constantly",
+    "pos": "adv.",
+    "meaning": "不断地；总是",
+    "meaningJa": "絶えず，常に",
+    "related": "always",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 440,
+    "word": "vary",
+    "pos": "v.",
+    "meaning": "不同；变化",
+    "meaningJa": "異なる，さまざまである",
+    "related": "differ",
+    "phrase": "",
+    "sourcePage": 28
+  },
+  {
+    "id": 441,
+    "word": "depth",
+    "pos": "n.",
+    "meaning": "深度",
+    "meaningJa": "深さ；奥行き",
+    "related": "deepness",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 442,
+    "word": "crew",
+    "pos": "n.",
+    "meaning": "全体船员；一组工作人员",
+    "meaningJa": "一団；乗組員全員",
+    "related": "team",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 443,
+    "word": "conscious",
+    "pos": "adj.",
+    "meaning": "意识到的；清醒的",
+    "meaningJa": "意識して；意識のある",
+    "related": "aware",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 444,
+    "word": "intellectual",
+    "pos": "adj.",
+    "meaning": "智力的；有知识的",
+    "meaningJa": "知性の；知的な",
+    "related": "mental",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 445,
+    "word": "loose",
+    "pos": "adj.",
+    "meaning": "未固定的；松的",
+    "meaningJa": "しっかり留まっていない",
+    "related": "unfixed",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 446,
+    "word": "bomb",
+    "pos": "n.",
+    "meaning": "炸弹",
+    "meaningJa": "爆弾",
+    "related": "explosive",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 447,
+    "word": "holy",
+    "pos": "adj.",
+    "meaning": "神圣的",
+    "meaningJa": "神聖な",
+    "related": "sacred",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 448,
+    "word": "anxious",
+    "pos": "adj.",
+    "meaning": "担心的；渴望的",
+    "meaningJa": "心配して；切望して",
+    "related": "worried",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 449,
+    "word": "guard",
+    "pos": "v.",
+    "meaning": "保护；看守",
+    "meaningJa": "を保護する；を見張る",
+    "related": "protect",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 450,
+    "word": "impressive",
+    "pos": "adj.",
+    "meaning": "令人印象深刻的",
+    "meaningJa": "印象的な",
+    "related": "striking",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 451,
+    "word": "exception",
+    "pos": "n.",
+    "meaning": "例外",
+    "meaningJa": "例外",
+    "related": "rarity",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 452,
+    "word": "nervous",
+    "pos": "adj.",
+    "meaning": "不安的；神经质的",
+    "meaningJa": "不安な；神経質な",
+    "related": "anxious",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 453,
+    "word": "fee",
+    "pos": "n.",
+    "meaning": "费用；报酬",
+    "meaningJa": "料金；報酬",
+    "related": "charge",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 454,
+    "word": "tendency",
+    "pos": "n.",
+    "meaning": "趋势；倾向",
+    "meaningJa": "傾向，風潮",
+    "related": "trend",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 455,
+    "word": "accurate",
+    "pos": "adj.",
+    "meaning": "准确的",
+    "meaningJa": "正確な；的確な",
+    "related": "precise",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 456,
+    "word": "harm",
+    "pos": "n.",
+    "meaning": "伤害；害处",
+    "meaningJa": "害；不都合",
+    "related": "damage",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 457,
+    "word": "origin",
+    "pos": "n.",
+    "meaning": "起源",
+    "meaningJa": "起源；源",
+    "related": "source",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 458,
+    "word": "gift",
+    "pos": "n.",
+    "meaning": "才能；礼物",
+    "meaningJa": "才能；贈り物",
+    "related": "ability",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 459,
+    "word": "suspect",
+    "pos": "v.",
+    "meaning": "怀疑；猜想",
+    "meaningJa": "思う；ではないかと思う",
+    "related": "think",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 460,
+    "word": "bond",
+    "pos": "n.",
+    "meaning": "纽带；联系",
+    "meaningJa": "絆，縁",
+    "related": "tie",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 461,
+    "word": "enthusiasm",
+    "pos": "n.",
+    "meaning": "热情",
+    "meaningJa": "熱狂；熱心",
+    "related": "passion",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 462,
+    "word": "spare",
+    "pos": "adj.",
+    "meaning": "备用的",
+    "meaningJa": "予備の",
+    "related": "extra",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 463,
+    "word": "extraordinary",
+    "pos": "adj.",
+    "meaning": "异常的；非凡的",
+    "meaningJa": "異常な；並外れた",
+    "related": "unusual",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 464,
+    "word": "leisure",
+    "pos": "n.",
+    "meaning": "空闲时间",
+    "meaningJa": "余暇",
+    "related": "free time",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 465,
+    "word": "visible",
+    "pos": "adj.",
+    "meaning": "可见的",
+    "meaningJa": "可視の",
+    "related": "perceptible",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 466,
+    "word": "device",
+    "pos": "n.",
+    "meaning": "装置",
+    "meaningJa": "装置，仕掛け",
+    "related": "instrument",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 467,
+    "word": "remote",
+    "pos": "adj.",
+    "meaning": "遥远的",
+    "meaningJa": "遠い，離れた",
+    "related": "faraway",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 468,
+    "word": "confusion",
+    "pos": "n.",
+    "meaning": "混乱",
+    "meaningJa": "混乱；無秩序",
+    "related": "chaos",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 469,
+    "word": "steady",
+    "pos": "adj.",
+    "meaning": "稳定的",
+    "meaningJa": "安定した",
+    "related": "consistent",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 470,
+    "word": "stolen",
+    "pos": "adj.",
+    "meaning": "被偷的",
+    "meaningJa": "盗まれた",
+    "related": "purloined",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 471,
+    "word": "column",
+    "pos": "n.",
+    "meaning": "柱；纵列；栏目",
+    "meaningJa": "円柱；縦列；欄",
+    "related": "pillar",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 472,
+    "word": "calm",
+    "pos": "adj.",
+    "meaning": "冷静的；平静的",
+    "meaningJa": "冷静な；穏やかな",
+    "related": "serene",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 473,
+    "word": "climate",
+    "pos": "n.",
+    "meaning": "气候",
+    "meaningJa": "気候",
+    "related": "weather patterns",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 474,
+    "word": "evil",
+    "pos": "adj.",
+    "meaning": "邪恶的",
+    "meaningJa": "邪悪な",
+    "related": "wicked",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 475,
+    "word": "distant",
+    "pos": "adj.",
+    "meaning": "遥远的",
+    "meaningJa": "遠い，離れた",
+    "related": "faraway",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 476,
+    "word": "disaster",
+    "pos": "n.",
+    "meaning": "灾害；灾难",
+    "meaningJa": "災害；災難",
+    "related": "catastrophe",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 477,
+    "word": "satisfaction",
+    "pos": "n.",
+    "meaning": "满足；喜悦",
+    "meaningJa": "満足；喜び",
+    "related": "contentment",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 478,
+    "word": "string",
+    "pos": "n.",
+    "meaning": "细绳；线",
+    "meaningJa": "ひも，糸",
+    "related": "cord",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 479,
+    "word": "gentle",
+    "pos": "adj.",
+    "meaning": "温柔的；平和的",
+    "meaningJa": "優しい；穏やかな",
+    "related": "kind",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 480,
+    "word": "childhood",
+    "pos": "n.",
+    "meaning": "童年",
+    "meaningJa": "幼児期",
+    "related": "youth",
+    "phrase": "",
+    "sourcePage": 29
+  },
+  {
+    "id": 481,
+    "word": "delighted",
+    "pos": "adj.",
+    "meaning": "非常高兴的",
+    "meaningJa": "非常に喜んで",
+    "related": "pleased",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 482,
+    "word": "poetry",
+    "pos": "n.",
+    "meaning": "诗；韵文",
+    "meaningJa": "詩，韻文",
+    "related": "poems",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 483,
+    "word": "expense",
+    "pos": "n.",
+    "meaning": "费用；支出",
+    "meaningJa": "費用，支出",
+    "related": "cost",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 484,
+    "word": "bet",
+    "pos": "v.",
+    "meaning": "打赌；保证",
+    "meaningJa": "を賭ける；請け合う",
+    "related": "gamble",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 485,
+    "word": "complain",
+    "pos": "n.",
+    "meaning": "抱怨",
+    "meaningJa": "不平［苦情］を言う",
+    "related": "protest",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 486,
+    "word": "sensible",
+    "pos": "adj.",
+    "meaning": "明智的；有判断力的",
+    "meaningJa": "良識のある，賢明な",
+    "related": "reasonable",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 487,
+    "word": "rely",
+    "pos": "adv.",
+    "meaning": "依赖；信赖",
+    "meaningJa": "頼る，依存する；信頼する",
+    "related": "depend",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 488,
+    "word": "export",
+    "pos": "v.",
+    "meaning": "出口",
+    "meaningJa": "を輸出する",
+    "related": "↔ import",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 489,
+    "word": "honour",
+    "pos": "n.",
+    "meaning": "荣誉；体面",
+    "meaningJa": "名誉；体面",
+    "related": "prestige",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 490,
+    "word": "reserve",
+    "pos": "v.",
+    "meaning": "预订",
+    "meaningJa": "を予約する",
+    "related": "book",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 491,
+    "word": "overcome",
+    "pos": "v.",
+    "meaning": "克服",
+    "meaningJa": "を克服する",
+    "related": "conquer",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 492,
+    "word": "silly",
+    "pos": "adj.",
+    "meaning": "愚蠢的",
+    "meaningJa": "愚かな",
+    "related": "foolish",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 493,
+    "word": "estimate",
+    "pos": "v.",
+    "meaning": "估计",
+    "meaningJa": "を見積もる",
+    "related": "assess",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 494,
+    "word": "proof",
+    "pos": "n.",
+    "meaning": "证据；证明",
+    "meaningJa": "証拠，証明；立証",
+    "related": "evidence",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 495,
+    "word": "deaf",
+    "pos": "adj.",
+    "meaning": "失聪的",
+    "meaningJa": "耳が聞こえない",
+    "related": "hearing-impaired",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 496,
+    "word": "grateful",
+    "pos": "adj.",
+    "meaning": "感激的",
+    "meaningJa": "感謝している",
+    "related": "thankful",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 497,
+    "word": "dozen",
+    "pos": "n.",
+    "meaning": "一打；十二个",
+    "meaningJa": "ダース",
+    "related": "twelve",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 498,
+    "word": "paragraph",
+    "pos": "n.",
+    "meaning": "段落",
+    "meaningJa": "段落，節",
+    "related": "section",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 499,
+    "word": "resources",
+    "pos": "n.",
+    "meaning": "资源；办法；机智",
+    "meaningJa": "資源；方策；機知",
+    "related": "reserves",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 500,
+    "word": "trend",
+    "pos": "n.",
+    "meaning": "趋势",
+    "meaningJa": "傾向，動向",
+    "related": "tendency",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 501,
+    "word": "hunt",
+    "pos": "v.",
+    "meaning": "打猎",
+    "meaningJa": "を狩る",
+    "related": "pursue",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 502,
+    "word": "instrument",
+    "pos": "n.",
+    "meaning": "工具；乐器",
+    "meaningJa": "道具；楽器",
+    "related": "tool",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 503,
+    "word": "psychology",
+    "pos": "n.",
+    "meaning": "心理；心理学",
+    "meaningJa": "心理；心理学",
+    "related": "mind",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 504,
+    "word": "native",
+    "pos": "adj.",
+    "meaning": "特有的；原产的",
+    "meaningJa": "特有の，原産の",
+    "related": "indigenous",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 505,
+    "word": "confirm",
+    "pos": "v.",
+    "meaning": "确认",
+    "meaningJa": "を確認する",
+    "related": "verify",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 506,
+    "word": "anxiety",
+    "pos": "n.",
+    "meaning": "焦虑；担忧",
+    "meaningJa": "不安，懸念",
+    "related": "worry",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 507,
+    "word": "appreciate",
+    "pos": "v.",
+    "meaning": "欣赏；正确评价",
+    "meaningJa": "を正当に評価する",
+    "related": "value",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 508,
+    "word": "pleasant",
+    "pos": "adj.",
+    "meaning": "令人愉快的",
+    "meaningJa": "快い，楽しい",
+    "related": "agreeable",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 509,
+    "word": "relate",
+    "pos": "v.",
+    "meaning": "使相关联",
+    "meaningJa": "を関連づける",
+    "related": "connect",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 510,
+    "word": "universal",
+    "pos": "adj.",
+    "meaning": "普遍的",
+    "meaningJa": "普遍的な",
+    "related": "general",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 511,
+    "word": "rid",
+    "pos": "v.",
+    "meaning": "去除",
+    "meaningJa": "から取り除く",
+    "related": "remove",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 512,
+    "word": "consciousness",
+    "pos": "n.",
+    "meaning": "意识；清醒",
+    "meaningJa": "意識，正気",
+    "related": "awareness",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 513,
+    "word": "commonly",
+    "pos": "adv.",
+    "meaning": "一般地；通常",
+    "meaningJa": "一般（的）に，普通に",
+    "related": "normally",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 514,
+    "word": "purely",
+    "pos": "adv.",
+    "meaning": "纯粹地；仅仅",
+    "meaningJa": "純粋に；単に",
+    "related": "completely",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 515,
+    "word": "universe",
+    "pos": "n.",
+    "meaning": "宇宙",
+    "meaningJa": "宇宙；森羅万象",
+    "related": "cosmos",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 516,
+    "word": "attract",
+    "pos": "v.",
+    "meaning": "吸引",
+    "meaningJa": "を引き寄せる",
+    "related": "draw",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 517,
+    "word": "stream",
+    "pos": "n.",
+    "meaning": "水流；小溪",
+    "meaningJa": "水流；小川",
+    "related": "current",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 518,
+    "word": "excitement",
+    "pos": "n.",
+    "meaning": "兴奋；骚动",
+    "meaningJa": "興奮；騒ぎ",
+    "related": "enthusiasm",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 519,
+    "word": "settle",
+    "pos": "v.",
+    "meaning": "解决；定居",
+    "meaningJa": "を解決する；に移り住む",
+    "related": "resolve",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 520,
+    "word": "layer",
+    "pos": "n.",
+    "meaning": "层",
+    "meaningJa": "層；重ね",
+    "related": "covering",
+    "phrase": "",
+    "sourcePage": 30
+  },
+  {
+    "id": 521,
+    "word": "wheel",
+    "pos": "n.",
+    "meaning": "轮子；方向盘",
+    "meaningJa": "車輪；（車の）ハンドル",
+    "related": "ring",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 522,
+    "word": "platform",
+    "pos": "n.",
+    "meaning": "平台；讲台",
+    "meaningJa": "高い足場；壇",
+    "related": "stage",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 523,
+    "word": "schedule",
+    "pos": "n.",
+    "meaning": "日程；计划",
+    "meaningJa": "予定，計画",
+    "related": "timetable",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 524,
+    "word": "creative",
+    "pos": "adj.",
+    "meaning": "有创造力的",
+    "meaningJa": "独創的な",
+    "related": "imaginative",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 525,
+    "word": "innocent",
+    "pos": "adj.",
+    "meaning": "无罪的；天真的",
+    "meaningJa": "無罪の；無邪気な",
+    "related": "guiltless",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 526,
+    "word": "evolution",
+    "pos": "n.",
+    "meaning": "进化；发展",
+    "meaningJa": "進化；発達",
+    "related": "development",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 527,
+    "word": "stretch",
+    "pos": "v.",
+    "meaning": "伸展；拉长",
+    "meaningJa": "を伸ばす；を引き延ばす",
+    "related": "extend",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 528,
+    "word": "besides",
+    "pos": "adv.",
+    "meaning": "此外",
+    "meaningJa": "その上，しかも",
+    "related": "moreover",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 529,
+    "word": "adopt",
+    "pos": "v.",
+    "meaning": "采用；收养",
+    "meaningJa": "を採用する；を養子にする",
+    "related": "embrace",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 530,
+    "word": "burst",
+    "pos": "v.",
+    "meaning": "爆炸；破裂",
+    "meaningJa": "爆発する；破裂する",
+    "related": "explode",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 531,
+    "word": "lock",
+    "pos": "v.",
+    "meaning": "锁上",
+    "meaningJa": "に鍵を掛ける",
+    "related": "bolt",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 532,
+    "word": "carbon",
+    "pos": "n.",
+    "meaning": "碳；二氧化碳",
+    "meaningJa": "炭素；二酸化炭素",
+    "related": "the element C",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 533,
+    "word": "liquid",
+    "pos": "n.",
+    "meaning": "液体",
+    "meaningJa": "液体",
+    "related": "fluid",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 534,
+    "word": "regarding",
+    "pos": "prep.",
+    "meaning": "关于",
+    "meaningJa": "〜に関して",
+    "related": "about",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 535,
+    "word": "glance",
+    "pos": "v.",
+    "meaning": "瞥一眼",
+    "meaningJa": "ちらりと見る",
+    "related": "glimpse",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 536,
+    "word": "angle",
+    "pos": "n.",
+    "meaning": "角度；观点",
+    "meaningJa": "観点；角度；角",
+    "related": "perspective",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 537,
+    "word": "crash",
+    "pos": "v.",
+    "meaning": "碰撞；坠毁",
+    "meaningJa": "衝突する；墜落する",
+    "related": "collide",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 538,
+    "word": "grace",
+    "pos": "n.",
+    "meaning": "优美；优雅",
+    "meaningJa": "優美，優雅",
+    "related": "elegance",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 539,
+    "word": "frequent",
+    "pos": "adj.",
+    "meaning": "频繁的",
+    "meaningJa": "頻繁な",
+    "related": "continual",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 540,
+    "word": "packed",
+    "pos": "adj.",
+    "meaning": "挤满的；装满的",
+    "meaningJa": "満員の；満載の",
+    "related": "crowded",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 541,
+    "word": "grammar",
+    "pos": "n.",
+    "meaning": "语法",
+    "meaningJa": "文法",
+    "related": "syntax",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 542,
+    "word": "ignore",
+    "pos": "v.",
+    "meaning": "忽视",
+    "meaningJa": "を無視する",
+    "related": "neglect",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 543,
+    "word": "raw",
+    "pos": "adj.",
+    "meaning": "生的；未经加工的",
+    "meaningJa": "生の；加工していない",
+    "related": "uncooked",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 544,
+    "word": "machinery",
+    "pos": "n.",
+    "meaning": "机械",
+    "meaningJa": "機械（類）",
+    "related": "equipment",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 545,
+    "word": "refuse",
+    "pos": "v.",
+    "meaning": "拒绝",
+    "meaningJa": "を断る，拒む",
+    "related": "reject",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 546,
+    "word": "witness",
+    "pos": "v.",
+    "meaning": "目击",
+    "meaningJa": "を目撃する",
+    "related": "observe",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 547,
+    "word": "manual",
+    "pos": "adj.",
+    "meaning": "体力劳动的；手工的",
+    "meaningJa": "肉体労働の；手の",
+    "related": "physical",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 548,
+    "word": "landing",
+    "pos": "n.",
+    "meaning": "着陆；登陆",
+    "meaningJa": "着陸；上陸",
+    "related": "touchdown",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 549,
+    "word": "informal",
+    "pos": "adj.",
+    "meaning": "非正式的；随意的",
+    "meaningJa": "形式ばらない；非公式の",
+    "related": "casual",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 550,
+    "word": "demonstrate",
+    "pos": "v.",
+    "meaning": "论证；证明",
+    "meaningJa": "を論証する，証明する",
+    "related": "show",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 551,
+    "word": "demanding",
+    "pos": "adj.",
+    "meaning": "费力的；要求高的",
+    "meaningJa": "骨の折れる，きつい",
+    "related": "hard",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 552,
+    "word": "quantity",
+    "pos": "n.",
+    "meaning": "量",
+    "meaningJa": "量",
+    "related": "amount",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 553,
+    "word": "announcement",
+    "pos": "n.",
+    "meaning": "宣布；通知",
+    "meaningJa": "発表；告知",
+    "related": "notification",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 554,
+    "word": "savings",
+    "pos": "n.",
+    "meaning": "储蓄",
+    "meaningJa": "貯金",
+    "related": "assets",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 555,
+    "word": "flesh",
+    "pos": "n.",
+    "meaning": "肉；肉体",
+    "meaningJa": "肉；肉体",
+    "related": "body",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 556,
+    "word": "persuade",
+    "pos": "v.",
+    "meaning": "说服",
+    "meaningJa": "を説得する",
+    "related": "convince",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 557,
+    "word": "dawn",
+    "pos": "n.",
+    "meaning": "黎明",
+    "meaningJa": "夜明け",
+    "related": "sunrise",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 558,
+    "word": "undoubtedly",
+    "pos": "adv.",
+    "meaning": "无疑地",
+    "meaningJa": "確かに",
+    "related": "certainly",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 559,
+    "word": "loud",
+    "pos": "adj.",
+    "meaning": "吵闹的；大声的",
+    "meaningJa": "うるさい；大声の",
+    "related": "noisy",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 560,
+    "word": "heaven",
+    "pos": "n.",
+    "meaning": "天堂",
+    "meaningJa": "天国，極楽",
+    "related": "paradise",
+    "phrase": "",
+    "sourcePage": 31
+  },
+  {
+    "id": 561,
+    "word": "bother",
+    "pos": "v.",
+    "meaning": "使烦恼",
+    "meaningJa": "を悩ます",
+    "related": "annoy",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 562,
+    "word": "reverse",
+    "pos": "adj.",
+    "meaning": "相反的",
+    "meaningJa": "反対の，逆の",
+    "related": "opposite",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 563,
+    "word": "composition",
+    "pos": "n.",
+    "meaning": "构成；作曲；作文",
+    "meaningJa": "構成；作曲；作文",
+    "related": "makeup",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 564,
+    "word": "pupil",
+    "pos": "n.",
+    "meaning": "学生；弟子",
+    "meaningJa": "生徒；弟子",
+    "related": "student",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 565,
+    "word": "governor",
+    "pos": "n.",
+    "meaning": "州长；总督",
+    "meaningJa": "知事；総督",
+    "related": "ruler",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 566,
+    "word": "tongue",
+    "pos": "n.",
+    "meaning": "语言；舌头",
+    "meaningJa": "言語；舌",
+    "related": "language",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 567,
+    "word": "roughly",
+    "pos": "adv.",
+    "meaning": "大约；粗暴地",
+    "meaningJa": "おおよそ，大体；手荒に",
+    "related": "about",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 568,
+    "word": "rush",
+    "pos": "v.",
+    "meaning": "赶忙；匆忙做",
+    "meaningJa": "急いで行く，急いでやる",
+    "related": "hurry",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 569,
+    "word": "instruction",
+    "pos": "n.",
+    "meaning": "指示；教育",
+    "meaningJa": "指示；教育",
+    "related": "direction",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 570,
+    "word": "breathing",
+    "pos": "n.",
+    "meaning": "呼吸",
+    "meaningJa": "呼吸，息遣い",
+    "related": "respiration",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 571,
+    "word": "repair",
+    "pos": "v.",
+    "meaning": "修理",
+    "meaningJa": "を修理する",
+    "related": "fix",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 572,
+    "word": "farming",
+    "pos": "n.",
+    "meaning": "农业；农场经营",
+    "meaningJa": "農場経営，農業",
+    "related": "agriculture",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 573,
+    "word": "generous",
+    "pos": "adj.",
+    "meaning": "慷慨的；宽大的",
+    "meaningJa": "気前の良い，寛大な",
+    "related": "liberal",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 574,
+    "word": "asleep",
+    "pos": "adj.",
+    "meaning": "睡着的",
+    "meaningJa": "眠って",
+    "related": "sleeping",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 575,
+    "word": "bare",
+    "pos": "adj.",
+    "meaning": "裸露的；无遮盖的",
+    "meaningJa": "裸の；露出した；飾らない",
+    "related": "naked",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 576,
+    "word": "exact",
+    "pos": "adj.",
+    "meaning": "准确的",
+    "meaningJa": "正確な",
+    "related": "precise",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 577,
+    "word": "explore",
+    "pos": "v.",
+    "meaning": "探险；调查",
+    "meaningJa": "を探検する；を調査する",
+    "related": "investigate",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 578,
+    "word": "staff",
+    "pos": "n.",
+    "meaning": "全体职员",
+    "meaningJa": "全職員",
+    "related": "employees",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 579,
+    "word": "arrange",
+    "pos": "v.",
+    "meaning": "安排；布置",
+    "meaningJa": "を取り決める；を配置する",
+    "related": "organise",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 580,
+    "word": "occupation",
+    "pos": "n.",
+    "meaning": "职业",
+    "meaningJa": "職業，仕事",
+    "related": "job",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 581,
+    "word": "wherever",
+    "pos": "conj.",
+    "meaning": "无论哪里",
+    "meaningJa": "〜する所はどこでも",
+    "related": "in any place",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 582,
+    "word": "ceiling",
+    "pos": "n.",
+    "meaning": "上限；天花板",
+    "meaningJa": "上限；天井",
+    "related": "maximum",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 583,
+    "word": "passion",
+    "pos": "n.",
+    "meaning": "激情；热情",
+    "meaningJa": "熱情，情熱",
+    "related": "fervour",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 584,
+    "word": "shell",
+    "pos": "n.",
+    "meaning": "贝壳；外壳",
+    "meaningJa": "貝殻；殻；甲羅；さや",
+    "related": "outside",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 585,
+    "word": "fancy",
+    "pos": "n.",
+    "meaning": "高档的；装饰性的",
+    "meaningJa": "高級な；装飾的な",
+    "related": "luxurious",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 586,
+    "word": "substance",
+    "pos": "n.",
+    "meaning": "物质；主旨；实质",
+    "meaningJa": "物質；趣旨；実質；意義",
+    "related": "material",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 587,
+    "word": "abstract",
+    "pos": "n.",
+    "meaning": "抽象的；理论的",
+    "meaningJa": "抽象的な；理論的な",
+    "related": "↔ concrete",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 588,
+    "word": "perception",
+    "pos": "n.",
+    "meaning": "知觉；认识",
+    "meaningJa": "知覚，認識",
+    "related": "awareness",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 589,
+    "word": "lawyer",
+    "pos": "n.",
+    "meaning": "律师",
+    "meaningJa": "弁護士",
+    "related": "attorney",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 590,
+    "word": "arrest",
+    "pos": "v.",
+    "meaning": "逮捕",
+    "meaningJa": "を逮捕する",
+    "related": "apprehend",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 591,
+    "word": "trace",
+    "pos": "n.",
+    "meaning": "痕迹",
+    "meaningJa": "跡，痕跡",
+    "related": "sign",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 592,
+    "word": "trousers",
+    "pos": "n.",
+    "meaning": "裤子",
+    "meaningJa": "ズボン",
+    "related": "pants",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 593,
+    "word": "fate",
+    "pos": "n.",
+    "meaning": "命运",
+    "meaningJa": "運命",
+    "related": "destiny",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 594,
+    "word": "deliver",
+    "pos": "v.",
+    "meaning": "递送；传达",
+    "meaningJa": "を配達する；を伝える",
+    "related": "bring",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 595,
+    "word": "emperor",
+    "pos": "n.",
+    "meaning": "皇帝；天皇",
+    "meaningJa": "皇帝；天皇",
+    "related": "ruler",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 596,
+    "word": "succeed",
+    "pos": "v.",
+    "meaning": "继承；接替",
+    "meaningJa": "を継ぐ；に続く",
+    "related": "take over from",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 597,
+    "word": "pat",
+    "pos": "v.",
+    "meaning": "轻拍",
+    "meaningJa": "を軽くたたく",
+    "related": "tap",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 598,
+    "word": "curious",
+    "pos": "n.",
+    "meaning": "好奇的；奇怪的",
+    "meaningJa": "好奇心の強い；奇妙な",
+    "related": "nosy",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 599,
+    "word": "ray",
+    "pos": "n.",
+    "meaning": "光线",
+    "meaningJa": "光線，光",
+    "related": "beam",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 600,
+    "word": "urgent",
+    "pos": "adj.",
+    "meaning": "紧急的",
+    "meaningJa": "切迫した，緊急の",
+    "related": "pressing",
+    "phrase": "",
+    "sourcePage": 32
+  },
+  {
+    "id": 601,
+    "word": "folk",
+    "pos": "n.",
+    "meaning": "一般人；民众",
+    "meaningJa": "一般の人々",
+    "related": "people",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 602,
+    "word": "desert",
+    "pos": "n.",
+    "meaning": "沙漠",
+    "meaningJa": "砂漠",
+    "related": "arid land",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 603,
+    "word": "recognise",
+    "pos": "v.",
+    "meaning": "承认；认出",
+    "meaningJa": "を認める；に見覚えがある",
+    "related": "identify",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 604,
+    "word": "grave",
+    "pos": "adj.",
+    "meaning": "严重的",
+    "meaningJa": "重大な，ひどい",
+    "related": "serious",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 605,
+    "word": "laughter",
+    "pos": "n.",
+    "meaning": "笑；笑声",
+    "meaningJa": "笑い；笑い声",
+    "related": "chuckling",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 606,
+    "word": "sympathy",
+    "pos": "n.",
+    "meaning": "同情；共鸣",
+    "meaningJa": "同情；共感",
+    "related": "compassion",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 607,
+    "word": "everyday",
+    "pos": "adj.",
+    "meaning": "日常的",
+    "meaningJa": "日常の；日々の",
+    "related": "ordinary",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 608,
+    "word": "addition",
+    "pos": "n.",
+    "meaning": "增加；添加",
+    "meaningJa": "付加，追加",
+    "related": "supplement",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 609,
+    "word": "anniversary",
+    "pos": "n.",
+    "meaning": "周年纪念日",
+    "meaningJa": "（毎年の）記念日，記念祭",
+    "related": "commemoration",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 610,
+    "word": "craft",
+    "pos": "n.",
+    "meaning": "技艺；手工",
+    "meaningJa": "技巧；（手先の）作業",
+    "related": "skill",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 611,
+    "word": "fortune",
+    "pos": "n.",
+    "meaning": "财富；大笔钱财",
+    "meaningJa": "富；大金",
+    "related": "wealth",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 612,
+    "word": "talent",
+    "pos": "n.",
+    "meaning": "才能",
+    "meaningJa": "才能，素質",
+    "related": "gift",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 613,
+    "word": "strict",
+    "pos": "adj.",
+    "meaning": "严格的；严密的",
+    "meaningJa": "厳格な；厳密な",
+    "related": "rigorous",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 614,
+    "word": "tap",
+    "pos": "n.",
+    "meaning": "水龙头",
+    "meaningJa": "蛇口",
+    "related": "valve",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 615,
+    "word": "funeral",
+    "pos": "n.",
+    "meaning": "葬礼",
+    "meaningJa": "葬式，葬儀",
+    "related": "last farewell",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 616,
+    "word": "wound",
+    "pos": "n.",
+    "meaning": "伤口；受伤",
+    "meaningJa": "傷，負傷",
+    "related": "injury",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 617,
+    "word": "dare",
+    "pos": "v.",
+    "meaning": "敢于",
+    "meaningJa": "思い切って〜する",
+    "related": "venture",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 618,
+    "word": "emerge",
+    "pos": "v.",
+    "meaning": "出现",
+    "meaningJa": "現れる",
+    "related": "appear",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 619,
+    "word": "intend",
+    "pos": "v.",
+    "meaning": "打算；意图",
+    "meaningJa": "を意図する",
+    "related": "mean",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 620,
+    "word": "courage",
+    "pos": "n.",
+    "meaning": "勇气",
+    "meaningJa": "勇気，度胸",
+    "related": "bravery",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 621,
+    "word": "unexpected",
+    "pos": "adj.",
+    "meaning": "意外的",
+    "meaningJa": "思いがけない，意外な",
+    "related": "unforeseen",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 622,
+    "word": "divorce",
+    "pos": "n.",
+    "meaning": "离婚；分离",
+    "meaningJa": "離婚；分離",
+    "related": "breakup",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 623,
+    "word": "navy",
+    "pos": "n.",
+    "meaning": "海军；深蓝色",
+    "meaningJa": "海軍；濃紺色",
+    "related": "fleet",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 624,
+    "word": "wildlife",
+    "pos": "n.",
+    "meaning": "野生生物",
+    "meaningJa": "野生生物",
+    "related": "wild animals",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 625,
+    "word": "discrimination",
+    "pos": "n.",
+    "meaning": "歧视",
+    "meaningJa": "差別",
+    "related": "prejudice",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 626,
+    "word": "shame",
+    "pos": "n.",
+    "meaning": "羞耻",
+    "meaningJa": "恥，恥ずかしさ",
+    "related": "disgrace",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 627,
+    "word": "recover",
+    "pos": "v.",
+    "meaning": "取回；恢复",
+    "meaningJa": "を取り戻す",
+    "related": "retrieve",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 628,
+    "word": "convenient",
+    "pos": "adj.",
+    "meaning": "方便的",
+    "meaningJa": "便利な，都合のいい",
+    "related": "handy",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 629,
+    "word": "biological",
+    "pos": "adj.",
+    "meaning": "生物学的",
+    "meaningJa": "生物学の",
+    "related": "biotic",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 630,
+    "word": "warmth",
+    "pos": "n.",
+    "meaning": "温暖",
+    "meaningJa": "暖かさ",
+    "related": "heat",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 631,
+    "word": "earn",
+    "pos": "v.",
+    "meaning": "赚取；获得",
+    "meaningJa": "を稼ぐ；を得る",
+    "related": "be paid",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 632,
+    "word": "clerk",
+    "pos": "n.",
+    "meaning": "办事员；银行职员",
+    "meaningJa": "事務員，行員",
+    "related": "office worker",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 633,
+    "word": "mechanical",
+    "pos": "n.",
+    "meaning": "机械的",
+    "meaningJa": "機械の；機械的な",
+    "related": "automatic",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 634,
+    "word": "destroy",
+    "pos": "v.",
+    "meaning": "破坏",
+    "meaningJa": "を破壊する",
+    "related": "devastate",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 635,
+    "word": "tube",
+    "pos": "n.",
+    "meaning": "管；筒；地铁",
+    "meaningJa": "管，筒；地下鉄",
+    "related": "pipe",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 636,
+    "word": "reward",
+    "pos": "n.",
+    "meaning": "报酬；奖励",
+    "meaningJa": "報酬，報償",
+    "related": "remuneration",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 637,
+    "word": "weapon",
+    "pos": "n.",
+    "meaning": "武器",
+    "meaningJa": "武器，兵器",
+    "related": "arms",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 638,
+    "word": "literally",
+    "pos": "adv.",
+    "meaning": "按字面意思；确实",
+    "meaningJa": "文字通り",
+    "related": "↔ figuratively",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 639,
+    "word": "strip",
+    "pos": "n.",
+    "meaning": "狭长的一片",
+    "meaningJa": "細長い一片",
+    "related": "narrow piece",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 640,
+    "word": "satisfy",
+    "pos": "v.",
+    "meaning": "使满意",
+    "meaningJa": "を満足させる",
+    "related": "please",
+    "phrase": "",
+    "sourcePage": 33
+  },
+  {
+    "id": 641,
+    "word": "corridor",
+    "pos": "n.",
+    "meaning": "走廊",
+    "meaningJa": "廊下，回廊",
+    "related": "passage",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 642,
+    "word": "compete",
+    "pos": "v.",
+    "meaning": "竞争",
+    "meaningJa": "競う，競争する",
+    "related": "contend",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 643,
+    "word": "breed",
+    "pos": "v.",
+    "meaning": "繁殖",
+    "meaningJa": "繁殖する",
+    "related": "reproduce",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 644,
+    "word": "solve",
+    "pos": "v.",
+    "meaning": "解决；解答",
+    "meaningJa": "を解く，解明する",
+    "related": "work out",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 645,
+    "word": "delight",
+    "pos": "n.",
+    "meaning": "大喜",
+    "meaningJa": "大喜び",
+    "related": "joy",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 646,
+    "word": "naked",
+    "pos": "adj.",
+    "meaning": "裸露的；赤裸的",
+    "meaningJa": "裸の；むき出しの；裸眼の",
+    "related": "bare",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 647,
+    "word": "carriage",
+    "pos": "n.",
+    "meaning": "四轮马车",
+    "meaningJa": "四輪馬車",
+    "related": "coach",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 648,
+    "word": "pity",
+    "pos": "n.",
+    "meaning": "怜悯；遗憾",
+    "meaningJa": "哀れみ，同情；残念なこと",
+    "related": "compassion",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 649,
+    "word": "oxygen",
+    "pos": "n.",
+    "meaning": "氧气",
+    "meaningJa": "酸素",
+    "related": "the element O",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 650,
+    "word": "pan",
+    "pos": "n.",
+    "meaning": "平底锅",
+    "meaningJa": "平鍋",
+    "related": "pot",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 651,
+    "word": "fool",
+    "pos": "v.",
+    "meaning": "欺骗",
+    "meaningJa": "をだます",
+    "related": "deceive",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 652,
+    "word": "intelligent",
+    "pos": "adj.",
+    "meaning": "聪明的",
+    "meaningJa": "知能の高い，聡明な",
+    "related": "clever",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 653,
+    "word": "outline",
+    "pos": "n.",
+    "meaning": "概要；轮廓",
+    "meaningJa": "概略；輪郭",
+    "related": "summary",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 654,
+    "word": "physics",
+    "pos": "n.",
+    "meaning": "物理学",
+    "meaningJa": "物理学",
+    "related": "physical science",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 655,
+    "word": "invitation",
+    "pos": "n.",
+    "meaning": "邀请",
+    "meaningJa": "招待；誘い",
+    "related": "request",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 656,
+    "word": "penny",
+    "pos": "n.",
+    "meaning": "便士",
+    "meaningJa": "ペニー，ペンス",
+    "related": "cent",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 657,
+    "word": "mate",
+    "pos": "v.",
+    "meaning": "交配",
+    "meaningJa": "つがう，交尾する",
+    "related": "breed",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 658,
+    "word": "pence",
+    "pos": "n.",
+    "meaning": "便士的复数形式",
+    "meaningJa": "penny の複数",
+    "related": "cents",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 659,
+    "word": "underneath",
+    "pos": "prep.",
+    "meaning": "在…下面",
+    "meaningJa": "〜の下に",
+    "related": "below",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 660,
+    "word": "complaint",
+    "pos": "n.",
+    "meaning": "抱怨；轻微疾病",
+    "meaningJa": "不平，苦情；（重くない）病気",
+    "related": "protest",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 661,
+    "word": "differ",
+    "pos": "v.",
+    "meaning": "不同",
+    "meaningJa": "違う，異なる",
+    "related": "vary",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 662,
+    "word": "merchant",
+    "pos": "n.",
+    "meaning": "商人；批发商",
+    "meaningJa": "商人，卸売商",
+    "related": "dealer",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 663,
+    "word": "creature",
+    "pos": "n.",
+    "meaning": "生物；动物",
+    "meaningJa": "生き物；動物",
+    "related": "animal",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 664,
+    "word": "essence",
+    "pos": "n.",
+    "meaning": "本质；精髓",
+    "meaningJa": "本質；真髄",
+    "related": "core",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 665,
+    "word": "recommend",
+    "pos": "v.",
+    "meaning": "推荐；建议",
+    "meaningJa": "を推薦する，勧める",
+    "related": "advise",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 666,
+    "word": "necessity",
+    "pos": "n.",
+    "meaning": "必要；必要性",
+    "meaningJa": "必要，必要性",
+    "related": "requirement",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 667,
+    "word": "triumph",
+    "pos": "n.",
+    "meaning": "胜利；成功",
+    "meaningJa": "勝利，成功",
+    "related": "victory",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 668,
+    "word": "bike",
+    "pos": "n.",
+    "meaning": "自行车",
+    "meaningJa": "自転車",
+    "related": "bicycle",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 669,
+    "word": "luxury",
+    "pos": "n.",
+    "meaning": "奢侈",
+    "meaningJa": "ぜいたく",
+    "related": "extravagance",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 670,
+    "word": "pile",
+    "pos": "n.",
+    "meaning": "一堆；堆积物",
+    "meaningJa": "積み重ねた山，堆積",
+    "related": "heap",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 671,
+    "word": "nursery",
+    "pos": "n.",
+    "meaning": "托儿所",
+    "meaningJa": "託児所",
+    "related": "day care centre",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 672,
+    "word": "muscle",
+    "pos": "n.",
+    "meaning": "肌肉；力气",
+    "meaningJa": "筋力；力；筋肉",
+    "related": "power",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 673,
+    "word": "divide",
+    "pos": "v.",
+    "meaning": "分割",
+    "meaningJa": "を分割する",
+    "related": "split",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 674,
+    "word": "crack",
+    "pos": "v.",
+    "meaning": "裂开；破裂",
+    "meaningJa": "ひびが入る，砕ける",
+    "related": "break",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 675,
+    "word": "dull",
+    "pos": "n.",
+    "meaning": "乏味的；单调的",
+    "meaningJa": "退屈な，単調な",
+    "related": "boring",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 676,
+    "word": "dealer",
+    "pos": "n.",
+    "meaning": "经销商",
+    "meaningJa": "販売人，業者",
+    "related": "trader",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 677,
+    "word": "smart",
+    "pos": "adj.",
+    "meaning": "聪明的",
+    "meaningJa": "利口な，賢い",
+    "related": "clever",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 678,
+    "word": "soldier",
+    "pos": "n.",
+    "meaning": "士兵",
+    "meaningJa": "軍人，兵隊",
+    "related": "fighter",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 679,
+    "word": "precious",
+    "pos": "adj.",
+    "meaning": "贵重的；珍贵的",
+    "meaningJa": "高価な；貴重な",
+    "related": "valuable",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 680,
+    "word": "nasty",
+    "pos": "adj.",
+    "meaning": "令人不快的",
+    "meaningJa": "不快な，迷惑な",
+    "related": "unpleasant",
+    "phrase": "",
+    "sourcePage": 34
+  },
+  {
+    "id": 681,
+    "word": "participate",
+    "pos": "v.",
+    "meaning": "参加",
+    "meaningJa": "参加する",
+    "related": "take part in",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 682,
+    "word": "combine",
+    "pos": "v.",
+    "meaning": "组合",
+    "meaningJa": "を組み合わせる",
+    "related": "mix",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 683,
+    "word": "portrait",
+    "pos": "n.",
+    "meaning": "肖像；人物照片",
+    "meaningJa": "肖像（画），人物写真",
+    "related": "picture",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 684,
+    "word": "employ",
+    "pos": "v.",
+    "meaning": "雇用；使用",
+    "meaningJa": "を雇う；を用いる",
+    "related": "hire",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 685,
+    "word": "mount",
+    "pos": "v.",
+    "meaning": "增加；升高",
+    "meaningJa": "増す；高まる",
+    "related": "increase",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 686,
+    "word": "remind",
+    "pos": "v.",
+    "meaning": "使想起",
+    "meaningJa": "に思い出させる",
+    "related": "help remember",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 687,
+    "word": "chart",
+    "pos": "n.",
+    "meaning": "图表",
+    "meaningJa": "図；グラフ",
+    "related": "graphic",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 688,
+    "word": "weakness",
+    "pos": "n.",
+    "meaning": "弱点；虚弱",
+    "meaningJa": "弱さ；弱点",
+    "related": "flaw",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 689,
+    "word": "delicate",
+    "pos": "adj.",
+    "meaning": "易碎的；微妙的",
+    "meaningJa": "壊れやすい；微妙な",
+    "related": "fragile",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 690,
+    "word": "hire",
+    "pos": "v.",
+    "meaning": "雇用；租用",
+    "meaningJa": "を雇う；を賃借りする",
+    "related": "employ",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 691,
+    "word": "manufacture",
+    "pos": "v.",
+    "meaning": "制造",
+    "meaningJa": "を製造する",
+    "related": "produce",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 692,
+    "word": "infant",
+    "pos": "n.",
+    "meaning": "婴儿",
+    "meaningJa": "乳児，赤ん坊",
+    "related": "baby",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 693,
+    "word": "forth",
+    "pos": "adv.",
+    "meaning": "向前",
+    "meaningJa": "前へ，先へ",
+    "related": "forward",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 694,
+    "word": "splendid",
+    "pos": "adj.",
+    "meaning": "极好的",
+    "meaningJa": "素晴らしい，見事な",
+    "related": "magnificent",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 695,
+    "word": "restore",
+    "pos": "v.",
+    "meaning": "恢复",
+    "meaningJa": "を回復する；を復活させる",
+    "related": "bring back",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 696,
+    "word": "fascinating",
+    "pos": "adj.",
+    "meaning": "迷人的",
+    "meaningJa": "魅惑的な",
+    "related": "appealing",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 697,
+    "word": "trap",
+    "pos": "n.",
+    "meaning": "陷阱；计谋",
+    "meaningJa": "わな；計略",
+    "related": "trick",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 698,
+    "word": "ambulance",
+    "pos": "n.",
+    "meaning": "救护车",
+    "meaningJa": "救急車",
+    "related": "rescue vehicle",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 699,
+    "word": "crop",
+    "pos": "n.",
+    "meaning": "庄稼；收获物",
+    "meaningJa": "作物，収穫物",
+    "related": "harvest",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 700,
+    "word": "neat",
+    "pos": "adj.",
+    "meaning": "整洁的",
+    "meaningJa": "きちんとした，整頓された",
+    "related": "tidy",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 701,
+    "word": "explosion",
+    "pos": "n.",
+    "meaning": "爆炸",
+    "meaningJa": "爆発，破裂",
+    "related": "blast",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 702,
+    "word": "observe",
+    "pos": "v.",
+    "meaning": "观察；陈述",
+    "meaningJa": "を観察する；と述べる",
+    "related": "watch",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 703,
+    "word": "patch",
+    "pos": "n.",
+    "meaning": "补丁",
+    "meaningJa": "継ぎ，継ぎ切れ",
+    "related": "piece of cloth",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 704,
+    "word": "permit",
+    "pos": "v.",
+    "meaning": "允许",
+    "meaningJa": "を許す，許可する",
+    "related": "allow",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 705,
+    "word": "seed",
+    "pos": "n.",
+    "meaning": "种子",
+    "meaningJa": "種，種子",
+    "related": "germ",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 706,
+    "word": "geography",
+    "pos": "n.",
+    "meaning": "地理；地理学",
+    "meaningJa": "地理；地理学",
+    "related": "natural features",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 707,
+    "word": "disorder",
+    "pos": "n.",
+    "meaning": "混乱",
+    "meaningJa": "混乱，乱雑",
+    "related": "confusion",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 708,
+    "word": "breast",
+    "pos": "n.",
+    "meaning": "乳房；胸部",
+    "meaningJa": "乳房；胸",
+    "related": "chest",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 709,
+    "word": "insist",
+    "pos": "v.",
+    "meaning": "坚持声称",
+    "meaningJa": "を強く主張する，言い張る",
+    "related": "assert",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 710,
+    "word": "fortunately",
+    "pos": "adv.",
+    "meaning": "幸运地",
+    "meaningJa": "幸運にも",
+    "related": "luckily",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 711,
+    "word": "horrible",
+    "pos": "adj.",
+    "meaning": "可怕的",
+    "meaningJa": "恐ろしい",
+    "related": "terrible",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 712,
+    "word": "stroke",
+    "pos": "n.",
+    "meaning": "中风；发作",
+    "meaningJa": "脳卒中；発作",
+    "related": "seizure",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 713,
+    "word": "praise",
+    "pos": "v.",
+    "meaning": "称赞",
+    "meaningJa": "を褒める，称賛する",
+    "related": "compliment",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 714,
+    "word": "avenue",
+    "pos": "n.",
+    "meaning": "大街",
+    "meaningJa": "大通り，街路",
+    "related": "street",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 715,
+    "word": "continent",
+    "pos": "n.",
+    "meaning": "大陆",
+    "meaningJa": "大陸",
+    "related": "landmass",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 716,
+    "word": "absent",
+    "pos": "adj.",
+    "meaning": "缺席的；缺少的",
+    "meaningJa": "不在の；欠けた",
+    "related": "missing",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 717,
+    "word": "detective",
+    "pos": "n.",
+    "meaning": "侦探",
+    "meaningJa": "刑事",
+    "related": "investigator",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 718,
+    "word": "prevention",
+    "pos": "n.",
+    "meaning": "预防",
+    "meaningJa": "防止，予防",
+    "related": "avoidance",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 719,
+    "word": "tune",
+    "pos": "n.",
+    "meaning": "曲调",
+    "meaningJa": "曲，楽曲",
+    "related": "melody",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 720,
+    "word": "reject",
+    "pos": "v.",
+    "meaning": "拒绝",
+    "meaningJa": "を拒否する",
+    "related": "refuse",
+    "phrase": "",
+    "sourcePage": 35
+  },
+  {
+    "id": 721,
+    "word": "promising",
+    "pos": "adj.",
+    "meaning": "有前途的",
+    "meaningJa": "有望な",
+    "related": "hopeful",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 722,
+    "word": "possess",
+    "pos": "v.",
+    "meaning": "拥有",
+    "meaningJa": "を所持している",
+    "related": "have",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 723,
+    "word": "memorial",
+    "pos": "n.",
+    "meaning": "纪念物；纪念碑",
+    "meaningJa": "記念（物），記念碑",
+    "related": "monument",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 724,
+    "word": "trick",
+    "pos": "n.",
+    "meaning": "计谋；恶作剧；诀窍",
+    "meaningJa": "策略；いたずら；こつ",
+    "related": "ploy",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 725,
+    "word": "cliff",
+    "pos": "n.",
+    "meaning": "悬崖",
+    "meaningJa": "崖，絶壁",
+    "related": "bluff",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 726,
+    "word": "flood",
+    "pos": "n.",
+    "meaning": "洪水",
+    "meaningJa": "洪水，氾濫",
+    "related": "deluge",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 727,
+    "word": "cure",
+    "pos": "v.",
+    "meaning": "治愈",
+    "meaningJa": "を治す，治癒させる",
+    "related": "remedy",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 728,
+    "word": "disappointment",
+    "pos": "n.",
+    "meaning": "失望",
+    "meaningJa": "失望，落胆",
+    "related": "dismay",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 729,
+    "word": "seldom",
+    "pos": "n.",
+    "meaning": "很少",
+    "meaningJa": "めったに〜ない",
+    "related": "rarely",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 730,
+    "word": "inform",
+    "pos": "v.",
+    "meaning": "通知",
+    "meaningJa": "に通知する",
+    "related": "notify",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 731,
+    "word": "rob",
+    "pos": "v.",
+    "meaning": "抢劫",
+    "meaningJa": "から強奪する",
+    "related": "steal",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 732,
+    "word": "bore",
+    "pos": "v.",
+    "meaning": "使无聊；钻孔",
+    "meaningJa": "を退屈させる；（穴）をあける",
+    "related": "tire",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 733,
+    "word": "vague",
+    "pos": "adj.",
+    "meaning": "模糊的",
+    "meaningJa": "曖昧な",
+    "related": "unclear",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 734,
+    "word": "margin",
+    "pos": "n.",
+    "meaning": "页边空白；差额；利润",
+    "meaningJa": "余白，欄外；差；利ざや",
+    "related": "edge",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 735,
+    "word": "neighbourhood",
+    "pos": "n.",
+    "meaning": "附近；街区",
+    "meaningJa": "近所，近隣",
+    "related": "vicinity",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 736,
+    "word": "chase",
+    "pos": "v.",
+    "meaning": "追赶",
+    "meaningJa": "を追跡する",
+    "related": "pursue",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 737,
+    "word": "nest",
+    "pos": "n.",
+    "meaning": "巢",
+    "meaningJa": "巣；ねぐら",
+    "related": "shelter",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 738,
+    "word": "racial",
+    "pos": "n.",
+    "meaning": "种族的",
+    "meaningJa": "人種の",
+    "related": "ethnic",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 739,
+    "word": "despair",
+    "pos": "n.",
+    "meaning": "绝望",
+    "meaningJa": "絶望，失望",
+    "related": "hopelessness",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 740,
+    "word": "alike",
+    "pos": "adj.",
+    "meaning": "相似的",
+    "meaningJa": "似ている",
+    "related": "similar",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 741,
+    "word": "fix",
+    "pos": "v.",
+    "meaning": "修理；固定",
+    "meaningJa": "を修理する；を固定する",
+    "related": "repair",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 742,
+    "word": "bow",
+    "pos": "v.",
+    "meaning": "鞠躬",
+    "meaningJa": "おじぎする",
+    "related": "greet",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 743,
+    "word": "hook",
+    "pos": "n.",
+    "meaning": "钩；搭扣",
+    "meaningJa": "かぎ針；留め金",
+    "related": "peg",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 744,
+    "word": "embarrassed",
+    "pos": "adj.",
+    "meaning": "尴尬的",
+    "meaningJa": "ばつの悪い",
+    "related": "ashamed",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 745,
+    "word": "diversity",
+    "pos": "n.",
+    "meaning": "多样性",
+    "meaningJa": "多様性",
+    "related": "variety",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 746,
+    "word": "meantime",
+    "pos": "n.",
+    "meaning": "其间",
+    "meaningJa": "その間",
+    "related": "meanwhile",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 747,
+    "word": "celebrate",
+    "pos": "v.",
+    "meaning": "庆祝",
+    "meaningJa": "を祝う",
+    "related": "commemorate",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 748,
+    "word": "import",
+    "pos": "v.",
+    "meaning": "进口",
+    "meaningJa": "を輸入する",
+    "related": "bring in",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 749,
+    "word": "nightmare",
+    "pos": "n.",
+    "meaning": "可怕的事；噩梦",
+    "meaningJa": "恐ろしい出来事；悪夢",
+    "related": "horrific event",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 750,
+    "word": "shelf",
+    "pos": "n.",
+    "meaning": "架子",
+    "meaningJa": "棚，棚板",
+    "related": "rack",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 751,
+    "word": "sensation",
+    "pos": "n.",
+    "meaning": "感觉",
+    "meaningJa": "感覚，知覚",
+    "related": "feeling",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 752,
+    "word": "liberty",
+    "pos": "n.",
+    "meaning": "自由；解放",
+    "meaningJa": "自由；解放",
+    "related": "freedom",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 753,
+    "word": "practically",
+    "pos": "adv.",
+    "meaning": "几乎；实际上",
+    "meaningJa": "ほとんど；事実上",
+    "related": "virtually",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 754,
+    "word": "dreadful",
+    "pos": "adj.",
+    "meaning": "极坏的；可怕的",
+    "meaningJa": "ひどく悪い；はなはだしい",
+    "related": "terrible",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 755,
+    "word": "charm",
+    "pos": "n.",
+    "meaning": "魅力",
+    "meaningJa": "魅力",
+    "related": "appeal",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 756,
+    "word": "coffin",
+    "pos": "n.",
+    "meaning": "棺材",
+    "meaningJa": "棺，ひつぎ",
+    "related": "casket",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 757,
+    "word": "cupboard",
+    "pos": "n.",
+    "meaning": "橱柜",
+    "meaningJa": "食器棚",
+    "related": "cabinet",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 758,
+    "word": "rod",
+    "pos": "n.",
+    "meaning": "杆；棒",
+    "meaningJa": "棒，さお",
+    "related": "bar",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 759,
+    "word": "eager",
+    "pos": "adj.",
+    "meaning": "渴望的；热心的",
+    "meaningJa": "熱望して；熱心な",
+    "related": "enthusiastic",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 760,
+    "word": "collar",
+    "pos": "n.",
+    "meaning": "衣领",
+    "meaningJa": "襟，カラー",
+    "related": "neckband",
+    "phrase": "",
+    "sourcePage": 36
+  },
+  {
+    "id": 761,
+    "word": "sword",
+    "pos": "n.",
+    "meaning": "剑；刀",
+    "meaningJa": "剣，刀",
+    "related": "blade",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 762,
+    "word": "flash",
+    "pos": "n.",
+    "meaning": "闪光；灵光",
+    "meaningJa": "閃光；ひらめき",
+    "related": "spark",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 763,
+    "word": "loyal",
+    "pos": "adj.",
+    "meaning": "忠诚的",
+    "meaningJa": "忠実な",
+    "related": "faithful",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 764,
+    "word": "wealthy",
+    "pos": "adj.",
+    "meaning": "富有的",
+    "meaningJa": "富裕な",
+    "related": "rich",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 765,
+    "word": "migration",
+    "pos": "n.",
+    "meaning": "迁移；迁徙",
+    "meaningJa": "移住；移動，渡り，回遊",
+    "related": "movement",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 766,
+    "word": "cruel",
+    "pos": "adj.",
+    "meaning": "残酷的",
+    "meaningJa": "残酷な",
+    "related": "brutal",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 767,
+    "word": "organ",
+    "pos": "n.",
+    "meaning": "器官",
+    "meaningJa": "器官，臓器",
+    "related": "body part",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 768,
+    "word": "horizon",
+    "pos": "n.",
+    "meaning": "地平线",
+    "meaningJa": "地平線，水平線",
+    "related": "skyline",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 769,
+    "word": "nerve",
+    "pos": "n.",
+    "meaning": "胆量；神经",
+    "meaningJa": "度胸；神経",
+    "related": "confidence",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 770,
+    "word": "ambition",
+    "pos": "n.",
+    "meaning": "野心；抱负",
+    "meaningJa": "野心；野望",
+    "related": "aspiration",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 771,
+    "word": "ugly",
+    "pos": "adj.",
+    "meaning": "丑陋的",
+    "meaningJa": "醜い",
+    "related": "unattractive",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 772,
+    "word": "forgive",
+    "pos": "v.",
+    "meaning": "原谅",
+    "meaningJa": "を許す",
+    "related": "pardon",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 773,
+    "word": "bend",
+    "pos": "v.",
+    "meaning": "弯曲",
+    "meaningJa": "を曲げる",
+    "related": "curve",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 774,
+    "word": "envelope",
+    "pos": "n.",
+    "meaning": "信封",
+    "meaningJa": "封筒",
+    "related": "cover",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 775,
+    "word": "neatly",
+    "pos": "adv.",
+    "meaning": "整齐地",
+    "meaningJa": "きちんと",
+    "related": "tidily",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 776,
+    "word": "masses",
+    "pos": "n.",
+    "meaning": "大众",
+    "meaningJa": "〈the 〜〉一般大衆，庶民",
+    "related": "the public",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 777,
+    "word": "ladder",
+    "pos": "n.",
+    "meaning": "梯子",
+    "meaningJa": "はしご",
+    "related": "steps",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 778,
+    "word": "chat",
+    "pos": "n.",
+    "meaning": "闲聊",
+    "meaningJa": "おしゃべり，雑談",
+    "related": "conversation",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 779,
+    "word": "bold",
+    "pos": "adj.",
+    "meaning": "大胆的",
+    "meaningJa": "大胆な",
+    "related": "fearless",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 780,
+    "word": "burnt",
+    "pos": "adj.",
+    "meaning": "烧过的；烧焦的",
+    "meaningJa": "焼けた，焦げた",
+    "related": "scorched",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 781,
+    "word": "useless",
+    "pos": "adj.",
+    "meaning": "无用的",
+    "meaningJa": "役に立たない",
+    "related": "worthless",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 782,
+    "word": "lap",
+    "pos": "n.",
+    "meaning": "大腿上；膝上",
+    "meaningJa": "膝の上",
+    "related": "thighs",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 783,
+    "word": "lend",
+    "pos": "v.",
+    "meaning": "借出",
+    "meaningJa": "を貸す",
+    "related": "loan",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 784,
+    "word": "deserve",
+    "pos": "v.",
+    "meaning": "值得",
+    "meaningJa": "に値する",
+    "related": "merit",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 785,
+    "word": "jail",
+    "pos": "n.",
+    "meaning": "监狱",
+    "meaningJa": "刑務所，監獄",
+    "related": "prison",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 786,
+    "word": "restriction",
+    "pos": "n.",
+    "meaning": "限制；管制",
+    "meaningJa": "制限；規制",
+    "related": "limitation",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 787,
+    "word": "defensive",
+    "pos": "adj.",
+    "meaning": "防御的",
+    "meaningJa": "防御［防衛］の；守備の",
+    "related": "protective",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 788,
+    "word": "palm",
+    "pos": "n.",
+    "meaning": "手掌",
+    "meaningJa": "手のひら",
+    "related": "hand",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 789,
+    "word": "summit",
+    "pos": "n.",
+    "meaning": "顶峰；峰会",
+    "meaningJa": "頂上；首脳会議；絶頂",
+    "related": "peak",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 790,
+    "word": "pretend",
+    "pos": "v.",
+    "meaning": "假装",
+    "meaningJa": "のふりをする",
+    "related": "fake",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 791,
+    "word": "surroundings",
+    "pos": "n.",
+    "meaning": "周围环境",
+    "meaningJa": "周囲の状況",
+    "related": "environment",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 792,
+    "word": "pour",
+    "pos": "v.",
+    "meaning": "倒；灌",
+    "meaningJa": "を注ぐ，つぐ",
+    "related": "stream",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 793,
+    "word": "needle",
+    "pos": "n.",
+    "meaning": "针",
+    "meaningJa": "針",
+    "related": "pin",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 794,
+    "word": "celebration",
+    "pos": "n.",
+    "meaning": "庆祝；典礼",
+    "meaningJa": "祝賀；祝典",
+    "related": "party",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 795,
+    "word": "owe",
+    "pos": "v.",
+    "meaning": "受惠于；欠",
+    "meaningJa": "の恩恵をこうむる",
+    "related": "be indebted",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 796,
+    "word": "lean",
+    "pos": "v.",
+    "meaning": "倾斜",
+    "meaningJa": "傾く",
+    "related": "tilt",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 797,
+    "word": "temper",
+    "pos": "n.",
+    "meaning": "脾气",
+    "meaningJa": "気質，気性",
+    "related": "character",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 798,
+    "word": "coin",
+    "pos": "v.",
+    "meaning": "创造新词；铸造",
+    "meaningJa": "を造語する；を鋳造する",
+    "related": "create",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 799,
+    "word": "humanity",
+    "pos": "n.",
+    "meaning": "人类；人性",
+    "meaningJa": "人類；人間性",
+    "related": "mankind",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 800,
+    "word": "mineral",
+    "pos": "n.",
+    "meaning": "矿物",
+    "meaningJa": "鉱物；ミネラル",
+    "related": "inorganic substance",
+    "phrase": "",
+    "sourcePage": 37
+  },
+  {
+    "id": 801,
+    "word": "bunch",
+    "pos": "n.",
+    "meaning": "束；串",
+    "meaningJa": "束；房",
+    "related": "group",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 802,
+    "word": "neglect",
+    "pos": "v.",
+    "meaning": "忽视",
+    "meaningJa": "をおろそかにする",
+    "related": "ignore",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 803,
+    "word": "forehead",
+    "pos": "n.",
+    "meaning": "额头",
+    "meaningJa": "額，前頭部",
+    "related": "brow",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 804,
+    "word": "recipe",
+    "pos": "n.",
+    "meaning": "食谱；烹饪法",
+    "meaningJa": "調理法",
+    "related": "formula",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 805,
+    "word": "patience",
+    "pos": "n.",
+    "meaning": "耐心",
+    "meaningJa": "忍耐，辛抱",
+    "related": "tolerance",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 806,
+    "word": "twist",
+    "pos": "v.",
+    "meaning": "绞合；扭曲",
+    "meaningJa": "をより合わせる；をねじる",
+    "related": "turn",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 807,
+    "word": "packet",
+    "pos": "n.",
+    "meaning": "小包",
+    "meaningJa": "小箱；包み",
+    "related": "package",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 808,
+    "word": "fetch",
+    "pos": "v.",
+    "meaning": "拿来",
+    "meaningJa": "を持って来る",
+    "related": "bring",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 809,
+    "word": "receipt",
+    "pos": "n.",
+    "meaning": "收据；接收",
+    "meaningJa": "領収書；受領",
+    "related": "sales slip",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 810,
+    "word": "assignment",
+    "pos": "n.",
+    "meaning": "任务；作业",
+    "meaningJa": "任務；課題",
+    "related": "task",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 811,
+    "word": "fry",
+    "pos": "v.",
+    "meaning": "油煎",
+    "meaningJa": "を油で焼く",
+    "related": "cook",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 812,
+    "word": "miserable",
+    "pos": "adj.",
+    "meaning": "悲惨的",
+    "meaningJa": "惨めな；悲惨な",
+    "related": "sad",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 813,
+    "word": "ambassador",
+    "pos": "n.",
+    "meaning": "大使",
+    "meaningJa": "大使",
+    "related": "diplomat",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 814,
+    "word": "tear",
+    "pos": "v.",
+    "meaning": "撕裂",
+    "meaningJa": "を裂く，破る",
+    "related": "rip",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 815,
+    "word": "warn",
+    "pos": "v.",
+    "meaning": "警告",
+    "meaningJa": "に警告する",
+    "related": "alert",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 816,
+    "word": "grin",
+    "pos": "v.",
+    "meaning": "咧嘴笑",
+    "meaningJa": "にこっと笑う",
+    "related": "smile",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 817,
+    "word": "fond",
+    "pos": "adj.",
+    "meaning": "喜爱的",
+    "meaningJa": "大好きである",
+    "related": "in love",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 818,
+    "word": "graduate",
+    "pos": "v.",
+    "meaning": "毕业",
+    "meaningJa": "卒業する",
+    "related": "finish",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 819,
+    "word": "hunger",
+    "pos": "n.",
+    "meaning": "饥饿",
+    "meaningJa": "飢え，空腹",
+    "related": "starvation",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 820,
+    "word": "bride",
+    "pos": "n.",
+    "meaning": "新娘",
+    "meaningJa": "花嫁，新婦",
+    "related": "newly-wed",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 821,
+    "word": "cheerful",
+    "pos": "adj.",
+    "meaning": "愉快的",
+    "meaningJa": "陽気な",
+    "related": "happy",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 822,
+    "word": "knit",
+    "pos": "v.",
+    "meaning": "编织；结合",
+    "meaningJa": "を編む；を結び付ける",
+    "related": "weave",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 823,
+    "word": "sigh",
+    "pos": "v.",
+    "meaning": "叹气",
+    "meaningJa": "ため息をつく",
+    "related": "exhale",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 824,
+    "word": "signature",
+    "pos": "n.",
+    "meaning": "签名",
+    "meaningJa": "署名",
+    "related": "handwritten name",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 825,
+    "word": "breathe",
+    "pos": "v.",
+    "meaning": "呼吸",
+    "meaningJa": "呼吸する",
+    "related": "respire",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 826,
+    "word": "instinct",
+    "pos": "n.",
+    "meaning": "本能",
+    "meaningJa": "本能",
+    "related": "intuition",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 827,
+    "word": "pose",
+    "pos": "v.",
+    "meaning": "引起；提出",
+    "meaningJa": "を引き起こす，提起する",
+    "related": "present",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 828,
+    "word": "fur",
+    "pos": "n.",
+    "meaning": "软毛；毛皮",
+    "meaningJa": "柔毛；毛皮",
+    "related": "pelt",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 829,
+    "word": "politician",
+    "pos": "n.",
+    "meaning": "政治家",
+    "meaningJa": "政治家",
+    "related": "legislator",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 830,
+    "word": "fever",
+    "pos": "n.",
+    "meaning": "发热",
+    "meaningJa": "熱，発熱",
+    "related": "temperature",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 831,
+    "word": "dig",
+    "pos": "v.",
+    "meaning": "挖掘",
+    "meaningJa": "を掘る；を掘り出す",
+    "related": "excavate",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 832,
+    "word": "approve",
+    "pos": "v.",
+    "meaning": "批准",
+    "meaningJa": "を承認する",
+    "related": "authorise",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 833,
+    "word": "ashamed",
+    "pos": "adj.",
+    "meaning": "羞愧的",
+    "meaningJa": "恥じて",
+    "related": "embarrassed",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 834,
+    "word": "flour",
+    "pos": "n.",
+    "meaning": "面粉",
+    "meaningJa": "小麦粉",
+    "related": "wheat powder",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 835,
+    "word": "appoint",
+    "pos": "v.",
+    "meaning": "任命",
+    "meaningJa": "を任命する",
+    "related": "name",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 836,
+    "word": "arrow",
+    "pos": "n.",
+    "meaning": "箭头；箭",
+    "meaningJa": "矢印；矢",
+    "related": "cursor",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 837,
+    "word": "occupy",
+    "pos": "v.",
+    "meaning": "占领；占据",
+    "meaningJa": "を占領する；を占める",
+    "related": "capture",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 838,
+    "word": "sack",
+    "pos": "n.",
+    "meaning": "大袋",
+    "meaningJa": "大袋；袋",
+    "related": "bag",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 839,
+    "word": "lid",
+    "pos": "n.",
+    "meaning": "盖子",
+    "meaningJa": "ふた",
+    "related": "cap",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 840,
+    "word": "sweep",
+    "pos": "v.",
+    "meaning": "迅速传播",
+    "meaningJa": "に急速に広まる",
+    "related": "spread through",
+    "phrase": "",
+    "sourcePage": 38
+  },
+  {
+    "id": 841,
+    "word": "fare",
+    "pos": "n.",
+    "meaning": "车费",
+    "meaningJa": "運賃",
+    "related": "charge",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 842,
+    "word": "horn",
+    "pos": "n.",
+    "meaning": "角；触角",
+    "meaningJa": "角；触角",
+    "related": "antler",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 843,
+    "word": "cage",
+    "pos": "n.",
+    "meaning": "笼子",
+    "meaningJa": "鳥かご；おり",
+    "related": "pen",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 844,
+    "word": "wheat",
+    "pos": "n.",
+    "meaning": "小麦",
+    "meaningJa": "小麦",
+    "related": "cereal",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 845,
+    "word": "dirt",
+    "pos": "n.",
+    "meaning": "污垢；泥土",
+    "meaningJa": "汚れ，泥",
+    "related": "stain",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 846,
+    "word": "maths",
+    "pos": "n.",
+    "meaning": "数学",
+    "meaningJa": "数学",
+    "related": "mathematics",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 847,
+    "word": "researcher",
+    "pos": "n.",
+    "meaning": "研究者",
+    "meaningJa": "研究者",
+    "related": "investigator",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 848,
+    "word": "dislike",
+    "pos": "n.",
+    "meaning": "厌恶；不喜欢的事物",
+    "meaningJa": "嫌悪，反感；〈〜s〉嫌いなもの",
+    "related": "hate",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 849,
+    "word": "scream",
+    "pos": "v.",
+    "meaning": "尖叫",
+    "meaningJa": "叫び声を上げる",
+    "related": "cry out",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 850,
+    "word": "rude",
+    "pos": "adj.",
+    "meaning": "无礼的",
+    "meaningJa": "無礼な",
+    "related": "impolite",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 851,
+    "word": "treasure",
+    "pos": "n.",
+    "meaning": "财宝",
+    "meaningJa": "財宝，宝物",
+    "related": "valuables",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 852,
+    "word": "cruise",
+    "pos": "v.",
+    "meaning": "乘船旅行",
+    "meaningJa": "船旅をする",
+    "related": "sail",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 853,
+    "word": "aloud",
+    "pos": "adv.",
+    "meaning": "出声地",
+    "meaningJa": "声に出して",
+    "related": "orally",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 854,
+    "word": "portable",
+    "pos": "adj.",
+    "meaning": "便携的",
+    "meaningJa": "移動可能な；携帯用の",
+    "related": "mobile",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 855,
+    "word": "lung",
+    "pos": "n.",
+    "meaning": "肺",
+    "meaningJa": "肺",
+    "related": "respiratory organ",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 856,
+    "word": "poison",
+    "pos": "n.",
+    "meaning": "毒；毒药",
+    "meaningJa": "毒，毒薬",
+    "related": "venom",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 857,
+    "word": "thread",
+    "pos": "n.",
+    "meaning": "线；脉络",
+    "meaningJa": "糸；脈絡",
+    "related": "strand",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 858,
+    "word": "volunteer",
+    "pos": "v.",
+    "meaning": "主动提出",
+    "meaningJa": "を進んで申し出る",
+    "related": "offer",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 859,
+    "word": "jealous",
+    "pos": "adj.",
+    "meaning": "嫉妒的",
+    "meaningJa": "嫉妬深い；ねたんで",
+    "related": "envious",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 860,
+    "word": "fist",
+    "pos": "n.",
+    "meaning": "拳头",
+    "meaningJa": "握りこぶし",
+    "related": "clenched hand",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 861,
+    "word": "float",
+    "pos": "v.",
+    "meaning": "漂浮",
+    "meaningJa": "浮く，浮かぶ",
+    "related": "drift",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 862,
+    "word": "handy",
+    "pos": "adj.",
+    "meaning": "方便的；易使用的",
+    "meaningJa": "扱いやすい",
+    "related": "convenient",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 863,
+    "word": "accustomed",
+    "pos": "adj.",
+    "meaning": "习惯的",
+    "meaningJa": "慣れている；習慣的な",
+    "related": "used",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 864,
+    "word": "quit",
+    "pos": "v.",
+    "meaning": "辞去",
+    "meaningJa": "を辞める",
+    "related": "leave",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 865,
+    "word": "drawer",
+    "pos": "n.",
+    "meaning": "抽屉",
+    "meaningJa": "引き出し",
+    "related": "storage space",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 866,
+    "word": "slave",
+    "pos": "n.",
+    "meaning": "奴隶",
+    "meaningJa": "奴隷",
+    "related": "servant without freedom",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 867,
+    "word": "threaten",
+    "pos": "v.",
+    "meaning": "威胁",
+    "meaningJa": "を脅す",
+    "related": "menace",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 868,
+    "word": "ruler",
+    "pos": "n.",
+    "meaning": "统治者；尺子",
+    "meaningJa": "支配者；定規",
+    "related": "leader",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 869,
+    "word": "statue",
+    "pos": "n.",
+    "meaning": "雕像",
+    "meaningJa": "像，彫像",
+    "related": "sculpture",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 870,
+    "word": "stuffed",
+    "pos": "adj.",
+    "meaning": "吃饱的；填满的",
+    "meaningJa": "満腹の；詰め物をした",
+    "related": "full",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 871,
+    "word": "accompany",
+    "pos": "v.",
+    "meaning": "陪伴；伴随",
+    "meaningJa": "に付随する",
+    "related": "go with",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 872,
+    "word": "bury",
+    "pos": "v.",
+    "meaning": "埋；埋葬",
+    "meaningJa": "を埋める；を埋葬する",
+    "related": "hide",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 873,
+    "word": "beast",
+    "pos": "n.",
+    "meaning": "野兽",
+    "meaningJa": "動物，獣",
+    "related": "animal",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 874,
+    "word": "oppose",
+    "pos": "v.",
+    "meaning": "反对",
+    "meaningJa": "に反対する",
+    "related": "be against",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 875,
+    "word": "sore",
+    "pos": "adj.",
+    "meaning": "疼痛的",
+    "meaningJa": "（体の一部が）痛い",
+    "related": "painful",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 876,
+    "word": "fog",
+    "pos": "n.",
+    "meaning": "雾",
+    "meaningJa": "霧，濃霧",
+    "related": "mist",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 877,
+    "word": "beg",
+    "pos": "v.",
+    "meaning": "恳求",
+    "meaningJa": "を懇願する",
+    "related": "ask for",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 878,
+    "word": "swear",
+    "pos": "v.",
+    "meaning": "发誓",
+    "meaningJa": "を誓う",
+    "related": "vow",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 879,
+    "word": "refugee",
+    "pos": "n.",
+    "meaning": "难民",
+    "meaningJa": "難民，避難者",
+    "related": "exile",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 880,
+    "word": "lately",
+    "pos": "adv.",
+    "meaning": "最近",
+    "meaningJa": "最近，近ごろ",
+    "related": "recently",
+    "phrase": "",
+    "sourcePage": 39
+  },
+  {
+    "id": 881,
+    "word": "attach",
+    "pos": "v.",
+    "meaning": "附上；贴上",
+    "meaningJa": "を添付する；を貼り付ける",
+    "related": "add",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 882,
+    "word": "dismiss",
+    "pos": "v.",
+    "meaning": "驳回；解雇",
+    "meaningJa": "を退ける；を解雇する",
+    "related": "reject",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 883,
+    "word": "basement",
+    "pos": "n.",
+    "meaning": "地下室",
+    "meaningJa": "地階，地下室",
+    "related": "cellar",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 884,
+    "word": "lightning",
+    "pos": "n.",
+    "meaning": "闪电",
+    "meaningJa": "稲光，稲妻",
+    "related": "flash",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 885,
+    "word": "helpless",
+    "pos": "adj.",
+    "meaning": "无助的",
+    "meaningJa": "自分では何もできない",
+    "related": "dependent",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 886,
+    "word": "trunk",
+    "pos": "n.",
+    "meaning": "树干；躯干",
+    "meaningJa": "幹，樹幹",
+    "related": "stem",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 887,
+    "word": "fairy",
+    "pos": "n.",
+    "meaning": "妖精",
+    "meaningJa": "妖精",
+    "related": "sprite",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 888,
+    "word": "ruin",
+    "pos": "n.",
+    "meaning": "遗迹；荒废；毁灭",
+    "meaningJa": "遺跡；荒廃；破滅",
+    "related": "remains",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 889,
+    "word": "cough",
+    "pos": "v.",
+    "meaning": "咳嗽",
+    "meaningJa": "せきをする",
+    "related": "hack",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 890,
+    "word": "thunder",
+    "pos": "n.",
+    "meaning": "雷声",
+    "meaningJa": "雷，雷鳴",
+    "related": "crack",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 891,
+    "word": "wipe",
+    "pos": "v.",
+    "meaning": "擦拭",
+    "meaningJa": "を拭く",
+    "related": "clean",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 892,
+    "word": "insect",
+    "pos": "n.",
+    "meaning": "昆虫",
+    "meaningJa": "昆虫",
+    "related": "bug",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 893,
+    "word": "denial",
+    "pos": "n.",
+    "meaning": "否定；否认",
+    "meaningJa": "否定，否認",
+    "related": "refusal",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 894,
+    "word": "disagree",
+    "pos": "v.",
+    "meaning": "不同意",
+    "meaningJa": "不賛成である，反対である",
+    "related": "dissent",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 895,
+    "word": "flock",
+    "pos": "n.",
+    "meaning": "鸟群；羊群",
+    "meaningJa": "（鳥・ヒツジなどの）群れ",
+    "related": "group",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 896,
+    "word": "bind",
+    "pos": "v.",
+    "meaning": "捆绑；装订",
+    "meaningJa": "を束縛する；を縛る",
+    "related": "tie",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 897,
+    "word": "whistle",
+    "pos": "n.",
+    "meaning": "哨子；口哨",
+    "meaningJa": "警笛；笛；口笛",
+    "related": "alarm",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 898,
+    "word": "brow",
+    "pos": "n.",
+    "meaning": "额头；眉毛",
+    "meaningJa": "額；まゆ（毛）",
+    "related": "forehead",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 899,
+    "word": "imaginary",
+    "pos": "adj.",
+    "meaning": "想象中的",
+    "meaningJa": "想像上の",
+    "related": "fictitious",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 900,
+    "word": "hatch",
+    "pos": "v.",
+    "meaning": "孵化",
+    "meaningJa": "（ひな・卵が）かえる",
+    "related": "be born",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 901,
+    "word": "parcel",
+    "pos": "n.",
+    "meaning": "包裹",
+    "meaningJa": "小包，小荷物",
+    "related": "package",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 902,
+    "word": "monument",
+    "pos": "n.",
+    "meaning": "纪念碑",
+    "meaningJa": "記念碑，記念建造物",
+    "related": "memorial",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 903,
+    "word": "housework",
+    "pos": "n.",
+    "meaning": "家务",
+    "meaningJa": "家事",
+    "related": "household chores",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 904,
+    "word": "glue",
+    "pos": "n.",
+    "meaning": "胶水",
+    "meaningJa": "接着剤，のり",
+    "related": "adhesive",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 905,
+    "word": "sometime",
+    "pos": "adv.",
+    "meaning": "某个时候",
+    "meaningJa": "いつか，そのうち",
+    "related": "someday",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 906,
+    "word": "bullet",
+    "pos": "n.",
+    "meaning": "子弹",
+    "meaningJa": "弾丸，銃弾",
+    "related": "projectile",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 907,
+    "word": "painfully",
+    "pos": "adv.",
+    "meaning": "令人痛苦地；痛苦地",
+    "meaningJa": "痛ましいほどに；痛そうに",
+    "related": "bitterly",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 908,
+    "word": "wander",
+    "pos": "v.",
+    "meaning": "漫游",
+    "meaningJa": "歩き回る",
+    "related": "roam",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 909,
+    "word": "fountain",
+    "pos": "n.",
+    "meaning": "喷泉；泉水",
+    "meaningJa": "噴水；泉",
+    "related": "spring",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 910,
+    "word": "selfish",
+    "pos": "n.",
+    "meaning": "自私的",
+    "meaningJa": "利己的な",
+    "related": "egoistic",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 911,
+    "word": "weigh",
+    "pos": "v.",
+    "meaning": "权衡",
+    "meaningJa": "を比較考慮する",
+    "related": "consider",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 912,
+    "word": "melt",
+    "pos": "v.",
+    "meaning": "融化",
+    "meaningJa": "溶ける",
+    "related": "thaw",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 913,
+    "word": "entertain",
+    "pos": "v.",
+    "meaning": "使快乐；招待",
+    "meaningJa": "を楽しませる；をもてなす",
+    "related": "amuse",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 914,
+    "word": "rumour",
+    "pos": "n.",
+    "meaning": "传闻",
+    "meaningJa": "うわさ，風説",
+    "related": "gossip",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 915,
+    "word": "attendant",
+    "pos": "n.",
+    "meaning": "陪护人员；服务员",
+    "meaningJa": "付添人；案内係",
+    "related": "assistant",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 916,
+    "word": "jar",
+    "pos": "n.",
+    "meaning": "广口瓶",
+    "meaningJa": "広口瓶",
+    "related": "pot",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 917,
+    "word": "chimney",
+    "pos": "n.",
+    "meaning": "烟囱",
+    "meaningJa": "煙突",
+    "related": "smokestack",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 918,
+    "word": "insult",
+    "pos": "v.",
+    "meaning": "侮辱",
+    "meaningJa": "を侮辱する",
+    "related": "offend",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 919,
+    "word": "backwards",
+    "pos": "adv.",
+    "meaning": "向后",
+    "meaningJa": "後ろへ",
+    "related": "↔ forward(s)",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 920,
+    "word": "disappearance",
+    "pos": "n.",
+    "meaning": "消失；失踪",
+    "meaningJa": "消滅；失踪",
+    "related": "vanishing",
+    "phrase": "",
+    "sourcePage": 40
+  },
+  {
+    "id": 921,
+    "word": "emission",
+    "pos": "n.",
+    "meaning": "排放；放出",
+    "meaningJa": "放出，発散",
+    "related": "release",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 922,
+    "word": "luggage",
+    "pos": "n.",
+    "meaning": "行李",
+    "meaningJa": "手荷物",
+    "related": "baggage",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 923,
+    "word": "sour",
+    "pos": "n.",
+    "meaning": "酸的",
+    "meaningJa": "酸っぱい",
+    "related": "acidic",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 924,
+    "word": "spoil",
+    "pos": "v.",
+    "meaning": "毁坏；宠坏",
+    "meaningJa": "を駄目にする；を甘やかす",
+    "related": "ruin",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 925,
+    "word": "impress",
+    "pos": "v.",
+    "meaning": "给…留下深刻印象",
+    "meaningJa": "に感銘を与える",
+    "related": "inspire",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 926,
+    "word": "hooked",
+    "pos": "adj.",
+    "meaning": "钩状的",
+    "meaningJa": "かぎ状の",
+    "related": "curved",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 927,
+    "word": "translate",
+    "pos": "v.",
+    "meaning": "翻译",
+    "meaningJa": "を翻訳する",
+    "related": "interpret",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 928,
+    "word": "puzzle",
+    "pos": "v.",
+    "meaning": "使困惑",
+    "meaningJa": "を悩ます，困らせる",
+    "related": "perplex",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 929,
+    "word": "stove",
+    "pos": "n.",
+    "meaning": "炉灶",
+    "meaningJa": "（オーブン付）ガス台",
+    "related": "cooker",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 930,
+    "word": "bark",
+    "pos": "v.",
+    "meaning": "吠叫",
+    "meaningJa": "ほえる",
+    "related": "howl",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 931,
+    "word": "swell",
+    "pos": "v.",
+    "meaning": "膨胀；增大",
+    "meaningJa": "膨張する；増大する",
+    "related": "expand",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 932,
+    "word": "wallet",
+    "pos": "n.",
+    "meaning": "钱包",
+    "meaningJa": "財布，札入れ",
+    "related": "purse",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 933,
+    "word": "quarrel",
+    "pos": "n.",
+    "meaning": "争吵",
+    "meaningJa": "口論",
+    "related": "argument",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 934,
+    "word": "careless",
+    "pos": "adj.",
+    "meaning": "粗心的",
+    "meaningJa": "不注意な",
+    "related": "thoughtless",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 935,
+    "word": "greet",
+    "pos": "v.",
+    "meaning": "迎接；问候",
+    "meaningJa": "を迎える；に挨拶する",
+    "related": "welcome",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 936,
+    "word": "bless",
+    "pos": "v.",
+    "meaning": "赐福；祝福",
+    "meaningJa": "に恵む；を祝福する",
+    "related": "endow",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 937,
+    "word": "scare",
+    "pos": "v.",
+    "meaning": "使害怕",
+    "meaningJa": "を怖がらせる",
+    "related": "frighten",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 938,
+    "word": "roast",
+    "pos": "v.",
+    "meaning": "烤；烘",
+    "meaningJa": "を焼く，あぶる",
+    "related": "grill",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 939,
+    "word": "farther",
+    "pos": "adv.",
+    "meaning": "更远地",
+    "meaningJa": "もっと遠くに",
+    "related": "further",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 940,
+    "word": "spill",
+    "pos": "v.",
+    "meaning": "洒出",
+    "meaningJa": "をこぼす",
+    "related": "slop",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 941,
+    "word": "feather",
+    "pos": "n.",
+    "meaning": "羽毛",
+    "meaningJa": "羽；羽毛",
+    "related": "plume",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 942,
+    "word": "crush",
+    "pos": "v.",
+    "meaning": "压碎",
+    "meaningJa": "を押しつぶす",
+    "related": "squash",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 943,
+    "word": "shrug",
+    "pos": "v.",
+    "meaning": "耸肩",
+    "meaningJa": "肩をすくめる",
+    "related": "raise (one’s) shoulders",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 944,
+    "word": "vase",
+    "pos": "n.",
+    "meaning": "花瓶",
+    "meaningJa": "花瓶",
+    "related": "flower container",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 945,
+    "word": "surround",
+    "pos": "v.",
+    "meaning": "包围",
+    "meaningJa": "を取り囲む",
+    "related": "encircle",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 946,
+    "word": "punish",
+    "pos": "v.",
+    "meaning": "惩罚",
+    "meaningJa": "を罰する",
+    "related": "discipline",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 947,
+    "word": "sincere",
+    "pos": "adj.",
+    "meaning": "真诚的",
+    "meaningJa": "誠実な；心からの",
+    "related": "heartfelt",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 948,
+    "word": "anyhow",
+    "pos": "adv.",
+    "meaning": "不管怎样",
+    "meaningJa": "ともかく，いずれにしても",
+    "related": "anyway",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 949,
+    "word": "interrupt",
+    "pos": "v.",
+    "meaning": "打断",
+    "meaningJa": "を遮る；を断つ",
+    "related": "disrupt",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 950,
+    "word": "reference",
+    "pos": "n.",
+    "meaning": "推荐信；参考文献",
+    "meaningJa": "推薦状；参考文献",
+    "related": "recommendation",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 951,
+    "word": "advert",
+    "pos": "n.",
+    "meaning": "广告",
+    "meaningJa": "広告",
+    "related": "advertisement",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 952,
+    "word": "unite",
+    "pos": "v.",
+    "meaning": "联合；统一",
+    "meaningJa": "を統合する",
+    "related": "unify",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 953,
+    "word": "boast",
+    "pos": "v.",
+    "meaning": "自夸",
+    "meaningJa": "自慢する，誇る",
+    "related": "brag",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 954,
+    "word": "scissors",
+    "pos": "n.",
+    "meaning": "剪刀",
+    "meaningJa": "はさみ",
+    "related": "pair of knives",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 955,
+    "word": "suck",
+    "pos": "v.",
+    "meaning": "吸",
+    "meaningJa": "を吸う",
+    "related": "draw in",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 956,
+    "word": "frighten",
+    "pos": "v.",
+    "meaning": "使惊恐",
+    "meaningJa": "をぎょっとさせる",
+    "related": "scare",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 957,
+    "word": "inspire",
+    "pos": "v.",
+    "meaning": "鼓舞；激起",
+    "meaningJa": "を鼓舞する；を喚起する",
+    "related": "motivate",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 958,
+    "word": "comb",
+    "pos": "n.",
+    "meaning": "梳子",
+    "meaningJa": "くし",
+    "related": "brush",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 959,
+    "word": "vinegar",
+    "pos": "n.",
+    "meaning": "醋",
+    "meaningJa": "酢",
+    "related": "fermented sour liquid",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 960,
+    "word": "tailor",
+    "pos": "v.",
+    "meaning": "使适合；定制",
+    "meaningJa": "を適合させる",
+    "related": "customise",
+    "phrase": "",
+    "sourcePage": 41
+  },
+  {
+    "id": 961,
+    "word": "invent",
+    "pos": "v.",
+    "meaning": "发明",
+    "meaningJa": "を発明する",
+    "related": "devise",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 962,
+    "word": "eyebrow",
+    "pos": "n.",
+    "meaning": "眉毛",
+    "meaningJa": "眉（毛）",
+    "related": "brow",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 963,
+    "word": "murmur",
+    "pos": "n.",
+    "meaning": "低语",
+    "meaningJa": "つぶやき",
+    "related": "whisper",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 964,
+    "word": "plead",
+    "pos": "v.",
+    "meaning": "恳求",
+    "meaningJa": "嘆願する",
+    "related": "beg",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 965,
+    "word": "courageous",
+    "pos": "adj.",
+    "meaning": "勇敢的",
+    "meaningJa": "勇気のある",
+    "related": "brave",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 966,
+    "word": "educate",
+    "pos": "v.",
+    "meaning": "教育",
+    "meaningJa": "を教育する",
+    "related": "teach",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 967,
+    "word": "brilliance",
+    "pos": "n.",
+    "meaning": "光辉；才华",
+    "meaningJa": "輝き；才気",
+    "related": "brightness",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 968,
+    "word": "drown",
+    "pos": "v.",
+    "meaning": "溺亡",
+    "meaningJa": "溺死する",
+    "related": "die in water",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 969,
+    "word": "weep",
+    "pos": "v.",
+    "meaning": "哭泣",
+    "meaningJa": "泣く",
+    "related": "cry",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 970,
+    "word": "immigrant",
+    "pos": "n.",
+    "meaning": "移民",
+    "meaningJa": "（外国からの）移民",
+    "related": "settler",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 971,
+    "word": "mushroom",
+    "pos": "v.",
+    "meaning": "迅速增长",
+    "meaningJa": "急成長する",
+    "related": "grow rapidly",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 972,
+    "word": "saucer",
+    "pos": "n.",
+    "meaning": "茶碟",
+    "meaningJa": "受け皿",
+    "related": "dish",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 973,
+    "word": "offend",
+    "pos": "v.",
+    "meaning": "冒犯",
+    "meaningJa": "の感情を害する",
+    "related": "upset",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 974,
+    "word": "refrigerator",
+    "pos": "n.",
+    "meaning": "冰箱",
+    "meaningJa": "冷蔵庫",
+    "related": "fridge",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 975,
+    "word": "apologise",
+    "pos": "v.",
+    "meaning": "道歉",
+    "meaningJa": "謝罪する",
+    "related": "say sorry",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 976,
+    "word": "anymore",
+    "pos": "adv.",
+    "meaning": "再；不再",
+    "meaningJa": "もはや，これ以上",
+    "related": "any longer",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 977,
+    "word": "bravery",
+    "pos": "n.",
+    "meaning": "勇敢",
+    "meaningJa": "勇敢さ",
+    "related": "courage",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 978,
+    "word": "thirsty",
+    "pos": "adj.",
+    "meaning": "口渴的；干燥的",
+    "meaningJa": "喉の渇いた；乾いた",
+    "related": "dehydrated",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 979,
+    "word": "shady",
+    "pos": "adj.",
+    "meaning": "背阴的",
+    "meaningJa": "日陰の",
+    "related": "shaded",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 980,
+    "word": "atlas",
+    "pos": "n.",
+    "meaning": "地图册",
+    "meaningJa": "地図帳",
+    "related": "map book",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 981,
+    "word": "intentional",
+    "pos": "adj.",
+    "meaning": "故意的",
+    "meaningJa": "意図的な",
+    "related": "deliberate",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 982,
+    "word": "tremble",
+    "pos": "v.",
+    "meaning": "颤抖",
+    "meaningJa": "震える",
+    "related": "shake",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 983,
+    "word": "carve",
+    "pos": "v.",
+    "meaning": "雕刻；切分",
+    "meaningJa": "を彫る；を切り分ける",
+    "related": "sculpt",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 984,
+    "word": "kitten",
+    "pos": "n.",
+    "meaning": "小猫",
+    "meaningJa": "子ネコ",
+    "related": "young cat",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 985,
+    "word": "valuables",
+    "pos": "n.",
+    "meaning": "贵重物品",
+    "meaningJa": "貴重品",
+    "related": "treasures",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 986,
+    "word": "yell",
+    "pos": "v.",
+    "meaning": "叫喊",
+    "meaningJa": "叫ぶ，わめく",
+    "related": "shout",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 987,
+    "word": "excite",
+    "pos": "v.",
+    "meaning": "使兴奋",
+    "meaningJa": "を興奮させる",
+    "related": "thrill",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 988,
+    "word": "sightseeing",
+    "pos": "n.",
+    "meaning": "观光",
+    "meaningJa": "観光，見物",
+    "related": "visiting sites",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 989,
+    "word": "hundredth",
+    "pos": "n.",
+    "meaning": "百分之一；第一百个",
+    "meaningJa": "100分の1；100番目のもの",
+    "related": "1/100",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 990,
+    "word": "tale",
+    "pos": "n.",
+    "meaning": "故事",
+    "meaningJa": "話，物語",
+    "related": "story",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 991,
+    "word": "backyard",
+    "pos": "n.",
+    "meaning": "后院",
+    "meaningJa": "裏庭",
+    "related": "garden",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 992,
+    "word": "grandchild",
+    "pos": "n.",
+    "meaning": "孙辈",
+    "meaningJa": "孫",
+    "related": "grandson, granddaughter",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 993,
+    "word": "inhabitant",
+    "pos": "n.",
+    "meaning": "居民；栖息动物",
+    "meaningJa": "居住者，住民；棲息動物",
+    "related": "resident",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 994,
+    "word": "symbolise",
+    "pos": "v.",
+    "meaning": "象征",
+    "meaningJa": "を象徴する",
+    "related": "represent",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 995,
+    "word": "admire",
+    "pos": "v.",
+    "meaning": "钦佩；赞赏",
+    "meaningJa": "に感嘆する，感心する",
+    "related": "respect",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 996,
+    "word": "exclaim",
+    "pos": "v.",
+    "meaning": "突然喊出",
+    "meaningJa": "突然叫ぶ",
+    "related": "cry out",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 997,
+    "word": "well-behaved",
+    "pos": "adj.",
+    "meaning": "举止得体的",
+    "meaningJa": "行儀の良い",
+    "related": "polite",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 998,
+    "word": "firefighter",
+    "pos": "n.",
+    "meaning": "消防员",
+    "meaningJa": "消防士",
+    "related": "fireman",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 999,
+    "word": "traffic jam",
+    "pos": "n.",
+    "meaning": "交通堵塞",
+    "meaningJa": "交通渋滞",
+    "related": "congestion",
+    "phrase": "",
+    "sourcePage": 42
+  },
+  {
+    "id": 1000,
+    "word": "civil engineering",
+    "pos": "n.",
+    "meaning": "土木工程",
+    "meaningJa": "土木工学",
+    "related": "construction technology",
+    "phrase": "",
+    "sourcePage": 42
+  }
+]

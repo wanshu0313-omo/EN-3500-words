@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "word": "being",
+    "source": "0001-0040.mp3",
+    "decodedStart": 0.39,
+    "decodedEnd": 1.28,
+    "duration": 0.89,
+    "file": "audio/words/0001.wav"
+  },
+  {
+    "id": 2,
+    "word": "government",
+    "source": "0001-0040.mp3",
+    "decodedStart": 2.05,
+    "decodedEnd": 3.14,
+    "duration": 1.09,
+    "file": "audio/words/0002.wav"
+  },
+  {
+    "id": 3,
+    "word": "found",
+    "source": "0001-0040.mp3",
+    "decodedStart": 3.92,
+    "decodedEnd": 4.9,
+    "duration": 0.98,
+    "file": "audio/words/0003.wav"
+  },
+  {
+    "id": 4,
+    "word": "given",
+    "source": "0001-0040.mp3",
+    "decodedStart": 5.68,
+    "decodedEnd": 6.63,
+    "duration": 0.95,
+    "file": "audio/words/0004.wav"
+  },
+  {
+    "id": 5,
+    "word": "state",
+    "source": "0001-0040.mp3",
+    "decodedStart": 7.43,
+    "decodedEnd": 8.46,
+    "duration": 1.03,
+    "file": "audio/words/0005.wav"
+  },
+  {
+    "id": 6,
+    "word": "council",
+    "source": "0001-0040.mp3",
+    "decodedStart": 9.24,
+    "decodedEnd": 10.31,
+    "duration": 1.07,
+    "file": "audio/words/0006.wav"
+  },
+  {
+    "id": 7,
+    "word": "available",
+    "source": "0001-0040.mp3",
+    "decodedStart": 11.08,
+    "decodedEnd": 12.24,
+    "duration": 1.16,
+    "file": "audio/words/0007.wav"
+  },
+  {
+    "id": 8,
+    "word": "saw",
+    "source": "0001-0040.mp3",
+    "decodedStart": 13.06,
+    "decodedEnd": 13.98,
+    "duration": 0.92,
+    "file": "audio/words/0008.wav"
+  },
+  {
+    "id": 9,
+    "word": "means",
+    "source": "0001-0040.mp3",
+    "decodedStart": 14.79,
+    "decodedEnd": 15.9,
+    "duration": 1.11,
+    "file": "audio/words/0009.wav"
+  },
+  {
+    "id": 10,
+    "word": "likely",
+    "source": "0001-0040.mp3",
+    "decodedStart": 16.68,
+    "decodedEnd": 17.71,
+    "duration": 1.03,
+    "file": "audio/words/0010.wav"
+  },
+  {
+    "id": 11,
+    "word": "therefore",
+    "source": "0001-0040.mp3",
+    "decodedStart": 18.49,
+    "decodedEnd": 19.57,
+    "duration": 1.08,
+    "file": "audio/words/0011.wav"
+  },
+  {
+    "id": 12,
+    "word": "evidence",
+    "source": "0001-0040.mp3",
+    "decodedStart": 20.35,
+    "decodedEnd": 21.47,
+    "duration": 1.12,
+    "file": "audio/words/0012.wav"
+  },
+  {
+    "id": 13,
+    "word": "range",
+    "source": "0001-0040.mp3",
+    "decodedStart": 22.25,
+    "decodedEnd": 23.32,
+    "duration": 1.07,
+    "file": "audio/words/0013.wav"
+  },
+  {
+    "id": 14,
+    "word": "thus",
+    "source": "0001-0040.mp3",
+    "decodedStart": 24.11,
+    "decodedEnd": 25.0,
+    "duration": 0.89,
+    "file": "audio/words/0014.wav"
+  },
+  {
+    "id": 15,
+    "word": "individual",
+    "source": "0001-0040.mp3",
+    "decodedStart": 25.8,
+    "decodedEnd": 26.98,
+    "duration": 1.18,
+    "file": "audio/words/0015.wav"
+  },
+  {
+    "id": 16,
+    "word": "committee",
+    "source": "0001-0040.mp3",
+    "decodedStart": 27.8,
+    "decodedEnd": 28.77,
+    "duration": 0.97,
+    "file": "audio/words/0016.wav"
+  },
+  {
+    "id": 17,
+    "word": "indeed",
+    "source": "0001-0040.mp3",
+    "decodedStart": 29.55,
+    "decodedEnd": 30.6,
+    "duration": 1.05,
+    "file": "audio/words/0017.wav"
+  },
+  {
+    "id": 18,
+    "word": "authority",
+    "source": "0001-0040.mp3",
+    "decodedStart": 31.41,
+    "decodedEnd": 32.62,
+    "duration": 1.21,
+    "file": "audio/words/0018.wav"
+  },
+  {
+    "id": 19,
+    "word": "union",
+    "source": "0001-0040.mp3",
+    "decodedStart": 33.4,
+    "decodedEnd": 34.46,
+    "duration": 1.06,
+    "file": "audio/words/0019.wav"
+  },
+  {
+    "id": 20,
+    "word": "figure",
+    "source": "0001-0040.mp3",
+    "decodedStart": 35.26,
+    "decodedEnd": 35.95,
+    "duration": 0.69,
+    "file": "audio/words/0020.wav"
+  },
+  {
+    "id": 21,
+    "word": "practice",
+    "source": "0001-0040.mp3",
+    "decodedStart": 36.72,
+    "decodedEnd": 37.78,
+    "duration": 1.06,
+    "file": "audio/words/0021.wav"
+  },
+  {
+    "id": 22,
+    "word": "former",
+    "source": "0001-0040.mp3",
+    "decodedStart": 38.56,
+    "decodedEnd": 39.47,
+    "duration": 0.91,
+    "file": "audio/words/0022.wav"
+  },
+  {
+    "id": 23,
+    "word": "issue",
+    "source": "0001-0040.mp3",
+    "decodedStart": 40.28,
+    "decodedEnd": 41.2,
+    "duration": 0.92,
+    "file": "audio/words/0023.wav"
+  },
+  {
+    "id": 24,
+    "word": "stage",
+    "source": "0001-0040.mp3",
+    "decodedStart": 41.96,
+    "decodedEnd": 43.05,
+    "duration": 1.09,
+    "file": "audio/words/0024.wav"
+  },
+  {
+    "id": 25,
+    "word": "various",
+    "source": "0001-0040.mp3",
+    "decodedStart": 43.85,
+    "decodedEnd": 44.97,
+    "duration": 1.12,
+    "file": "audio/words/0025.wav"
+  },
+  {
+    "id": 26,
+    "word": "basis",
+    "source": "0001-0040.mp3",
+    "decodedStart": 45.76,
+    "decodedEnd": 46.84,
+    "duration": 1.08,
+    "file": "audio/words/0026.wav"
+  },
+  {
+    "id": 27,
+    "word": "despite",
+    "source": "0001-0040.mp3",
+    "decodedStart": 47.62,
+    "decodedEnd": 48.76,
+    "duration": 1.14,
+    "file": "audio/words/0027.wav"
+  },
+  {
+    "id": 28,
+    "word": "structure",
+    "source": "0001-0040.mp3",
+    "decodedStart": 49.55,
+    "decodedEnd": 50.66,
+    "duration": 1.11,
+    "file": "audio/words/0028.wav"
+  },
+  {
+    "id": 29,
+    "word": "capital",
+    "source": "0001-0040.mp3",
+    "decodedStart": 51.46,
+    "decodedEnd": 52.51,
+    "duration": 1.05,
+    "file": "audio/words/0029.wav"
+  },
+  {
+    "id": 30,
+    "word": "per",
+    "source": "0001-0040.mp3",
+    "decodedStart": 53.28,
+    "decodedEnd": 54.12,
+    "duration": 0.84,
+    "file": "audio/words/0030.wav"
+  },
+  {
+    "id": 31,
+    "word": "agreement",
+    "source": "0001-0040.mp3",
+    "decodedStart": 54.9,
+    "decodedEnd": 56.08,
+    "duration": 1.18,
+    "file": "audio/words/0031.wav"
+  },
+  {
+    "id": 32,
+    "word": "population",
+    "source": "0001-0040.mp3",
+    "decodedStart": 56.86,
+    "decodedEnd": 58.22,
+    "duration": 1.36,
+    "file": "audio/words/0032.wav"
+  },
+  {
+    "id": 33,
+    "word": "legal",
+    "source": "0001-0040.mp3",
+    "decodedStart": 58.99,
+    "decodedEnd": 60.03,
+    "duration": 1.04,
+    "file": "audio/words/0033.wav"
+  },
+  {
+    "id": 34,
+    "word": "fine",
+    "source": "0001-0040.mp3",
+    "decodedStart": 60.81,
+    "decodedEnd": 61.75,
+    "duration": 0.94,
+    "file": "audio/words/0034.wav"
+  },
+  {
+    "id": 35,
+    "word": "theory",
+    "source": "0001-0040.mp3",
+    "decodedStart": 62.54,
+    "decodedEnd": 63.47,
+    "duration": 0.93,
+    "file": "audio/words/0035.wav"
+  },
+  {
+    "id": 36,
+    "word": "growth",
+    "source": "0001-0040.mp3",
+    "decodedStart": 64.24,
+    "decodedEnd": 65.26,
+    "duration": 1.02,
+    "file": "audio/words/0036.wav"
+  },
+  {
+    "id": 37,
+    "word": "relationship",
+    "source": "0001-0040.mp3",
+    "decodedStart": 66.07,
+    "decodedEnd": 67.42,
+    "duration": 1.35,
+    "file": "audio/words/0037.wav"
+  },
+  {
+    "id": 38,
+    "word": "property",
+    "source": "0001-0040.mp3",
+    "decodedStart": 68.23,
+    "decodedEnd": 69.28,
+    "duration": 1.05,
+    "file": "audio/words/0038.wav"
+  },
+  {
+    "id": 39,
+    "word": "term",
+    "source": "0001-0040.mp3",
+    "decodedStart": 70.06,
+    "decodedEnd": 71.01,
+    "duration": 0.95,
+    "file": "audio/words/0039.wav"
+  },
+  {
+    "id": 40,
+    "word": "throughout",
+    "source": "0001-0040.mp3",
+    "decodedStart": 71.8,
+    "decodedEnd": 73.03,
+    "duration": 1.23,
+    "file": "audio/words/0040.wav"
+  }
+]

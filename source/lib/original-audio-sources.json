@@ -1,0 +1,377 @@
+[
+  {
+    "track": "0001-0040",
+    "sourceSha256": "4a7e497e3cd35985e2c60b4bc5182f1be8779c83bedfa37e8814268a78988013",
+    "duration": 74.00489795918368,
+    "segments": 40,
+    "candidateMatches": 30,
+    "candidateTotal": 30,
+    "measuredDelay": 0.0,
+    "waveformCorrelation": [
+      0.9999416118494654,
+      0.9997601614190663,
+      0.9998678213537311
+    ],
+    "minInterWordSilence": 1.1199999999999974
+  },
+  {
+    "track": "0041-0080",
+    "sourceSha256": "832e6370e01c34545cdf3b61f20be685f3d4712204e82ed3b6b5fa0a1ff15fd4",
+    "duration": 77.21795918367347,
+    "segments": 40,
+    "candidateMatches": 30,
+    "candidateTotal": 30,
+    "measuredDelay": 0.0,
+    "waveformCorrelation": [
+      0.9998554049441946,
+      0.9998328281629842,
+      0.9999346831228915
+    ],
+    "minInterWordSilence": 1.120000000000001
+  },
+  {
+    "track": "0081-0120",
+    "sourceSha256": "a8506dbfb0efb71e2860dc6fc06b14e8c3b0596d66706771c4f887328072e3c3",
+    "duration": 75.2065306122449,
+    "segments": 40,
+    "candidateMatches": 30,
+    "candidateTotal": 30,
+    "measuredDelay": 0.0,
+    "waveformCorrelation": [
+      0.9996970433555487,
+      0.9997954839245602,
+      0.9999264460578566
+    ],
+    "minInterWordSilence": 1.12
+  },
+  {
+    "track": "0121-0160",
+    "sourceSha256": "60da7a2a6dfddcb06a48fd2e9f57175608f6f4a08947d6cb25bc47bc4ddadead",
+    "duration": 76.53877551020408,
+    "segments": 40,
+    "candidateMatches": 30,
+    "candidateTotal": 30,
+    "measuredDelay": 0.0,
+    "waveformCorrelation": [
+      0.999848187239881,
+      0.9999080652503636,
+      0.9999433072231408
+    ],
+    "minInterWordSilence": 1.1199999999999992
+  },
+  {
+    "track": "0161-0200",
+    "sourceSha256": "f0457aff81f5b1c5215ee7efa5a3c7026074e142f15be67e9960dda62b631443",
+    "duration": 74.99755102040817,
+    "segments": 40,
+    "candidateMatches": 30,
+    "candidateTotal": 30,
+    "measuredDelay": 0.0,
+    "waveformCorrelation": [
+      0.9998345943144085,
+      0.9998287451726995,
+      0.9999430978852488
+    ],
+    "minInterWordSilence": 1.1199999999999974
+  },
+  {
+    "track": "0201-0240",
+    "sourceSha256": "b15c6ed02a315f85ee82c7a1884d430e9c8a5690b3ec701f427af417035c3e70",
+    "duration": 73.32571428571428,
+    "segments": 40,
+    "candidateMatches": 30,
+    "candidateTotal": 30,
+    "measuredDelay": 0.0,
+    "waveformCorrelation": [
+      0.9998591680040161,
+      0.99984992169773,
+      0.9997022839824236
+    ],
+    "minInterWordSilence": 1.1299999999999955
+  },
+  {
+    "track": "0241-0280",
+    "sourceSha256": "ebde619f5e26dd39836d953690e6afad98de3d7205c78cde0014f2c7a25c3153",
+    "duration": 74.37061224489796,
+    "segments": 40,
+    "candidateMatches": 30,
+    "candidateTotal": 30,
+    "measuredDelay": 0.0,
+    "waveformCorrelation": [
+      0.9998030914556572,
+      0.9999581891207269,
+      0.9999205682510837
+    ],
+    "minInterWordSilence": 1.1199999999999974
+  },
+  {
+    "track": "0281-0320",
+    "sourceSha256": "00e262acc5f7f739d832af671b07d866eab36c81faedcc76ebf1f61628884086",
+    "duration": 73.48244897959184,
+    "segments": 40,
+    "candidateMatches": 30,
+    "candidateTotal": 30,
+    "measuredDelay": 0.0,
+    "waveformCorrelation": [
+      0.9998815788567238,
+      0.9999349859642538,
+      0.999961487367538
+    ],
+    "minInterWordSilence": 1.1299999999999955
+  },
+  {
+    "track": "0321-0360",
+    "sourceSha256": "d05eff5df23f3702a5c9c5ea292585f76003966f0280354478e4fe3b70ee878a",
+    "duration": 76.8,
+    "segments": 40,
+    "candidateMatches": 30,
+    "candidateTotal": 30,
+    "measuredDelay": 0.0,
+    "waveformCorrelation": [
+      0.9997615123240738,
+      0.9999160316695959,
+      0.999856018523843
+    ],
+    "minInterWordSilence": 1.1199999999999974
+  },
+  {
+    "track": "0361-0400",
+    "sourceSha256": "6c203355f1a530c959ac3028b997a139f35e7eb2f184b35ec873939170e522fa",
+    "duration": 74.34448979591836,
+    "segments": 40,
+    "candidateMatches": 30,
+    "candidateTotal": 30,
+    "measuredDelay": 0.0,
+    "waveformCorrelation": [
+      0.9999007763727134,
+      0.9998887789087166,
+      0.9999008448202952
+    ],
+    "minInterWordSilence": 1.12
+  },
+  {
+    "track": "0401-0440",
+    "sourceSha256": "e1a79d4dad2584336f89de8ab3b6f57654a8e7ce39fc1359486272a662d45107",
+    "duration": 74.84081632653061,
+    "segments": 40,
+    "candidateMatches": 30,
+    "candidateTotal": 30,
+    "measuredDelay": 0.0,
+    "waveformCorrelation": [
+      0.9998502335327335,
+      0.9999333419867857,
+      0.9998882966766299
+    ],
+    "minInterWordSilence": 1.1199999999999974
+  },
+  {
+    "track": "0441-0480",
+    "sourceSha256": "d2274b6bfb8c52a8edc27e0fd4dfcf0a0715982a7804d93785b2d628b38fed7d",
+    "duration": 74.2138775510204,
+    "segments": 40,
+    "candidateMatches": 30,
+    "candidateTotal": 30,
+    "measuredDelay": 0.0,
+    "waveformCorrelation": [
+      0.9999093085841534,
+      0.9998377118294627,
+      0.9998244068243787
+    ],
+    "minInterWordSilence": 1.1199999999999974
+  },
+  {
+    "track": "0481-0520",
+    "sourceSha256": "f49cc6b8a343cee1ce980f6939aadf027d01337f7ecdf24b6fdc8e444a85ca4b",
+    "duration": 73.97877551020409,
+    "segments": 40,
+    "candidateMatches": 30,
+    "candidateTotal": 30,
+    "measuredDelay": 0.0,
+    "waveformCorrelation": [
+      0.9998423901364025,
+      0.9998402573347042,
+      0.9997776564143018
+    ],
+    "minInterWordSilence": 1.1199999999999974
+  },
+  {
+    "track": "0521-0560",
+    "sourceSha256": "727e42c7db2a5c39ea65957cb4bbc8fe58a4fa369f0b6d37e453b0833e5ecb48",
+    "duration": 74.97142857142858,
+    "segments": 40,
+    "candidateMatches": 30,
+    "candidateTotal": 30,
+    "measuredDelay": 0.0,
+    "waveformCorrelation": [
+      0.9996623706361599,
+      0.9999767602050686,
+      0.9999072001515855
+    ],
+    "minInterWordSilence": 1.1199999999999974
+  },
+  {
+    "track": "0561-0600",
+    "sourceSha256": "82d54173530f8228677ba8bad43f6b6bd4b3fe8552df62d838d00033f92487b7",
+    "duration": 73.19510204081632,
+    "segments": 40,
+    "candidateMatches": 30,
+    "candidateTotal": 30,
+    "measuredDelay": 0.0,
+    "waveformCorrelation": [
+      0.9998531170097388,
+      0.9999286085728848,
+      0.9999422702345745
+    ],
+    "minInterWordSilence": 1.1199999999999992
+  },
+  {
+    "track": "0601-0640",
+    "sourceSha256": "adaae59bdc9f07d0432043bdd2689ca8f2d2bedb188d9ffd4da23cb756824b52",
+    "duration": 74.8669387755102,
+    "segments": 40,
+    "candidateMatches": 30,
+    "candidateTotal": 30,
+    "measuredDelay": 0.0,
+    "waveformCorrelation": [
+      0.9998832104536889,
+      0.9999060952051794,
+      0.9998492742200225
+    ],
+    "minInterWordSilence": 1.1199999999999974
+  },
+  {
+    "track": "0641-0680",
+    "sourceSha256": "5487c3c85bf20cd2602d3c374ddbb4fd28fdefd70f08b0e6ee7d844fc61b69e2",
+    "duration": 72.88163265306123,
+    "segments": 40,
+    "candidateMatches": 30,
+    "candidateTotal": 30,
+    "measuredDelay": 0.0,
+    "waveformCorrelation": [
+      0.9999601270310104,
+      0.999920965978028,
+      0.9997853020335908
+    ],
+    "minInterWordSilence": 1.12
+  },
+  {
+    "track": "0681-0720",
+    "sourceSha256": "f6b0149a05a9077c01e94c0abd6dceab1572994ba749d7c705e149f0a986ac1c",
+    "duration": 75.02367346938776,
+    "segments": 40,
+    "candidateMatches": 30,
+    "candidateTotal": 30,
+    "measuredDelay": 0.0,
+    "waveformCorrelation": [
+      0.999932361562552,
+      0.9999156767220222,
+      0.9998095724811538
+    ],
+    "minInterWordSilence": 1.1199999999999903
+  },
+  {
+    "track": "0721-0760",
+    "sourceSha256": "3ece8f4ea87327c8b8af1bc11f1ebf2633dc67ad98ebeee8a808afbf26f4f373",
+    "duration": 71.9934693877551,
+    "segments": 40,
+    "candidateMatches": 30,
+    "candidateTotal": 30,
+    "measuredDelay": 0.0,
+    "waveformCorrelation": [
+      0.9999226911915753,
+      0.9998743437268788,
+      0.9999300968404472
+    ],
+    "minInterWordSilence": 1.1199999999999974
+  },
+  {
+    "track": "0761-0800",
+    "sourceSha256": "ceb8459f700e34a5be0072eaf5085179220ae26f9aa832a0b73540ec8d941a72",
+    "duration": 72.48979591836735,
+    "segments": 40,
+    "candidateMatches": 30,
+    "candidateTotal": 30,
+    "measuredDelay": 0.0,
+    "waveformCorrelation": [
+      0.9998079122833494,
+      0.9998772613470703,
+      0.9999210119428973
+    ],
+    "minInterWordSilence": 1.120000000000001
+  },
+  {
+    "track": "0801-0840",
+    "sourceSha256": "5524b1395249cdb7800d126ab23aaceac584feaba25f39dcc6f45baf745aaf2b",
+    "duration": 71.60163265306123,
+    "segments": 40,
+    "candidateMatches": 30,
+    "candidateTotal": 30,
+    "measuredDelay": 0.0,
+    "waveformCorrelation": [
+      0.9998650351506072,
+      0.9998198095924874,
+      0.9998603337094916
+    ],
+    "minInterWordSilence": 1.1199999999999974
+  },
+  {
+    "track": "0841-0880",
+    "sourceSha256": "029f4ee54bf206951458cda31915a94f87a33b57b88db79061c08e5ec9f6ff9d",
+    "duration": 72.04571428571428,
+    "segments": 40,
+    "candidateMatches": 29,
+    "candidateTotal": 30,
+    "measuredDelay": 0.0,
+    "waveformCorrelation": [
+      0.999939758282689,
+      0.9998998697703391,
+      0.999888519207436
+    ],
+    "minInterWordSilence": 1.1199999999999974
+  },
+  {
+    "track": "0881-0920",
+    "sourceSha256": "27c803c756b89bdb01b55899376463ad53d09a51e14879957e22cf612035063e",
+    "duration": 71.9934693877551,
+    "segments": 40,
+    "candidateMatches": 30,
+    "candidateTotal": 30,
+    "measuredDelay": 0.0,
+    "waveformCorrelation": [
+      0.9995552737560929,
+      0.9999532265839067,
+      0.9998459223324578
+    ],
+    "minInterWordSilence": 1.1199999999999974
+  },
+  {
+    "track": "0921-0960",
+    "sourceSha256": "09f9c1fae90686a46260cdbbb91509f4a1a92a0dbf04137b7644c3b075b6b6c4",
+    "duration": 71.9934693877551,
+    "segments": 40,
+    "candidateMatches": 30,
+    "candidateTotal": 30,
+    "measuredDelay": 0.0,
+    "waveformCorrelation": [
+      0.9998740716055343,
+      0.9997214720830693,
+      0.9999210439551224
+    ],
+    "minInterWordSilence": 1.1299999999999955
+  },
+  {
+    "track": "0961-1000",
+    "sourceSha256": "659060e949ae06cbaf1d7d09e865585fb34d3ad39b761d7775b213136787f088",
+    "duration": 76.4604081632653,
+    "segments": 40,
+    "candidateMatches": 30,
+    "candidateTotal": 30,
+    "measuredDelay": 0.0,
+    "waveformCorrelation": [
+      0.999958582384429,
+      0.9999125947507217,
+      0.9998667927253875
+    ],
+    "minInterWordSilence": 1.1199999999999974
+  }
+]
