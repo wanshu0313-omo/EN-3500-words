@@ -1,0 +1,1001 @@
+编号	英文	原书日文	中文	原书关联表达
+0001	being	存在；生き物	存在；生物	existence
+0002	government	政府；統治	政府；治理	the authorities
+0003	found	を設立する	建立；创办	establish
+0004	given	〜を仮定［考慮］すれば	考虑到；鉴于	considering
+0005	state	を述べる，表明する	陈述；说明	assert
+0006	council	（地方）議会	地方议会；委员会	local authority
+0007	available	入手できる；利用できる	可获得的；可使用的	accessible
+0008	saw	のこぎり	锯子	cutting tool
+0009	means	手段，方法	手段；方法	method
+0010	likely	ありそうな，予想される	可能的	probable
+0011	therefore	それ故に，従って	因此；所以	as a result
+0012	evidence	証拠；証言	证据	proof
+0013	range	範囲，領域	范围；领域	scope
+0014	thus	このように；従って	因此；如此	thereby
+0015	individual	個々の；個人の	个别的；个人的	separate
+0016	committee	委員会	委员会	panel
+0017	indeed	本当に；実に；実際は	确实；实际上	really
+0018	authority	権威；権限；権威者；当局	权力；权威；当局	power
+0019	union	（労働）組合	工会；联合组织	association
+0020	figure	数字；人物	数字；人物	number
+0021	practice	慣習；実践	惯例；实践	custom
+0022	former	以前の；（the 〜）前者	以前的；前者的	previous
+0023	issue	問題；争点	问题；争议点	matter
+0024	stage	段階；舞台	阶段；舞台	phase
+0025	various	さまざまな	各种各样的	different
+0026	basis	基礎；根拠	基础；根据	foundation
+0027	despite	〜にもかかわらず	尽管	in spite of
+0028	structure	構造，構成	结构；构造	framework
+0029	capital	首都；資本	首都；资本	the seat of government
+0030	per	〜につき，〜ごとに	每；每一	for each
+0031	agreement	合意；協定	协议；一致意见	consensus
+0032	population	人口	人口	residents
+0033	legal	法律の；合法的な	法律的；合法的	legitimate
+0034	fine	罰金；科料	罚款	penalty
+0035	theory	理論，学説	理论；学说	hypothesis
+0036	growth	増加，成長	增长；发展	development
+0037	relationship	関係，関連	关系；联系	connection
+0038	property	財産；特性	财产；特性	estate
+0039	term	専門用語；期間	术语；用语	word
+0040	throughout	〜の至る所に	遍及；贯穿	all over
+0041	previous	以前の；前の	以前的；先前的	prior
+0042	firm	会社，企業	公司；企业	company
+0043	significant	重要な；意義深い；相当の	重要的；显著的	important
+0044	income	収入，所得	收入	earnings
+0045	contract	契約；協定	合同；契约	agreement
+0046	consider	を〜と見なす；を熟考する	考虑；认为	regard
+0047	attempt	を試みる	尝试	try
+0048	specific	特定の；明確な	特定的；明确的	particular
+0049	claim	を主張する	声称；主张	assert
+0050	leading	主要な；第一級の	主要的；领先的	chief
+0051	potential	潜在力，可能性	潜力；可能性	capacity
+0052	demand	を要求する	要求	insist
+0053	unless	〜でなければ	除非	if … not
+0054	access	利用の権利；接近	使用权；接近的机会	permission
+0055	independent	独立した	独立的	autonomous
+0056	benefit	恩恵；利益；手当，給付	好处；利益；津贴	advantage
+0057	employment	職；雇用	就业；雇用	work
+0058	sales	売上高；販売部門	销售额；销售部门	revenue
+0059	influence	影響；効果	影响；作用	effect
+0060	concern	に関係する；を心配させる	涉及；使担忧	be related to
+0061	application	申請；適用	申请；应用	request
+0062	suppose	と思う，推測する	认为；推测	assume
+0063	immediately	すぐに，直ちに	立即；马上	instantly
+0064	opportunity	機会，好機	机会	chance
+0065	film	映画；薄膜	电影；薄膜	movie
+0066	trust	信頼，信用	信任；信赖	faith
+0067	effective	効果的な，有効な	有效的	efficient
+0068	region	地域，地帯	地区；区域	area
+0069	degree	程度，度合	程度	level
+0070	traditional	伝統的な；因習的な	传统的；惯例的	conventional
+0071	election	選挙；当選	选举	poll
+0072	parliament	議会；会期	议会；国会	legislature
+0073	review	調査，検討	审查；评论	examination
+0074	species	（生物の）種	物种	kind
+0075	supply	を供給する，支給する	供应；提供	provide
+0076	moving	感動的な	感人的	touching
+0077	considerable	かなりの，相当の	相当大的；可观的	substantial
+0078	physical	身体の；物質的な	身体的；物质的	bodily
+0079	complex	複雑な；複合（体）の	复杂的	complicated
+0080	responsibility	責任，義務	责任；职责	duty
+0081	opposition	反対，敵対	反对；对立	resistance
+0082	division	分割；分離	分割；分离	split
+0083	surface	表面，外面	表面；外表	face
+0084	equipment	設備，備品	设备；器材	apparatus
+0085	suggest	を示唆する；を提案する	暗示；建议	imply
+0086	exchange	交換；交流；為替	交换；交流；外汇	replacement
+0087	otherwise	そうでなければ	否则	or else
+0088	essential	必要不可欠な；本質的な	必不可少的；本质的	vital
+0089	function	機能，作用	功能；作用	purpose
+0090	slightly	少し，わずかに	稍微；略微	a little
+0091	aid	援助；手伝い；補助器具	援助；帮助；辅助器具	assistance
+0092	transport	輸送，運輸	运输	transportation
+0093	direction	指示；指導；方向	指示；指导；方向	instruction
+0094	civil	民間の，一般市民の	民间的；公民的	public
+0095	hardly	ほとんど〜ない	几乎不	barely
+0096	obvious	明白な	明显的	apparent
+0097	organisation	組織，団体	组织；团体	association
+0098	argument	論争；議論；口論	争论；讨论	debate
+0099	patient	忍耐強い，我慢強い	有耐心的	tolerant
+0100	principle	原則；信条	原则；信条	rule
+0101	stock	在庫品；蓄え；株式	库存；储备；股票	inventory
+0102	district	地方，地域	地区	area
+0103	executive	重役，幹部	主管；高级管理人员	director
+0104	neither	〈neither 〜 nor ... で〉〜でも…でもない	两者都不	not ... either
+0105	duty	義務；関税	义务；关税	responsibility
+0106	presence	存在，実在	存在；在场	being
+0107	avoid	を避ける	避免	prevent
+0108	relatively	比較的；相対的に	比较地；相对地	comparatively
+0109	failure	失敗；失敗作；落第（点）	失败；失败之作；不及格	blunder
+0110	marriage	結婚，婚姻	结婚；婚姻	↔ divorce
+0111	due	（日時に）予定された	预定的；到期的	expected
+0112	practical	実際的な，実践的な	实际的；实用的	pragmatic
+0113	latter	〈the 〜〉後者	后者	↔ former
+0114	huge	巨大な；膨大な	巨大的；庞大的	enormous
+0115	apparently	見たところでは，どうやら	看起来；似乎	seemingly
+0116	grant	を聞き入れる；を授与する	同意；授予	allow
+0117	applied	応用の，実用的な	应用的；实用的	practical
+0118	finance	財政，金融	财政；金融	funds
+0119	merely	単に，ただの	仅仅	simply
+0120	setting	状況，背景	情况；背景	context
+0121	quarter	4分の1；4半期	四分之一；季度	fourth
+0122	politics	政治	政治	government
+0123	justice	正義，公正	正义；公正	fairness
+0124	credit	称賛；功績；信用	称赞；功绩；信用	praise
+0125	edge	縁，端，際	边缘；边际	margin
+0126	advantage	利点；優越	优点；优势	benefit
+0127	mass	塊；集団；大量	块；群体；大量	bulk
+0128	reduce	を減らす，縮小する	减少；缩小	decrease
+0129	length	長さ；縦の寸法	长度；纵向尺寸	↔ width
+0130	vote	投票する	投票	cast a ballot
+0131	possibly	もしかしたら	也许；可能	perhaps
+0132	nevertheless	それにもかかわらず	尽管如此	even so
+0133	insurance	保険	保险	assurance
+0134	strength	強さ，力；体力	力量；体力	power
+0135	crime	罪，犯罪	罪；犯罪	illegal act
+0136	transfer	移る，移転する	转移；迁移	move
+0137	measure	対策，手段	措施；手段	action
+0138	confidence	信頼，信用	信赖；信心	trust
+0139	address	に取り組む；に演説をする	着手处理；向…演讲	deal with
+0140	require	を必要とする；を要求する	需要；要求	need
+0141	domestic	国内の；家庭（内）の	国内的；家庭的	national
+0142	ordinary	通常の；並の	普通的；一般的	normal
+0143	previously	前に，以前に	以前	before
+0144	solution	解決（法）；溶液；溶解	解决办法；溶液	resolution
+0145	entirely	全く，完全に	完全地	totally
+0146	challenge	課題，難題；やりがい	挑战；难题	problem
+0147	achieve	を成し遂げる	完成；实现	accomplish
+0148	extremely	極めて	极其	exceedingly
+0149	prevent	を妨げる；を防ぐ	阻碍；防止	hinder
+0150	article	記事；物品；条項	文章；物品；条款	report
+0151	football	サッカー；フットボール	足球	soccer
+0152	fairly	相当；公平に	相当地；公平地	rather
+0153	increasingly	ますます	越来越	more and more
+0154	initial	初期の	最初的	early
+0155	release	を解放する；を放つ	释放；放出	discharge
+0156	existence	存在，実在	存在	being
+0157	latest	最新の	最新的	current
+0158	relief	安心；軽減	安心；减轻	reassurance
+0159	detailed	詳細な	详细的	elaborate
+0160	fund	基金，資金	基金；资金	money
+0161	trial	試み；裁判	尝试；审判	attempt
+0162	pick	を選ぶ，選択する	挑选	choose
+0163	distribution	分配；流通	分配；流通	allocation
+0164	factor	要因，要素	因素；要素	element
+0165	feature	特徴；顔立ち	特征；面貌	characteristic
+0166	improve	を改善［改良］する	改善；改良	enhance
+0167	reasonable	分別のある；合理的な	有理性的；合理的	sensible
+0168	display	を展示する	展示	exhibit
+0169	aircraft	航空機	飞机；航空器	aeroplane
+0170	raise	を上げる；を育てる	提高；养育	boost
+0171	tend	傾向がある	倾向于	be prone
+0172	spread	を広げる，広める	扩展；传播	scatter
+0173	mine	鉱山	矿山	pit
+0174	search	捜す；探る	寻找；搜寻	look
+0175	detail	詳細；細部	细节	particulars
+0176	track	の跡を追う	追踪	follow
+0177	pointed	先のとがった	尖的	acute
+0178	suitable	適した	合适的	appropriate
+0179	client	依頼人；顧客	委托人；客户	customer
+0180	content	中身；内容	内容；里面的东西	substance
+0181	immediate	即座の；すぐ隣の	立即的；紧邻的	instantaneous
+0182	attitude	態度，物腰	态度；举止	behaviour
+0183	profit	利益，もうけ；収益	利润；收益	gain
+0184	sufficient	十分な	足够的	adequate
+0185	democratic	民主主義の	民主的	parliamentary
+0186	conflict	争い，闘争	冲突；争斗	clash
+0187	focus	焦点を絞る	集中注意力	concentrate
+0188	crisis	危機，難局	危机	emergency
+0189	ought	〈ought to do で〉ぜひ〜すべきだ	应该	should
+0190	opposite	反対の，逆の	相反的	contrary
+0191	capacity	能力，才能；収容能力	能力；容量	ability
+0192	recognition	評価；認識；見覚え	认可；认识；认出	acclaim
+0193	absence	不在；欠席	不在；缺席	lack
+0194	totally	全く，完全に	完全地	completely
+0195	absolutely	全く，完全に	完全地	utterly
+0196	critical	批判的な；重大な	批评的；重大的	negative
+0197	necessarily	必然的に；〈否定文で〉必ずしも	必然地；一定	inevitably
+0198	elsewhere	他のところで	在别处	somewhere else
+0199	murder	殺人（事件）	谋杀	killing
+0200	prove	を証明する	证明	verify
+0201	familiar	よく知られている；おなじみの	熟悉的	well-known
+0202	threat	脅威；脅迫	威胁	menace
+0203	ideal	理想的な	理想的	perfect
+0204	occur	起こる；心に浮かぶ	发生；浮现于脑海	happen
+0205	properly	適切に	适当地	appropriately
+0206	element	要素，成分	要素；成分	component
+0207	violence	暴力；暴行	暴力	brutality
+0208	discuss	について議論する	讨论	debate
+0209	cell	細胞；電池；小個室	细胞；电池；小隔间	tissue
+0210	closely	綿密に；詳細に；厳重に	密切地；仔细地；严密地	carefully
+0211	drawing	線画，素描	素描；图画	sketch
+0212	branch	部門；枝；支店	部门；树枝；分店	division
+0213	maintain	を維持する；と主張する	维持；坚持声称	preserve
+0214	exhibition	展覧会，展示	展览	exposition
+0215	empty	空の；空虚な	空的；空虚的	vacant
+0216	emphasis	強調，重視	强调；重视	stress
+0217	urban	都会の	城市的	city
+0218	seek	を得ようとする；を捜す	寻求；寻找	pursue
+0219	assembly	集会；議会；組み立て	集会；议会；组装	gathering
+0220	audience	聴衆；視聴者	观众；听众	listeners
+0221	desire	を強く望む	强烈希望	wish for
+0222	estate	私有地，地所	私有土地；地产	property
+0223	serve	を果たす；の役に立つ	起作用；服务	perform
+0224	contribution	寄付；貢献	捐赠；贡献	donation
+0225	code	暗号，符号	密码；代码	secret message
+0226	brief	短い，つかの間の	短暂的；简短的	short
+0227	apparent	明白な	明显的	evident
+0228	establish	を確立する；を設立する	确立；建立	create
+0229	tiny	とても小さな；わずかな	极小的	very small
+0230	literature	文学	文学	written works
+0231	faith	信頼；信念	信任；信仰	trust
+0232	broadly	一般的に；広く	一般地；广泛地	generally
+0233	broad	広い；広範囲な	宽广的；广泛的	extensive
+0234	encourage	を励ます；を促す	鼓励；促进	persuade
+0235	lie	位置する；ある；横たわる	位于；存在；躺	be located
+0236	belief	信念；信仰	信念；信仰	faith
+0237	row	列，並び	一排；一列	line
+0238	protect	を保護する	保护	safeguard
+0239	description	説明；描写	说明；描写	explanation
+0240	vital	不可欠な	必不可少的	critical
+0241	pleasure	楽しみ，喜び	快乐；喜悦	delight
+0242	tradition	伝統；慣例	传统；惯例	convention
+0243	criminal	犯罪者；犯人	罪犯	offender
+0244	treaty	条約，協定	条约；协定	agreement
+0245	advance	を促進する；を提案する	促进；提出	further
+0246	identify	を確認する，特定する	确认；识别	recognise
+0247	thin	やせた；薄い	瘦的；薄的	slim
+0248	acid	酸	酸	↔ alkali
+0249	affect	に影響を及ぼす	影响	influence
+0250	minor	重要でない；二流の	不重要的；次要的	less important
+0251	ministry	省	部；政府部门	department
+0252	express	を表現する	表达	articulate
+0253	bound	〈bound for で〉〜行きの	开往…的	going to
+0254	institution	機関，組織	机构；组织	organisation
+0255	principal	主要な	主要的	main
+0256	suit	に合う；にとって都合がよい	适合；对…方便	match
+0257	capable	能力がある	有能力的	able
+0258	stress	を強調する	强调	emphasise
+0259	typical	典型的な	典型的	average
+0260	welfare	幸福；福祉	幸福；福利	well-being
+0261	relative	相対的な	相对的	comparative
+0262	beneath	〜の下に	在…下面	below
+0263	enable	に〜できるようにする	使能够	allow
+0264	spot	を見つける	发现	detect
+0265	meanwhile	その間（に）	与此同时	in the meantime
+0266	charged	帯電した；熱のこもった	带电的；充满感情的	electrified
+0267	entire	全部の	全部的	total
+0268	criticism	批判；批評	批评；评论	censure
+0269	phase	段階，局面	阶段；局面	stage
+0270	explanation	説明，釈明	解释；说明	account
+0271	ship	を発送する；を送る	发送；派遣	send
+0272	significance	重要性；意味	重要性；意义	importance
+0273	injury	傷害，けが	伤害；受伤	wound
+0274	vast	広大な；膨大な	广阔的；庞大的	broad
+0275	revolution	革命	革命	transformation
+0276	rare	珍しい	稀有的	unusual
+0277	severe	厳しい，苛酷な	严厉的；严酷的	harsh
+0278	unlike	〜と異なって，〜と違って	与…不同	in contrast to
+0279	obtain	を得る	获得	get
+0280	settlement	解決；植民；入植地	解决；殖民；定居点	resolution
+0281	somewhat	多少，幾分	有些；稍微	slightly
+0282	represent	を代表する；を表す	代表；表示	symbolise
+0283	mention	に言及する；に触れる	提到	refer to
+0284	thick	密な；厚い	密的；厚的	dense
+0285	permanent	永遠の	永久的	lasting
+0286	contain	を含む	包含	include
+0287	amongst	（場所・物・人）の間で	在…之间	among
+0288	purchase	を購入する	购买	buy
+0289	advertising	広告	广告	promotion
+0290	inner	内部の，奥の	内部的；里面的	interior
+0291	afford	を持つ余裕がある	负担得起	have enough money for
+0292	sum	金額；合計	金额；总和	amount
+0293	religion	宗教	宗教	faith
+0294	temperature	温度；気温	温度；气温	degrees
+0295	struggle	奮闘する	奋斗；挣扎	have difficulty
+0296	store	を蓄える	储存	keep
+0297	author	著者，作者	作者	writer
+0298	odd	変な，奇妙な	奇怪的	strange
+0299	assistance	援助，助力	援助；帮助	aid
+0300	agent	代理人；元になる力	代理人；作用因素	representative
+0301	missing	欠けている；行方不明の	缺少的；失踪的	absent
+0302	republic	共和国	共和国	↔ monarchy
+0303	describe	を述べる；を描写する	叙述；描写	explain
+0304	tone	音色；音質	音色；音质	sound
+0305	moreover	その上，さらに	而且；此外	furthermore
+0306	somehow	何とかして	以某种方式；设法	in some way
+0307	proposal	提案	提议	suggestion
+0308	argue	と主張する；を論じる	主张；论述	contend
+0309	vehicle	乗り物，車；伝達手段	交通工具；传播媒介	automobile
+0310	involve	を含む；を巻き込む	包含；使卷入	include
+0311	diet	日常の食べ物；規定食	日常饮食；规定食谱	food
+0312	soil	土，土壌	土壤	earth
+0313	conduct	を実施する；を伝導する	实施；传导	carry out
+0314	novel	小説	小说	story
+0315	rarely	めったに〜ない	很少	seldom
+0316	guilty	罪悪感のある；有罪の	内疚的；有罪的	sorry
+0317	indicate	を示す，の兆候である	表明；是…的征兆	show
+0318	command	を命令する	命令	order
+0319	assume	と仮定する；を引き受ける	假定；承担	presume
+0320	agricultural	農業の	农业的	farming
+0321	shift	移る；変わる	转移；改变	move
+0322	operate	機能する，作動する	运作；运行	function
+0323	taste	嗜好；風味	喜好；风味	liking
+0324	efficient	能率的な	高效的	effective
+0325	willing	（〜するのを）いとわない	愿意的	ready
+0326	plastic	ビニールの；可塑性の	塑料的；可塑的	synthetic
+0327	remove	を取り除く	去除	eliminate
+0328	emergency	緊急（事態）	紧急情况	crisis
+0329	identity	個性；身元	个性；身份	individuality
+0330	determine	を決定する；を正確に知る	决定；确定	decide
+0331	countryside	田舎，地方	乡村	rural area
+0332	abroad	海外で，国外で	在国外	overseas
+0333	household	世帯，家庭	家庭；住户	family
+0334	split	を分裂させる；を裂く	使分裂；劈开	divide
+0335	constitution	憲法；体質；構成	宪法；体质；构成	fundamental law
+0336	concentration	集中，集結；専心	集中；专注	focusing
+0337	agriculture	農業	农业	farming
+0338	firmly	堅く，しっかりと	牢固地；坚决地	securely
+0339	overseas	海外へ［に］	在海外；到海外	abroad
+0340	victim	犠牲（者），被害者	牺牲者；受害人	casualty
+0341	temporary	一時的な，臨時の	临时的	brief
+0342	reflect	を反射する；を反映する	反射；反映	mirror
+0343	refer	言及する；（〜と）呼ぶ	提及；称作	mention
+0344	wealth	富，財産	财富	riches
+0345	foundation	基礎，土台	基础	base
+0346	bush	森林地；低木	灌木；荒野	wilderness
+0347	keen	熱心な；鋭敏な	热心的；敏锐的	eager
+0348	representative	代表的な，典型的な	有代表性的；典型的	typical
+0349	publication	出版；公表	出版；公布	publishing
+0350	offence	違反；犯罪	违法行为；犯罪	violation
+0351	decade	10年間	十年	ten years
+0352	handle	を扱う；に対処する	处理；应对	manage
+0353	panel	委員団；審査員団；計器盤	委员会；评审团；仪表盘	committee
+0354	reputation	評価，評判	名声；声誉	fame
+0355	efficiency	能率，有能さ	效率；能力	effectiveness
+0356	examine	を検査［調査］する	检查；调查	inspect
+0357	incident	出来事；事件	事件	event
+0358	extreme	極度の	极端的	severe
+0359	resistance	抵抗，反抗	抵抗	opposition
+0360	admit	を認める；を中に入れる	承认；准许进入	acknowledge
+0361	essentially	本質的に	本质上	basically
+0362	gradually	徐々に	逐渐地	slowly
+0363	empire	帝国	帝国	kingdom
+0364	defeat	を負かす	击败	beat
+0365	sensitive	敏感な；神経質な；微妙な	敏感的；神经质的；微妙的	delicate
+0366	notion	概念，考え	概念；想法	concept
+0367	solid	固体の	固体的	firm
+0368	chest	胸；大箱	胸部；大箱子	breast
+0369	awareness	気付いていること，意識	意识	consciousness
+0370	pop	急に現れる	突然出现	appear
+0371	protest	抗議する	抗议	object
+0372	nearby	すぐ近くの	附近的	adjacent
+0373	remarkable	注目に値する，著しい	值得注意的；显著的	extraordinary
+0374	respond	反応する；応える	反应；回应	react
+0375	introduce	を導入する；を紹介する	引入；介绍	launch
+0376	aside	脇に，傍らに	在旁边	to the side
+0377	depend	頼る；（〜）次第である	依赖；取决于	rely
+0378	rent	家賃；賃貸料	房租；租金	fee
+0379	survive	生き残る；存在し続ける	幸存；继续存在	not die
+0380	rough	粗い；大ざっぱな	粗糙的；大致的	coarse
+0381	parallel	類似した；平行の	类似的；平行的	similar
+0382	suffer	苦しむ，悩む	受苦	endure
+0383	intelligence	知能；秘密情報	智力；情报	intellect
+0384	apart	離れて	分开地	away
+0385	consequence	結果，成り行き	结果	result
+0386	visual	視覚の	视觉的	optical
+0387	stable	安定した	稳定的	steady
+0388	fault	責任；欠陥	责任；缺陷	responsibility
+0389	classic	典型的な；第一級の	典型的；一流的	typical
+0390	priority	優先（事項）	优先事项	precedence
+0391	replace	に取って代わる	取代	displace
+0392	coach	大型バス；コーチ	长途汽车；教练	bus
+0393	mere	ほんの，単なる	仅仅的	trivial
+0394	fail	失敗する；落第する	失败；不及格	↔ succeed
+0395	literary	文学の	文学的	written
+0396	comparison	比較；対比；類似	比较；对比	weighing up
+0397	preparation	準備，支度	准备	arrangements
+0398	pale	（色が）薄い；青ざめた	颜色淡的；苍白的	light-coloured
+0399	promotion	促進；昇進	促进；晋升	fostering
+0400	disabled	身体［心身］障害の	有残障的	handicapped
+0401	comfort	快適さ，心地良さ	舒适	ease
+0402	landscape	眺め，風景	风景	scenery
+0403	arrangement	準備；取り決め；配置	准备；安排；布置	preparation
+0404	judgement	判断，判定；審査；見解	判断；评审；见解	decision
+0405	wage	賃金，給料	工资	pay
+0406	classical	古典的な；正統（派）の	古典的；正统的	traditional
+0407	mixture	混合物	混合物	combination
+0408	tension	緊張，不安；緊張関係	紧张；紧张关系	strain
+0409	permission	許可，認可	许可	consent
+0410	presentation	提出，提示	提交；展示	submission
+0411	affair	事柄；関心事	事情；关心之事	matter
+0412	roll	転がる	滚动	turn
+0413	delay	を延期する	推迟	postpone
+0414	hang	を掛ける，つり下げる	悬挂	put up
+0415	confident	確信して；自信がある	确信的；自信的	sure
+0416	promote	を促進する；を昇進させる	促进；使晋升	foster
+0417	perform	を行う；を演じる	进行；表演	do
+0418	prize	賞；賞金	奖；奖金	award
+0419	altogether	全く，完全に	完全地	completely
+0420	feed	餌を食べる	吃食；进食	eat
+0421	experiment	実験，試験	实验	test
+0422	employee	従業員	雇员	worker
+0423	extend	を伸ばす，延長する	延伸；延长	lengthen
+0424	host	主人（役）；開催者［地］	主人；主办方	↔ guest
+0425	recall	を思い出す	回想起	remember
+0426	load	荷，積み荷	负荷；装载的货物	freight
+0427	territory	領土；領域；縄張り	领土；领域	area
+0428	definitely	明確に，はっきりと	明确地；肯定地	certainly
+0429	proud	誇りに思って	自豪的	very pleased
+0430	upset	を動揺させる	使心烦；使动摇	disturb
+0431	blame	を責める	责备	criticise
+0432	profession	職業，専門職	职业；专业	career
+0433	ease	たやすさ，平易さ	容易；轻松	↔ difficulty
+0434	poverty	貧乏，貧困	贫穷	hardship
+0435	characteristic	特徴，特性	特征	feature
+0436	sake	ため，目的，理由	目的；缘故	benefit
+0437	complicated	複雑な	复杂的	complex
+0438	dominant	支配的な	支配的；占优势的	main
+0439	constantly	絶えず，常に	不断地；总是	always
+0440	vary	異なる，さまざまである	不同；变化	differ
+0441	depth	深さ；奥行き	深度	deepness
+0442	crew	一団；乗組員全員	全体船员；一组工作人员	team
+0443	conscious	意識して；意識のある	意识到的；清醒的	aware
+0444	intellectual	知性の；知的な	智力的；有知识的	mental
+0445	loose	しっかり留まっていない	未固定的；松的	unfixed
+0446	bomb	爆弾	炸弹	explosive
+0447	holy	神聖な	神圣的	sacred
+0448	anxious	心配して；切望して	担心的；渴望的	worried
+0449	guard	を保護する；を見張る	保护；看守	protect
+0450	impressive	印象的な	令人印象深刻的	striking
+0451	exception	例外	例外	rarity
+0452	nervous	不安な；神経質な	不安的；神经质的	anxious
+0453	fee	料金；報酬	费用；报酬	charge
+0454	tendency	傾向，風潮	趋势；倾向	trend
+0455	accurate	正確な；的確な	准确的	precise
+0456	harm	害；不都合	伤害；害处	damage
+0457	origin	起源；源	起源	source
+0458	gift	才能；贈り物	才能；礼物	ability
+0459	suspect	思う；ではないかと思う	怀疑；猜想	think
+0460	bond	絆，縁	纽带；联系	tie
+0461	enthusiasm	熱狂；熱心	热情	passion
+0462	spare	予備の	备用的	extra
+0463	extraordinary	異常な；並外れた	异常的；非凡的	unusual
+0464	leisure	余暇	空闲时间	free time
+0465	visible	可視の	可见的	perceptible
+0466	device	装置，仕掛け	装置	instrument
+0467	remote	遠い，離れた	遥远的	faraway
+0468	confusion	混乱；無秩序	混乱	chaos
+0469	steady	安定した	稳定的	consistent
+0470	stolen	盗まれた	被偷的	purloined
+0471	column	円柱；縦列；欄	柱；纵列；栏目	pillar
+0472	calm	冷静な；穏やかな	冷静的；平静的	serene
+0473	climate	気候	气候	weather patterns
+0474	evil	邪悪な	邪恶的	wicked
+0475	distant	遠い，離れた	遥远的	faraway
+0476	disaster	災害；災難	灾害；灾难	catastrophe
+0477	satisfaction	満足；喜び	满足；喜悦	contentment
+0478	string	ひも，糸	细绳；线	cord
+0479	gentle	優しい；穏やかな	温柔的；平和的	kind
+0480	childhood	幼児期	童年	youth
+0481	delighted	非常に喜んで	非常高兴的	pleased
+0482	poetry	詩，韻文	诗；韵文	poems
+0483	expense	費用，支出	费用；支出	cost
+0484	bet	を賭ける；請け合う	打赌；保证	gamble
+0485	complain	不平［苦情］を言う	抱怨	protest
+0486	sensible	良識のある，賢明な	明智的；有判断力的	reasonable
+0487	rely	頼る，依存する；信頼する	依赖；信赖	depend
+0488	export	を輸出する	出口	↔ import
+0489	honour	名誉；体面	荣誉；体面	prestige
+0490	reserve	を予約する	预订	book
+0491	overcome	を克服する	克服	conquer
+0492	silly	愚かな	愚蠢的	foolish
+0493	estimate	を見積もる	估计	assess
+0494	proof	証拠，証明；立証	证据；证明	evidence
+0495	deaf	耳が聞こえない	失聪的	hearing-impaired
+0496	grateful	感謝している	感激的	thankful
+0497	dozen	ダース	一打；十二个	twelve
+0498	paragraph	段落，節	段落	section
+0499	resources	資源；方策；機知	资源；办法；机智	reserves
+0500	trend	傾向，動向	趋势	tendency
+0501	hunt	を狩る	打猎	pursue
+0502	instrument	道具；楽器	工具；乐器	tool
+0503	psychology	心理；心理学	心理；心理学	mind
+0504	native	特有の，原産の	特有的；原产的	indigenous
+0505	confirm	を確認する	确认	verify
+0506	anxiety	不安，懸念	焦虑；担忧	worry
+0507	appreciate	を正当に評価する	欣赏；正确评价	value
+0508	pleasant	快い，楽しい	令人愉快的	agreeable
+0509	relate	を関連づける	使相关联	connect
+0510	universal	普遍的な	普遍的	general
+0511	rid	から取り除く	去除	remove
+0512	consciousness	意識，正気	意识；清醒	awareness
+0513	commonly	一般（的）に，普通に	一般地；通常	normally
+0514	purely	純粋に；単に	纯粹地；仅仅	completely
+0515	universe	宇宙；森羅万象	宇宙	cosmos
+0516	attract	を引き寄せる	吸引	draw
+0517	stream	水流；小川	水流；小溪	current
+0518	excitement	興奮；騒ぎ	兴奋；骚动	enthusiasm
+0519	settle	を解決する；に移り住む	解决；定居	resolve
+0520	layer	層；重ね	层	covering
+0521	wheel	車輪；（車の）ハンドル	轮子；方向盘	ring
+0522	platform	高い足場；壇	平台；讲台	stage
+0523	schedule	予定，計画	日程；计划	timetable
+0524	creative	独創的な	有创造力的	imaginative
+0525	innocent	無罪の；無邪気な	无罪的；天真的	guiltless
+0526	evolution	進化；発達	进化；发展	development
+0527	stretch	を伸ばす；を引き延ばす	伸展；拉长	extend
+0528	besides	その上，しかも	此外	moreover
+0529	adopt	を採用する；を養子にする	采用；收养	embrace
+0530	burst	爆発する；破裂する	爆炸；破裂	explode
+0531	lock	に鍵を掛ける	锁上	bolt
+0532	carbon	炭素；二酸化炭素	碳；二氧化碳	the element C
+0533	liquid	液体	液体	fluid
+0534	regarding	〜に関して	关于	about
+0535	glance	ちらりと見る	瞥一眼	glimpse
+0536	angle	観点；角度；角	角度；观点	perspective
+0537	crash	衝突する；墜落する	碰撞；坠毁	collide
+0538	grace	優美，優雅	优美；优雅	elegance
+0539	frequent	頻繁な	频繁的	continual
+0540	packed	満員の；満載の	挤满的；装满的	crowded
+0541	grammar	文法	语法	syntax
+0542	ignore	を無視する	忽视	neglect
+0543	raw	生の；加工していない	生的；未经加工的	uncooked
+0544	machinery	機械（類）	机械	equipment
+0545	refuse	を断る，拒む	拒绝	reject
+0546	witness	を目撃する	目击	observe
+0547	manual	肉体労働の；手の	体力劳动的；手工的	physical
+0548	landing	着陸；上陸	着陆；登陆	touchdown
+0549	informal	形式ばらない；非公式の	非正式的；随意的	casual
+0550	demonstrate	を論証する，証明する	论证；证明	show
+0551	demanding	骨の折れる，きつい	费力的；要求高的	hard
+0552	quantity	量	量	amount
+0553	announcement	発表；告知	宣布；通知	notification
+0554	savings	貯金	储蓄	assets
+0555	flesh	肉；肉体	肉；肉体	body
+0556	persuade	を説得する	说服	convince
+0557	dawn	夜明け	黎明	sunrise
+0558	undoubtedly	確かに	无疑地	certainly
+0559	loud	うるさい；大声の	吵闹的；大声的	noisy
+0560	heaven	天国，極楽	天堂	paradise
+0561	bother	を悩ます	使烦恼	annoy
+0562	reverse	反対の，逆の	相反的	opposite
+0563	composition	構成；作曲；作文	构成；作曲；作文	makeup
+0564	pupil	生徒；弟子	学生；弟子	student
+0565	governor	知事；総督	州长；总督	ruler
+0566	tongue	言語；舌	语言；舌头	language
+0567	roughly	おおよそ，大体；手荒に	大约；粗暴地	about
+0568	rush	急いで行く，急いでやる	赶忙；匆忙做	hurry
+0569	instruction	指示；教育	指示；教育	direction
+0570	breathing	呼吸，息遣い	呼吸	respiration
+0571	repair	を修理する	修理	fix
+0572	farming	農場経営，農業	农业；农场经营	agriculture
+0573	generous	気前の良い，寛大な	慷慨的；宽大的	liberal
+0574	asleep	眠って	睡着的	sleeping
+0575	bare	裸の；露出した；飾らない	裸露的；无遮盖的	naked
+0576	exact	正確な	准确的	precise
+0577	explore	を探検する；を調査する	探险；调查	investigate
+0578	staff	全職員	全体职员	employees
+0579	arrange	を取り決める；を配置する	安排；布置	organise
+0580	occupation	職業，仕事	职业	job
+0581	wherever	〜する所はどこでも	无论哪里	in any place
+0582	ceiling	上限；天井	上限；天花板	maximum
+0583	passion	熱情，情熱	激情；热情	fervour
+0584	shell	貝殻；殻；甲羅；さや	贝壳；外壳	outside
+0585	fancy	高級な；装飾的な	高档的；装饰性的	luxurious
+0586	substance	物質；趣旨；実質；意義	物质；主旨；实质	material
+0587	abstract	抽象的な；理論的な	抽象的；理论的	↔ concrete
+0588	perception	知覚，認識	知觉；认识	awareness
+0589	lawyer	弁護士	律师	attorney
+0590	arrest	を逮捕する	逮捕	apprehend
+0591	trace	跡，痕跡	痕迹	sign
+0592	trousers	ズボン	裤子	pants
+0593	fate	運命	命运	destiny
+0594	deliver	を配達する；を伝える	递送；传达	bring
+0595	emperor	皇帝；天皇	皇帝；天皇	ruler
+0596	succeed	を継ぐ；に続く	继承；接替	take over from
+0597	pat	を軽くたたく	轻拍	tap
+0598	curious	好奇心の強い；奇妙な	好奇的；奇怪的	nosy
+0599	ray	光線，光	光线	beam
+0600	urgent	切迫した，緊急の	紧急的	pressing
+0601	folk	一般の人々	一般人；民众	people
+0602	desert	砂漠	沙漠	arid land
+0603	recognise	を認める；に見覚えがある	承认；认出	identify
+0604	grave	重大な，ひどい	严重的	serious
+0605	laughter	笑い；笑い声	笑；笑声	chuckling
+0606	sympathy	同情；共感	同情；共鸣	compassion
+0607	everyday	日常の；日々の	日常的	ordinary
+0608	addition	付加，追加	增加；添加	supplement
+0609	anniversary	（毎年の）記念日，記念祭	周年纪念日	commemoration
+0610	craft	技巧；（手先の）作業	技艺；手工	skill
+0611	fortune	富；大金	财富；大笔钱财	wealth
+0612	talent	才能，素質	才能	gift
+0613	strict	厳格な；厳密な	严格的；严密的	rigorous
+0614	tap	蛇口	水龙头	valve
+0615	funeral	葬式，葬儀	葬礼	last farewell
+0616	wound	傷，負傷	伤口；受伤	injury
+0617	dare	思い切って〜する	敢于	venture
+0618	emerge	現れる	出现	appear
+0619	intend	を意図する	打算；意图	mean
+0620	courage	勇気，度胸	勇气	bravery
+0621	unexpected	思いがけない，意外な	意外的	unforeseen
+0622	divorce	離婚；分離	离婚；分离	breakup
+0623	navy	海軍；濃紺色	海军；深蓝色	fleet
+0624	wildlife	野生生物	野生生物	wild animals
+0625	discrimination	差別	歧视	prejudice
+0626	shame	恥，恥ずかしさ	羞耻	disgrace
+0627	recover	を取り戻す	取回；恢复	retrieve
+0628	convenient	便利な，都合のいい	方便的	handy
+0629	biological	生物学の	生物学的	biotic
+0630	warmth	暖かさ	温暖	heat
+0631	earn	を稼ぐ；を得る	赚取；获得	be paid
+0632	clerk	事務員，行員	办事员；银行职员	office worker
+0633	mechanical	機械の；機械的な	机械的	automatic
+0634	destroy	を破壊する	破坏	devastate
+0635	tube	管，筒；地下鉄	管；筒；地铁	pipe
+0636	reward	報酬，報償	报酬；奖励	remuneration
+0637	weapon	武器，兵器	武器	arms
+0638	literally	文字通り	按字面意思；确实	↔ figuratively
+0639	strip	細長い一片	狭长的一片	narrow piece
+0640	satisfy	を満足させる	使满意	please
+0641	corridor	廊下，回廊	走廊	passage
+0642	compete	競う，競争する	竞争	contend
+0643	breed	繁殖する	繁殖	reproduce
+0644	solve	を解く，解明する	解决；解答	work out
+0645	delight	大喜び	大喜	joy
+0646	naked	裸の；むき出しの；裸眼の	裸露的；赤裸的	bare
+0647	carriage	四輪馬車	四轮马车	coach
+0648	pity	哀れみ，同情；残念なこと	怜悯；遗憾	compassion
+0649	oxygen	酸素	氧气	the element O
+0650	pan	平鍋	平底锅	pot
+0651	fool	をだます	欺骗	deceive
+0652	intelligent	知能の高い，聡明な	聪明的	clever
+0653	outline	概略；輪郭	概要；轮廓	summary
+0654	physics	物理学	物理学	physical science
+0655	invitation	招待；誘い	邀请	request
+0656	penny	ペニー，ペンス	便士	cent
+0657	mate	つがう，交尾する	交配	breed
+0658	pence	penny の複数	便士的复数形式	cents
+0659	underneath	〜の下に	在…下面	below
+0660	complaint	不平，苦情；（重くない）病気	抱怨；轻微疾病	protest
+0661	differ	違う，異なる	不同	vary
+0662	merchant	商人，卸売商	商人；批发商	dealer
+0663	creature	生き物；動物	生物；动物	animal
+0664	essence	本質；真髄	本质；精髓	core
+0665	recommend	を推薦する，勧める	推荐；建议	advise
+0666	necessity	必要，必要性	必要；必要性	requirement
+0667	triumph	勝利，成功	胜利；成功	victory
+0668	bike	自転車	自行车	bicycle
+0669	luxury	ぜいたく	奢侈	extravagance
+0670	pile	積み重ねた山，堆積	一堆；堆积物	heap
+0671	nursery	託児所	托儿所	day care centre
+0672	muscle	筋力；力；筋肉	肌肉；力气	power
+0673	divide	を分割する	分割	split
+0674	crack	ひびが入る，砕ける	裂开；破裂	break
+0675	dull	退屈な，単調な	乏味的；单调的	boring
+0676	dealer	販売人，業者	经销商	trader
+0677	smart	利口な，賢い	聪明的	clever
+0678	soldier	軍人，兵隊	士兵	fighter
+0679	precious	高価な；貴重な	贵重的；珍贵的	valuable
+0680	nasty	不快な，迷惑な	令人不快的	unpleasant
+0681	participate	参加する	参加	take part in
+0682	combine	を組み合わせる	组合	mix
+0683	portrait	肖像（画），人物写真	肖像；人物照片	picture
+0684	employ	を雇う；を用いる	雇用；使用	hire
+0685	mount	増す；高まる	增加；升高	increase
+0686	remind	に思い出させる	使想起	help remember
+0687	chart	図；グラフ	图表	graphic
+0688	weakness	弱さ；弱点	弱点；虚弱	flaw
+0689	delicate	壊れやすい；微妙な	易碎的；微妙的	fragile
+0690	hire	を雇う；を賃借りする	雇用；租用	employ
+0691	manufacture	を製造する	制造	produce
+0692	infant	乳児，赤ん坊	婴儿	baby
+0693	forth	前へ，先へ	向前	forward
+0694	splendid	素晴らしい，見事な	极好的	magnificent
+0695	restore	を回復する；を復活させる	恢复	bring back
+0696	fascinating	魅惑的な	迷人的	appealing
+0697	trap	わな；計略	陷阱；计谋	trick
+0698	ambulance	救急車	救护车	rescue vehicle
+0699	crop	作物，収穫物	庄稼；收获物	harvest
+0700	neat	きちんとした，整頓された	整洁的	tidy
+0701	explosion	爆発，破裂	爆炸	blast
+0702	observe	を観察する；と述べる	观察；陈述	watch
+0703	patch	継ぎ，継ぎ切れ	补丁	piece of cloth
+0704	permit	を許す，許可する	允许	allow
+0705	seed	種，種子	种子	germ
+0706	geography	地理；地理学	地理；地理学	natural features
+0707	disorder	混乱，乱雑	混乱	confusion
+0708	breast	乳房；胸	乳房；胸部	chest
+0709	insist	を強く主張する，言い張る	坚持声称	assert
+0710	fortunately	幸運にも	幸运地	luckily
+0711	horrible	恐ろしい	可怕的	terrible
+0712	stroke	脳卒中；発作	中风；发作	seizure
+0713	praise	を褒める，称賛する	称赞	compliment
+0714	avenue	大通り，街路	大街	street
+0715	continent	大陸	大陆	landmass
+0716	absent	不在の；欠けた	缺席的；缺少的	missing
+0717	detective	刑事	侦探	investigator
+0718	prevention	防止，予防	预防	avoidance
+0719	tune	曲，楽曲	曲调	melody
+0720	reject	を拒否する	拒绝	refuse
+0721	promising	有望な	有前途的	hopeful
+0722	possess	を所持している	拥有	have
+0723	memorial	記念（物），記念碑	纪念物；纪念碑	monument
+0724	trick	策略；いたずら；こつ	计谋；恶作剧；诀窍	ploy
+0725	cliff	崖，絶壁	悬崖	bluff
+0726	flood	洪水，氾濫	洪水	deluge
+0727	cure	を治す，治癒させる	治愈	remedy
+0728	disappointment	失望，落胆	失望	dismay
+0729	seldom	めったに〜ない	很少	rarely
+0730	inform	に通知する	通知	notify
+0731	rob	から強奪する	抢劫	steal
+0732	bore	を退屈させる；（穴）をあける	使无聊；钻孔	tire
+0733	vague	曖昧な	模糊的	unclear
+0734	margin	余白，欄外；差；利ざや	页边空白；差额；利润	edge
+0735	neighbourhood	近所，近隣	附近；街区	vicinity
+0736	chase	を追跡する	追赶	pursue
+0737	nest	巣；ねぐら	巢	shelter
+0738	racial	人種の	种族的	ethnic
+0739	despair	絶望，失望	绝望	hopelessness
+0740	alike	似ている	相似的	similar
+0741	fix	を修理する；を固定する	修理；固定	repair
+0742	bow	おじぎする	鞠躬	greet
+0743	hook	かぎ針；留め金	钩；搭扣	peg
+0744	embarrassed	ばつの悪い	尴尬的	ashamed
+0745	diversity	多様性	多样性	variety
+0746	meantime	その間	其间	meanwhile
+0747	celebrate	を祝う	庆祝	commemorate
+0748	import	を輸入する	进口	bring in
+0749	nightmare	恐ろしい出来事；悪夢	可怕的事；噩梦	horrific event
+0750	shelf	棚，棚板	架子	rack
+0751	sensation	感覚，知覚	感觉	feeling
+0752	liberty	自由；解放	自由；解放	freedom
+0753	practically	ほとんど；事実上	几乎；实际上	virtually
+0754	dreadful	ひどく悪い；はなはだしい	极坏的；可怕的	terrible
+0755	charm	魅力	魅力	appeal
+0756	coffin	棺，ひつぎ	棺材	casket
+0757	cupboard	食器棚	橱柜	cabinet
+0758	rod	棒，さお	杆；棒	bar
+0759	eager	熱望して；熱心な	渴望的；热心的	enthusiastic
+0760	collar	襟，カラー	衣领	neckband
+0761	sword	剣，刀	剑；刀	blade
+0762	flash	閃光；ひらめき	闪光；灵光	spark
+0763	loyal	忠実な	忠诚的	faithful
+0764	wealthy	富裕な	富有的	rich
+0765	migration	移住；移動，渡り，回遊	迁移；迁徙	movement
+0766	cruel	残酷な	残酷的	brutal
+0767	organ	器官，臓器	器官	body part
+0768	horizon	地平線，水平線	地平线	skyline
+0769	nerve	度胸；神経	胆量；神经	confidence
+0770	ambition	野心；野望	野心；抱负	aspiration
+0771	ugly	醜い	丑陋的	unattractive
+0772	forgive	を許す	原谅	pardon
+0773	bend	を曲げる	弯曲	curve
+0774	envelope	封筒	信封	cover
+0775	neatly	きちんと	整齐地	tidily
+0776	masses	〈the 〜〉一般大衆，庶民	大众	the public
+0777	ladder	はしご	梯子	steps
+0778	chat	おしゃべり，雑談	闲聊	conversation
+0779	bold	大胆な	大胆的	fearless
+0780	burnt	焼けた，焦げた	烧过的；烧焦的	scorched
+0781	useless	役に立たない	无用的	worthless
+0782	lap	膝の上	大腿上；膝上	thighs
+0783	lend	を貸す	借出	loan
+0784	deserve	に値する	值得	merit
+0785	jail	刑務所，監獄	监狱	prison
+0786	restriction	制限；規制	限制；管制	limitation
+0787	defensive	防御［防衛］の；守備の	防御的	protective
+0788	palm	手のひら	手掌	hand
+0789	summit	頂上；首脳会議；絶頂	顶峰；峰会	peak
+0790	pretend	のふりをする	假装	fake
+0791	surroundings	周囲の状況	周围环境	environment
+0792	pour	を注ぐ，つぐ	倒；灌	stream
+0793	needle	針	针	pin
+0794	celebration	祝賀；祝典	庆祝；典礼	party
+0795	owe	の恩恵をこうむる	受惠于；欠	be indebted
+0796	lean	傾く	倾斜	tilt
+0797	temper	気質，気性	脾气	character
+0798	coin	を造語する；を鋳造する	创造新词；铸造	create
+0799	humanity	人類；人間性	人类；人性	mankind
+0800	mineral	鉱物；ミネラル	矿物	inorganic substance
+0801	bunch	束；房	束；串	group
+0802	neglect	をおろそかにする	忽视	ignore
+0803	forehead	額，前頭部	额头	brow
+0804	recipe	調理法	食谱；烹饪法	formula
+0805	patience	忍耐，辛抱	耐心	tolerance
+0806	twist	をより合わせる；をねじる	绞合；扭曲	turn
+0807	packet	小箱；包み	小包	package
+0808	fetch	を持って来る	拿来	bring
+0809	receipt	領収書；受領	收据；接收	sales slip
+0810	assignment	任務；課題	任务；作业	task
+0811	fry	を油で焼く	油煎	cook
+0812	miserable	惨めな；悲惨な	悲惨的	sad
+0813	ambassador	大使	大使	diplomat
+0814	tear	を裂く，破る	撕裂	rip
+0815	warn	に警告する	警告	alert
+0816	grin	にこっと笑う	咧嘴笑	smile
+0817	fond	大好きである	喜爱的	in love
+0818	graduate	卒業する	毕业	finish
+0819	hunger	飢え，空腹	饥饿	starvation
+0820	bride	花嫁，新婦	新娘	newly-wed
+0821	cheerful	陽気な	愉快的	happy
+0822	knit	を編む；を結び付ける	编织；结合	weave
+0823	sigh	ため息をつく	叹气	exhale
+0824	signature	署名	签名	handwritten name
+0825	breathe	呼吸する	呼吸	respire
+0826	instinct	本能	本能	intuition
+0827	pose	を引き起こす，提起する	引起；提出	present
+0828	fur	柔毛；毛皮	软毛；毛皮	pelt
+0829	politician	政治家	政治家	legislator
+0830	fever	熱，発熱	发热	temperature
+0831	dig	を掘る；を掘り出す	挖掘	excavate
+0832	approve	を承認する	批准	authorise
+0833	ashamed	恥じて	羞愧的	embarrassed
+0834	flour	小麦粉	面粉	wheat powder
+0835	appoint	を任命する	任命	name
+0836	arrow	矢印；矢	箭头；箭	cursor
+0837	occupy	を占領する；を占める	占领；占据	capture
+0838	sack	大袋；袋	大袋	bag
+0839	lid	ふた	盖子	cap
+0840	sweep	に急速に広まる	迅速传播	spread through
+0841	fare	運賃	车费	charge
+0842	horn	角；触角	角；触角	antler
+0843	cage	鳥かご；おり	笼子	pen
+0844	wheat	小麦	小麦	cereal
+0845	dirt	汚れ，泥	污垢；泥土	stain
+0846	maths	数学	数学	mathematics
+0847	researcher	研究者	研究者	investigator
+0848	dislike	嫌悪，反感；〈〜s〉嫌いなもの	厌恶；不喜欢的事物	hate
+0849	scream	叫び声を上げる	尖叫	cry out
+0850	rude	無礼な	无礼的	impolite
+0851	treasure	財宝，宝物	财宝	valuables
+0852	cruise	船旅をする	乘船旅行	sail
+0853	aloud	声に出して	出声地	orally
+0854	portable	移動可能な；携帯用の	便携的	mobile
+0855	lung	肺	肺	respiratory organ
+0856	poison	毒，毒薬	毒；毒药	venom
+0857	thread	糸；脈絡	线；脉络	strand
+0858	volunteer	を進んで申し出る	主动提出	offer
+0859	jealous	嫉妬深い；ねたんで	嫉妒的	envious
+0860	fist	握りこぶし	拳头	clenched hand
+0861	float	浮く，浮かぶ	漂浮	drift
+0862	handy	扱いやすい	方便的；易使用的	convenient
+0863	accustomed	慣れている；習慣的な	习惯的	used
+0864	quit	を辞める	辞去	leave
+0865	drawer	引き出し	抽屉	storage space
+0866	slave	奴隷	奴隶	servant without freedom
+0867	threaten	を脅す	威胁	menace
+0868	ruler	支配者；定規	统治者；尺子	leader
+0869	statue	像，彫像	雕像	sculpture
+0870	stuffed	満腹の；詰め物をした	吃饱的；填满的	full
+0871	accompany	に付随する	陪伴；伴随	go with
+0872	bury	を埋める；を埋葬する	埋；埋葬	hide
+0873	beast	動物，獣	野兽	animal
+0874	oppose	に反対する	反对	be against
+0875	sore	（体の一部が）痛い	疼痛的	painful
+0876	fog	霧，濃霧	雾	mist
+0877	beg	を懇願する	恳求	ask for
+0878	swear	を誓う	发誓	vow
+0879	refugee	難民，避難者	难民	exile
+0880	lately	最近，近ごろ	最近	recently
+0881	attach	を添付する；を貼り付ける	附上；贴上	add
+0882	dismiss	を退ける；を解雇する	驳回；解雇	reject
+0883	basement	地階，地下室	地下室	cellar
+0884	lightning	稲光，稲妻	闪电	flash
+0885	helpless	自分では何もできない	无助的	dependent
+0886	trunk	幹，樹幹	树干；躯干	stem
+0887	fairy	妖精	妖精	sprite
+0888	ruin	遺跡；荒廃；破滅	遗迹；荒废；毁灭	remains
+0889	cough	せきをする	咳嗽	hack
+0890	thunder	雷，雷鳴	雷声	crack
+0891	wipe	を拭く	擦拭	clean
+0892	insect	昆虫	昆虫	bug
+0893	denial	否定，否認	否定；否认	refusal
+0894	disagree	不賛成である，反対である	不同意	dissent
+0895	flock	（鳥・ヒツジなどの）群れ	鸟群；羊群	group
+0896	bind	を束縛する；を縛る	捆绑；装订	tie
+0897	whistle	警笛；笛；口笛	哨子；口哨	alarm
+0898	brow	額；まゆ（毛）	额头；眉毛	forehead
+0899	imaginary	想像上の	想象中的	fictitious
+0900	hatch	（ひな・卵が）かえる	孵化	be born
+0901	parcel	小包，小荷物	包裹	package
+0902	monument	記念碑，記念建造物	纪念碑	memorial
+0903	housework	家事	家务	household chores
+0904	glue	接着剤，のり	胶水	adhesive
+0905	sometime	いつか，そのうち	某个时候	someday
+0906	bullet	弾丸，銃弾	子弹	projectile
+0907	painfully	痛ましいほどに；痛そうに	令人痛苦地；痛苦地	bitterly
+0908	wander	歩き回る	漫游	roam
+0909	fountain	噴水；泉	喷泉；泉水	spring
+0910	selfish	利己的な	自私的	egoistic
+0911	weigh	を比較考慮する	权衡	consider
+0912	melt	溶ける	融化	thaw
+0913	entertain	を楽しませる；をもてなす	使快乐；招待	amuse
+0914	rumour	うわさ，風説	传闻	gossip
+0915	attendant	付添人；案内係	陪护人员；服务员	assistant
+0916	jar	広口瓶	广口瓶	pot
+0917	chimney	煙突	烟囱	smokestack
+0918	insult	を侮辱する	侮辱	offend
+0919	backwards	後ろへ	向后	↔ forward(s)
+0920	disappearance	消滅；失踪	消失；失踪	vanishing
+0921	emission	放出，発散	排放；放出	release
+0922	luggage	手荷物	行李	baggage
+0923	sour	酸っぱい	酸的	acidic
+0924	spoil	を駄目にする；を甘やかす	毁坏；宠坏	ruin
+0925	impress	に感銘を与える	给…留下深刻印象	inspire
+0926	hooked	かぎ状の	钩状的	curved
+0927	translate	を翻訳する	翻译	interpret
+0928	puzzle	を悩ます，困らせる	使困惑	perplex
+0929	stove	（オーブン付）ガス台	炉灶	cooker
+0930	bark	ほえる	吠叫	howl
+0931	swell	膨張する；増大する	膨胀；增大	expand
+0932	wallet	財布，札入れ	钱包	purse
+0933	quarrel	口論	争吵	argument
+0934	careless	不注意な	粗心的	thoughtless
+0935	greet	を迎える；に挨拶する	迎接；问候	welcome
+0936	bless	に恵む；を祝福する	赐福；祝福	endow
+0937	scare	を怖がらせる	使害怕	frighten
+0938	roast	を焼く，あぶる	烤；烘	grill
+0939	farther	もっと遠くに	更远地	further
+0940	spill	をこぼす	洒出	slop
+0941	feather	羽；羽毛	羽毛	plume
+0942	crush	を押しつぶす	压碎	squash
+0943	shrug	肩をすくめる	耸肩	raise (one’s) shoulders
+0944	vase	花瓶	花瓶	flower container
+0945	surround	を取り囲む	包围	encircle
+0946	punish	を罰する	惩罚	discipline
+0947	sincere	誠実な；心からの	真诚的	heartfelt
+0948	anyhow	ともかく，いずれにしても	不管怎样	anyway
+0949	interrupt	を遮る；を断つ	打断	disrupt
+0950	reference	推薦状；参考文献	推荐信；参考文献	recommendation
+0951	advert	広告	广告	advertisement
+0952	unite	を統合する	联合；统一	unify
+0953	boast	自慢する，誇る	自夸	brag
+0954	scissors	はさみ	剪刀	pair of knives
+0955	suck	を吸う	吸	draw in
+0956	frighten	をぎょっとさせる	使惊恐	scare
+0957	inspire	を鼓舞する；を喚起する	鼓舞；激起	motivate
+0958	comb	くし	梳子	brush
+0959	vinegar	酢	醋	fermented sour liquid
+0960	tailor	を適合させる	使适合；定制	customise
+0961	invent	を発明する	发明	devise
+0962	eyebrow	眉（毛）	眉毛	brow
+0963	murmur	つぶやき	低语	whisper
+0964	plead	嘆願する	恳求	beg
+0965	courageous	勇気のある	勇敢的	brave
+0966	educate	を教育する	教育	teach
+0967	brilliance	輝き；才気	光辉；才华	brightness
+0968	drown	溺死する	溺亡	die in water
+0969	weep	泣く	哭泣	cry
+0970	immigrant	（外国からの）移民	移民	settler
+0971	mushroom	急成長する	迅速增长	grow rapidly
+0972	saucer	受け皿	茶碟	dish
+0973	offend	の感情を害する	冒犯	upset
+0974	refrigerator	冷蔵庫	冰箱	fridge
+0975	apologise	謝罪する	道歉	say sorry
+0976	anymore	もはや，これ以上	再；不再	any longer
+0977	bravery	勇敢さ	勇敢	courage
+0978	thirsty	喉の渇いた；乾いた	口渴的；干燥的	dehydrated
+0979	shady	日陰の	背阴的	shaded
+0980	atlas	地図帳	地图册	map book
+0981	intentional	意図的な	故意的	deliberate
+0982	tremble	震える	颤抖	shake
+0983	carve	を彫る；を切り分ける	雕刻；切分	sculpt
+0984	kitten	子ネコ	小猫	young cat
+0985	valuables	貴重品	贵重物品	treasures
+0986	yell	叫ぶ，わめく	叫喊	shout
+0987	excite	を興奮させる	使兴奋	thrill
+0988	sightseeing	観光，見物	观光	visiting sites
+0989	hundredth	100分の1；100番目のもの	百分之一；第一百个	1/100
+0990	tale	話，物語	故事	story
+0991	backyard	裏庭	后院	garden
+0992	grandchild	孫	孙辈	grandson, granddaughter
+0993	inhabitant	居住者，住民；棲息動物	居民；栖息动物	resident
+0994	symbolise	を象徴する	象征	represent
+0995	admire	に感嘆する，感心する	钦佩；赞赏	respect
+0996	exclaim	突然叫ぶ	突然喊出	cry out
+0997	well-behaved	行儀の良い	举止得体的	polite
+0998	firefighter	消防士	消防员	fireman
+0999	traffic jam	交通渋滞	交通堵塞	congestion
+1000	civil engineering	土木工学	土木工程	construction technology
